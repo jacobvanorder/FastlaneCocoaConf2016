@@ -1,0 +1,180 @@
+{
+  "cameras": {
+    "brand": "docomo",
+    "camera": [
+      {
+        "id": "sh903i",
+        "name": {
+          "_content": "DoCoMo SH903i"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2186/cameras/50645_model_small_4f3afebdc1.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2186/cameras/50645_model_large_2cdb6a1e5a.jpg"
+          }
+        }
+      },
+      {
+        "id": "so903i",
+        "name": {
+          "_content": "DoCoMo SO903i"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2142/cameras/56150_model_small_68c6388b47.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2142/cameras/56150_model_large_07bbf62997.jpg"
+          }
+        }
+      },
+      {
+        "id": "p905i",
+        "name": {
+          "_content": "DoCoMo P905i"
+        }
+      },
+      {
+        "id": "n905i",
+        "name": {
+          "_content": "DoCoMo N905i"
+        }
+      },
+      {
+        "id": "so905ics",
+        "name": {
+          "_content": "DoCoMo SO905iCS"
+        }
+      },
+      {
+        "id": "so505is",
+        "name": {
+          "_content": "DoCoMo SO505iS"
+        }
+      },
+      {
+        "id": "so902i",
+        "name": {
+          "_content": "DoCoMo SO902i"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2260/cameras/710_model_small_09c099c0cd.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2260/cameras/710_model_large_37b0f39d4c.jpg"
+          }
+        }
+      },
+      {
+        "id": "n903i",
+        "name": {
+          "_content": "DoCoMo N903i"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2101/cameras/54098_model_small_c35f556641.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2101/cameras/54098_model_large_7b8dbd552b.jpg"
+          }
+        }
+      },
+      {
+        "id": "f904i",
+        "name": {
+          "_content": "DoCoMo F904i"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2088/cameras/72157600332111308_model_small_ee06d47c50.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2088/cameras/72157600332111308_model_large_307da893aa.jpg"
+          }
+        }
+      },
+      {
+        "id": "n904i",
+        "name": {
+          "_content": "DoCoMo N904i"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2026/cameras/72157600293152646_model_small_adc8d35929.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2026/cameras/72157600293152646_model_large_ca0fcda056.jpg"
+          }
+        }
+      },
+      {
+        "id": "n506is",
+        "name": {
+          "_content": "DoCoMo N506iS"
+        }
+      },
+      {
+        "id": "d903i",
+        "name": {
+          "_content": "DoCoMo D903i"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2249/cameras/53774_model_small_cf778b0f3e.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2249/cameras/53774_model_large_38cb35b497.jpg"
+          }
+        }
+      },
+      {
+        "id": "f883ies",
+        "name": {
+          "_content": "DoCoMo F883iES"
+        }
+      },
+      {
+        "id": "n703id",
+        "name": {
+          "_content": "DoCoMo N703iD"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2221/cameras/72157600288571091_model_small_98ab497d33.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2221/cameras/72157600288571091_model_large_31d74f31ac.jpg"
+          }
+        }
+      },
+      {
+        "id": "so903itv",
+        "name": {
+          "_content": "DoCoMo SO903iTV"
+        }
+      },
+      {
+        "id": "n900ig",
+        "name": {
+          "_content": "DoCoMo N900iG"
+        }
+      },
+      {
+        "id": "n703imyu",
+        "name": {
+          "_content": "DoCoMo N703imyu"
+        }
+      },
+      {
+        "id": "d904i",
+        "name": {
+          "_content": "DoCoMo D904i"
+        }
+      }
+    ]
+  },
+  "stat": "ok"
+}

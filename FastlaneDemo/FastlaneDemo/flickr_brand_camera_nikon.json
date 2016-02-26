@@ -1,0 +1,4171 @@
+{
+  "cameras": {
+    "brand": "nikon",
+    "camera": [
+      {
+        "id": "d7100",
+        "name": {
+          "_content": "Nikon D7100"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "24.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3.2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDXC, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7053/cameras/72157632833409356_model_small_5b252deb02.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7053/cameras/72157632833409356_model_large_6de176d0d0.jpg"
+          }
+        }
+      },
+      {
+        "id": "d7000",
+        "name": {
+          "_content": "Nikon D7000"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "16.2"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, SDXC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1425/cameras/72157624846412485_model_small_a42574ca6e.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1425/cameras/72157624846412485_model_large_194e38d197.jpg"
+          }
+        }
+      },
+      {
+        "id": "d3200",
+        "name": {
+          "_content": "Nikon D3200"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "24.2"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "SD/SDHC/SDXC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7274/cameras/72157612725155948_model_small_90709276a1.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7274/cameras/72157612725155948_model_large_80dee90f9b.jpg"
+          }
+        }
+      },
+      {
+        "id": "d90",
+        "name": {
+          "_content": "Nikon D90"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.3"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3096/cameras/72157605564604036_model_small_c5feb32b0d.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3096/cameras/72157605564604036_model_large_1854418da6.jpg"
+          }
+        }
+      },
+      {
+        "id": "d3100",
+        "name": {
+          "_content": "Nikon D3100"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "14.2"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDXC, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5208/cameras/72157624637608383_model_small_9b7ffa853d.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5208/cameras/72157624637608383_model_large_5457a1148a.jpg"
+          }
+        }
+      },
+      {
+        "id": "d750",
+        "name": {
+          "_content": "Nikon D750"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "3.2"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7528/cameras/72157647510174616_model_small_9ed90b385b.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7528/cameras/72157647510174616_model_large_d5b7ef6582.jpg"
+          }
+        }
+      },
+      {
+        "id": "d5100",
+        "name": {
+          "_content": "Nikon D5100"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "16.2"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, SDXC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm7.staticflickr.com/6038/cameras/72157626085190547_model_small_f92fd350b1.jpg"
+          },
+          "large": {
+            "_content": "https://farm7.staticflickr.com/6038/cameras/72157626085190547_model_large_c2959bd06f.jpg"
+          }
+        }
+      },
+      {
+        "id": "d800",
+        "name": {
+          "_content": "Nikon D800"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "36.3"
+          },
+          "lcd_screen_size": {
+            "_content": "3.2"
+          },
+          "memory_type": {
+            "_content": "SD/SDHC/SDXC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7193/cameras/54532_model_small_a416be1b5e.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7193/cameras/54532_model_large_705bff9516.jpg"
+          }
+        }
+      },
+      {
+        "id": "d3300",
+        "name": {
+          "_content": "Nikon D3300"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2936/cameras/72157639563966544_model_small_b6ebfc0f42.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2936/cameras/72157639563966544_model_large_aa2f4ec236.jpg"
+          }
+        }
+      },
+      {
+        "id": "d700",
+        "name": {
+          "_content": "Nikon D700"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "CompactFlash, Microdrive"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3156/cameras/8632_model_small_058a648a63.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3156/cameras/8632_model_large_f152755744.jpg"
+          }
+        }
+      },
+      {
+        "id": "d5200",
+        "name": {
+          "_content": "Nikon D5200"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "24.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDXC, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8469/cameras/72157631954817579_model_small_5cdb0717f0.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8469/cameras/72157631954817579_model_large_18b74bf95d.jpg"
+          }
+        }
+      },
+      {
+        "id": "d610",
+        "name": {
+          "_content": "Nikon D610"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "3.2"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5523/cameras/72157636367648484_model_small_a8d90dd9e0.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5523/cameras/72157636367648484_model_large_2642fe3188.jpg"
+          }
+        }
+      },
+      {
+        "id": "d5300",
+        "name": {
+          "_content": "Nikon D5300"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "3.2"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2829/cameras/72157636697987465_model_small_945c0a5452.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2829/cameras/72157636697987465_model_large_0015dc3c74.jpg"
+          }
+        }
+      },
+      {
+        "id": "d810",
+        "name": {
+          "_content": "Nikon D810"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "3.2"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7499/cameras/72157645363282486_model_small_99f2f75453.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7499/cameras/72157645363282486_model_large_77e5518be8.jpg"
+          }
+        }
+      },
+      {
+        "id": "d80",
+        "name": {
+          "_content": "Nikon D80"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/100/cameras/127_model_small_1a48fe9914.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/100/cameras/127_model_large_a550c3dabd.jpg"
+          }
+        }
+      },
+      {
+        "id": "d600",
+        "name": {
+          "_content": "Nikon D600"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "24.3"
+          },
+          "lcd_screen_size": {
+            "_content": "3.2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, SDXC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8451/cameras/72157630059709141_model_small_e6cf8b9515.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8451/cameras/72157630059709141_model_large_87facc6069.jpg"
+          }
+        }
+      },
+      {
+        "id": "d300",
+        "name": {
+          "_content": "Nikon D300"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.3"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "CompactFlash, Microdrive"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2018/cameras/72157603413681170_model_small_1da8889a39.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2018/cameras/72157603413681170_model_large_2ec039248c.jpg"
+          }
+        }
+      },
+      {
+        "id": "d7200",
+        "name": {
+          "_content": "Nikon D7200"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7777/cameras/72157648827530863_model_small_cf984a43c2.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7777/cameras/72157648827530863_model_large_f8a58ef70f.jpg"
+          }
+        }
+      },
+      {
+        "id": "d5000",
+        "name": {
+          "_content": "Nikon D5000"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.3"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2499/cameras/72157616313549248_model_small_90ef0d3033.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2499/cameras/72157616313549248_model_large_6ebb03b213.jpg"
+          }
+        }
+      },
+      {
+        "id": "d3000",
+        "name": {
+          "_content": "Nikon D3000"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10.2"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "SD/SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2665/cameras/72157621906848000_model_small_e437915c68.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2665/cameras/72157621906848000_model_large_44898e6386.jpg"
+          }
+        }
+      },
+      {
+        "id": "d40",
+        "name": {
+          "_content": "Nikon D40"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/113/cameras/54194_model_small_0413593bb0.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/113/cameras/54194_model_large_26759cb6c3.jpg"
+          }
+        }
+      },
+      {
+        "id": "d200",
+        "name": {
+          "_content": "Nikon D200"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "CompactFlash, Microdrive"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/103/cameras/341_model_small_cff9095d00.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/103/cameras/341_model_large_3965cc97b6.jpg"
+          }
+        }
+      },
+      {
+        "id": "d60",
+        "name": {
+          "_content": "Nikon D60"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2035/cameras/72157603797658426_model_small_cb862c737a.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2035/cameras/72157603797658426_model_large_7d7528d1e3.jpg"
+          }
+        }
+      },
+      {
+        "id": "d300s",
+        "name": {
+          "_content": "Nikon D300S"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.3"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "CompactFlash, Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2739/cameras/72157621782301411_model_small_6c14b051e7.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2739/cameras/72157621782301411_model_large_b098f73ee9.jpg"
+          }
+        }
+      },
+      {
+        "id": "d4",
+        "name": {
+          "_content": "Nikon D4"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "16.2"
+          },
+          "lcd_screen_size": {
+            "_content": "3.2"
+          },
+          "memory_type": {
+            "_content": "CompactFlash, QXD"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7065/cameras/72157608893623046_model_small_3e9a67b38c.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7065/cameras/72157608893623046_model_large_f56b79d3ee.jpg"
+          }
+        }
+      },
+      {
+        "id": "d5500",
+        "name": {
+          "_content": "Nikon D5500"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7753/cameras/72157647893367394_model_small_51348a5f7f.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7753/cameras/72157647893367394_model_large_0180c8ecf1.jpg"
+          }
+        }
+      },
+      {
+        "id": "d70",
+        "name": {
+          "_content": "Nikon D70"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6.1"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "CompactFlash, Microdrive"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/102/cameras/20_model_small_910a53fa38.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/102/cameras/20_model_large_24cd01c5c5.jpg"
+          }
+        }
+      },
+      {
+        "id": "d3",
+        "name": {
+          "_content": "Nikon D3"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "CompactFlash, Microdrive"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2108/cameras/72157601682412973_model_small_d145a157f1.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2108/cameras/72157601682412973_model_large_44a9a2e0f5.jpg"
+          }
+        }
+      },
+      {
+        "id": "d800e",
+        "name": {
+          "_content": "Nikon D800E"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "36.3"
+          },
+          "lcd_screen_size": {
+            "_content": "3.2"
+          },
+          "memory_type": {
+            "_content": "CompactFlash, Secure Digital, SDHC, SDXC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7207/cameras/72157629220286135_model_small_2716c4cc76.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7207/cameras/72157629220286135_model_large_1fb6381406.jpg"
+          }
+        }
+      },
+      {
+        "id": "d50",
+        "name": {
+          "_content": "Nikon D50"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/101/cameras/14_model_small_ccc82603c5.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/101/cameras/14_model_large_cd27fa971b.jpg"
+          }
+        }
+      },
+      {
+        "id": "d3s",
+        "name": {
+          "_content": "Nikon D3S"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "2x CompactFlash"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4109/cameras/72157622461855063_model_small_d3231e2626.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4109/cameras/72157622461855063_model_large_b9f1ae6d87.jpg"
+          }
+        }
+      },
+      {
+        "id": "d4s",
+        "name": {
+          "_content": "Nikon D4s"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "3.2"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2924/cameras/72157629119492537_model_small_4e64f81b2f.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2924/cameras/72157629119492537_model_large_a185344338.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_p510",
+        "name": {
+          "_content": "Nikon Coolpix P510"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "16.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, SDXC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8177/cameras/72157629147881441_model_small_7fb4d106a1.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8177/cameras/72157629147881441_model_large_a89ff644d7.jpg"
+          }
+        }
+      },
+      {
+        "id": "d70s",
+        "name": {
+          "_content": "Nikon D70s"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "CompactFlash, Microdrive"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/122/cameras/143_model_small_d809316dc5.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/122/cameras/143_model_large_399115d3d0.jpg"
+          }
+        }
+      },
+      {
+        "id": "d40x",
+        "name": {
+          "_content": "Nikon D40X"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1080/cameras/72157600292946852_model_small_2778deffdc.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1080/cameras/72157600292946852_model_large_6ed461bc23.jpg"
+          }
+        }
+      },
+      {
+        "id": "df",
+        "name": {
+          "_content": "Nikon Df"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "3.2"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3738/cameras/72157637355751893_model_small_1a4e3eeb5e.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3738/cameras/72157637355751893_model_large_a5b89e03c6.jpg"
+          }
+        }
+      },
+      {
+        "id": "d2x",
+        "name": {
+          "_content": "Nikon D2X"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.4"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "CompactFlash, Microdrive"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/113/cameras/82_model_small_e470ce5c0f.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/113/cameras/82_model_large_f012bcb955.jpg"
+          }
+        }
+      },
+      {
+        "id": "d100",
+        "name": {
+          "_content": "Nikon D100"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6.1"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "CompactFlash, Microdrive"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/107/cameras/160_model_small_bc9266935e.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/107/cameras/160_model_large_a47d11eece.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_p520",
+        "name": {
+          "_content": "Nikon Coolpix P520"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "3.2"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2873/cameras/72157632849935496_model_small_a203a65075.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2873/cameras/72157632849935496_model_large_c7e700fd2e.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_p900",
+        "name": {
+          "_content": "Nikon Coolpix P900"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8872/cameras/72157650085289410_model_small_f242630f28.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8872/cameras/72157650085289410_model_large_52a4e73a15.jpg"
+          }
+        }
+      },
+      {
+        "id": "1_j1",
+        "name": {
+          "_content": "Nikon 1 J1"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7187/cameras/72157627605901099_model_small_f820e7a4c8.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7187/cameras/72157627605901099_model_large_a046d4a075.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_p600",
+        "name": {
+          "_content": "Nikon Coolpix P600"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8842/cameras/72157641768673213_model_small_57a9254c5d.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8842/cameras/72157641768673213_model_large_3812bb63b4.jpg"
+          }
+        }
+      },
+      {
+        "id": "p610",
+        "name": {
+          "_content": "Nikon Coolpix P610"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3697/cameras/72157651138677042_model_small_1c9f055b96.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3697/cameras/72157651138677042_model_large_c0308588b5.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_aw110",
+        "name": {
+          "_content": "Nikon Coolpix AW110"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8869/cameras/72157632808855046_model_small_746c360650.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8869/cameras/72157632808855046_model_large_529587cefc.jpg"
+          }
+        }
+      },
+      {
+        "id": "d3x",
+        "name": {
+          "_content": "Nikon D3X"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "24.5"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "CompactFlash, Microdrive"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3658/cameras/72157602125273502_model_small_64fcba10a6.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3658/cameras/72157602125273502_model_large_32d5bda29d.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_l830",
+        "name": {
+          "_content": "Nikon Coolpix L830"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8608/cameras/72157640796745194_model_small_30ab9bd9fe.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8608/cameras/72157640796745194_model_large_2b404ef990.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_l820",
+        "name": {
+          "_content": "Nikon Coolpix L820"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5319/cameras/72157632983307662_model_small_6da6b11f44.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5319/cameras/72157632983307662_model_large_9a32540bc2.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_p500",
+        "name": {
+          "_content": "Nikon Coolpix P500"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5319/cameras/72157626071211049_model_small_f3a300eee2.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5319/cameras/72157626071211049_model_large_7203a15032.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_l120",
+        "name": {
+          "_content": "Nikon Coolpix L120"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5319/cameras/72157626033818663_model_small_35f55de2f6.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5319/cameras/72157626033818663_model_large_3451c827b1.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_p530",
+        "name": {
+          "_content": "Nikon Coolpix P530"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8798/cameras/72157642221880494_model_small_ef60b5747f.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8798/cameras/72157642221880494_model_large_b8da2c8de2.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_aw100",
+        "name": {
+          "_content": "Nikon Coolpix AW100"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "16"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8030/cameras/72157627626105184_model_small_f9fd0c4117.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8030/cameras/72157627626105184_model_large_1196c8a21c.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s3100",
+        "name": {
+          "_content": "Nikon Coolpix S3100"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7209/cameras/72157626043756083_model_small_2f77ed0439.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7209/cameras/72157626043756083_model_large_f4c0678348.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_4300",
+        "name": {
+          "_content": "Nikon Coolpix 4300"
+        }
+      },
+      {
+        "id": "coolpix_l810",
+        "name": {
+          "_content": "Nikon Coolpix L810"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "16.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, SDXC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8310/cameras/72157629147881445_model_small_ed159f75e3.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8310/cameras/72157629147881445_model_large_9abbb965af.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_5700",
+        "name": {
+          "_content": "Nikon Coolpix 5700"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "1.5"
+          },
+          "memory_type": {
+            "_content": "CompactFlash (CF) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/102/cameras/321_model_small_06a35a0fdd.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/102/cameras/321_model_large_bfb66f277a.jpg"
+          }
+        }
+      },
+      {
+        "id": "1_v1",
+        "name": {
+          "_content": "Nikon 1 V1"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7023/cameras/72157627598809921_model_small_6ed1b4f991.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7023/cameras/72157627598809921_model_large_b645e397f9.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s3000",
+        "name": {
+          "_content": "Nikon Coolpix S3000"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5130/cameras/72157623528302428_model_small_8a215e6cf3.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5130/cameras/72157623528302428_model_large_2af9c8268f.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_p100",
+        "name": {
+          "_content": "Nikon Coolpix P100"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10.3"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4146/cameras/72157623411112051_model_small_a61b50f0cf.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4146/cameras/72157623411112051_model_large_23e0ec2469.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s3300",
+        "name": {
+          "_content": "Nikon Coolpix S3300"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "16"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, SDXC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8316/cameras/72157629147881611_model_small_a1a56e69cb.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8316/cameras/72157629147881611_model_large_db1d544c42.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_3100",
+        "name": {
+          "_content": "Nikon Coolpix 3100"
+        }
+      },
+      {
+        "id": "coolpix_p90",
+        "name": {
+          "_content": "Nikon Coolpix P90"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3580/cameras/72157615035517638_model_small_40b51ceae3.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3580/cameras/72157615035517638_model_large_5d96b14129.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_3200",
+        "name": {
+          "_content": "Nikon Coolpix 3200"
+        }
+      },
+      {
+        "id": "coolpix_l110",
+        "name": {
+          "_content": "Nikon Coolpix L110"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4104/cameras/72157623351914042_model_small_b39ea3b1fc.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4104/cameras/72157623351914042_model_large_923490f7c1.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_p300",
+        "name": {
+          "_content": "Nikon Coolpix P300"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.2"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, SDXC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8458/cameras/72157626004366285_model_small_d5972d4351.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8458/cameras/72157626004366285_model_large_c7682ffd38.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_775",
+        "name": {
+          "_content": "Nikon Coolpix 775"
+        }
+      },
+      {
+        "id": "coolpix_995",
+        "name": {
+          "_content": "Nikon Coolpix 995"
+        }
+      },
+      {
+        "id": "coolpix_4600",
+        "name": {
+          "_content": "Nikon Coolpix 4600"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/109/cameras/95_model_small_e965197823.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/109/cameras/95_model_large_9182bea95a.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s8100",
+        "name": {
+          "_content": "Nikon Coolpix S8100"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5083/cameras/72157625103237108_model_small_dc6202cd94.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5083/cameras/72157625103237108_model_large_06b2c5f7f8.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_l330",
+        "name": {
+          "_content": "Nikon Coolpix L330"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8860/cameras/72157641028871173_model_small_ebb5da39ca.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8860/cameras/72157641028871173_model_large_ec01cfc148.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s9100",
+        "name": {
+          "_content": "Nikon Coolpix S9100"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8366/cameras/72157626069597532_model_small_d564f31b78.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8366/cameras/72157626069597532_model_large_b03906948e.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s8200",
+        "name": {
+          "_content": "Nikon Coolpix S8200"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "16.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8177/cameras/72157627525461118_model_small_e748856458.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8177/cameras/72157627525461118_model_large_aa9ef0e797.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s210",
+        "name": {
+          "_content": "Nikon Coolpix S210"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2247/cameras/72157604057023201_model_small_bd0af5f348.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2247/cameras/72157604057023201_model_large_f9c250798b.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_p7000",
+        "name": {
+          "_content": "Nikon Coolpix P7000"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4133/cameras/72157624846413505_model_small_f4205134d8.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4133/cameras/72157624846413505_model_large_7f9e4ebed1.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_p7700",
+        "name": {
+          "_content": "Nikon Coolpix P7700"
+        }
+      },
+      {
+        "id": "d1x",
+        "name": {
+          "_content": "Nikon D1X"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5.3"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "Microdrive, CompactFlash"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/107/cameras/569_model_small_fb23ae5af8.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/107/cameras/569_model_large_55b62d493b.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s9700",
+        "name": {
+          "_content": "Nikon Coolpix S9700"
+        }
+      },
+      {
+        "id": "coolpix_p80",
+        "name": {
+          "_content": "Nikon Coolpix P80"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3118/cameras/72157604406873485_model_small_1e946d211d.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3118/cameras/72157604406873485_model_large_acfd746772.jpg"
+          }
+        }
+      },
+      {
+        "id": "d2xs",
+        "name": {
+          "_content": "Nikon D2Xs"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.4"
+          },
+          "memory_type": {
+            "_content": "CompactFlash, Microdrive"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/112/cameras/1789_model_small_c3a93c3f60.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/112/cameras/1789_model_large_215030286b.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_5600",
+        "name": {
+          "_content": "Nikon Coolpix 5600"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5.1"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/104/cameras/377_model_small_7bbeb1c636.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/104/cameras/377_model_large_d23ff87559.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s9500",
+        "name": {
+          "_content": "Nikon Coolpix S9500"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5498/cameras/72157632896053581_model_small_8ae5a5b38b.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5498/cameras/72157632896053581_model_large_9eb4286e06.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_l100",
+        "name": {
+          "_content": "Nikon Coolpix L100"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3316/cameras/72157615193016713_model_small_7386ff4403.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3316/cameras/72157615193016713_model_large_d81c44773b.jpg"
+          }
+        }
+      },
+      {
+        "id": "1_j5",
+        "name": {
+          "_content": "Nikon 1 J5"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/757/cameras/72157651318261549_model_small_46c5420ea3.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/757/cameras/72157651318261549_model_large_c75b37b241.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_2100",
+        "name": {
+          "_content": "Nikon Coolpix 2100"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "2"
+          },
+          "lcd_screen_size": {
+            "_content": "1.5"
+          },
+          "memory_type": {
+            "_content": "CompactFlash (CF) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/115/cameras/216_model_small_197c022fe3.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/115/cameras/216_model_large_35824916ea.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_l310",
+        "name": {
+          "_content": "Nikon Coolpix L310"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7043/cameras/72157629332471250_model_small_02a9aca9a5.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7043/cameras/72157629332471250_model_large_9a1efd485e.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s3500",
+        "name": {
+          "_content": "Nikon Coolpix S3500"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3755/cameras/72157632939852929_model_small_8a011b4cc7.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3755/cameras/72157632939852929_model_large_93e77eca70.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_5200",
+        "name": {
+          "_content": "Nikon Coolpix 5200"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5.1"
+          },
+          "lcd_screen_size": {
+            "_content": "1.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/109/cameras/233_model_small_691feaf818.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/109/cameras/233_model_large_6b39df331b.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s220",
+        "name": {
+          "_content": "Nikon Coolpix S220"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3552/cameras/72157613847157226_model_small_464b56a6b8.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3552/cameras/72157613847157226_model_large_99a2ff1fb3.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_p7100",
+        "name": {
+          "_content": "Nikon Coolpix P7100"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8315/cameras/72157627518421410_model_small_72b0c57f44.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8315/cameras/72157627518421410_model_large_e9b491a404.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_990",
+        "name": {
+          "_content": "Nikon Coolpix 990"
+        }
+      },
+      {
+        "id": "coolpix_885",
+        "name": {
+          "_content": "Nikon Coolpix 885"
+        }
+      },
+      {
+        "id": "coolpix_s550",
+        "name": {
+          "_content": "Nikon Coolpix S550"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2342/cameras/72157604057021553_model_small_fcc0564cb6.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2342/cameras/72157604057021553_model_large_7152e1e27e.jpg"
+          }
+        }
+      },
+      {
+        "id": "1_j3",
+        "name": {
+          "_content": "Nikon 1 J3"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3684/cameras/72157632663357977_model_small_2b533ff2ca.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3684/cameras/72157632663357977_model_large_888edff04a.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s8000",
+        "name": {
+          "_content": "Nikon Coolpix S8000"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "14.2"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4128/cameras/72157623495818044_model_small_178b197207.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4128/cameras/72157623495818044_model_large_f391e128c8.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_l20",
+        "name": {
+          "_content": "Nikon Coolpix L20"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3559/cameras/72157613789770453_model_small_7c0170e63b.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3559/cameras/72157613789770453_model_large_1492200a4b.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_4500",
+        "name": {
+          "_content": "Nikon Coolpix 4500"
+        }
+      },
+      {
+        "id": "coolpix_l18",
+        "name": {
+          "_content": "Nikon Coolpix L18"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2385/cameras/72157604111949566_model_small_3e1eb32dd0.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2385/cameras/72157604111949566_model_large_209041a6e8.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_l3",
+        "name": {
+          "_content": "Nikon Coolpix L3"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/101/cameras/79_model_small_189085d009.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/101/cameras/79_model_large_26fc768b40.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s6300",
+        "name": {
+          "_content": "Nikon Coolpix S6300"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "16"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, SDXC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8186/cameras/72157629147881629_model_small_189b355a80.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8186/cameras/72157629147881629_model_large_2be8be5ebe.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpixa",
+        "name": {
+          "_content": "Nikon CORPORATION COOLPIX A"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8569/cameras/72157632935836488_model_small_1614cb27c8.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8569/cameras/72157632935836488_model_large_54f4c9d59c.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_5400",
+        "name": {
+          "_content": "Nikon Coolpix 5400"
+        }
+      },
+      {
+        "id": "coolpix_l11",
+        "name": {
+          "_content": "Nikon Coolpix L11"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6"
+          },
+          "lcd_screen_size": {
+            "_content": "2.4"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1054/cameras/72157600292425608_model_small_6f7fc6ee11.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1054/cameras/72157600292425608_model_large_6203078297.jpg"
+          }
+        }
+      },
+      {
+        "id": "1_j2",
+        "name": {
+          "_content": "Nikon 1 J2"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDXC, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5324/cameras/72157631086466876_model_small_a9142ed909.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5324/cameras/72157631086466876_model_large_94a760a14d.jpg"
+          }
+        }
+      },
+      {
+        "id": "ncoolpix_s570",
+        "name": {
+          "_content": "Nikon Coolpix S570"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4033/cameras/72157622187680807_model_small_f8f8e653d5.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4033/cameras/72157622187680807_model_large_ba29ab23b9.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_5000",
+        "name": {
+          "_content": "Nikon Coolpix 5000"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "CompactFlash (CF) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/121/cameras/244_model_small_ec88b1fd56.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/121/cameras/244_model_large_2900bb3fdb.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s1",
+        "name": {
+          "_content": "Nikon Coolpix S1"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/99/cameras/175_model_small_4f9894523e.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/99/cameras/175_model_large_2246473065.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_l22",
+        "name": {
+          "_content": "Nikon Coolpix L22"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5123/cameras/72157600293845174_model_small_485bc4720c.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5123/cameras/72157600293845174_model_large_7bdf4ae556.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s3600",
+        "name": {
+          "_content": "Nikon Coolpix S3600"
+        }
+      },
+      {
+        "id": "coolpix_8700",
+        "name": {
+          "_content": "Nikon Coolpix 8700"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "CompactFlash, Microdrive"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/108/cameras/620_model_small_c55a70dfdf.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/108/cameras/620_model_large_776524898b.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s9300",
+        "name": {
+          "_content": "Nikon Coolpix S9300"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "16"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, SDXC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8501/cameras/72157629016911759_model_small_750d9c8e5f.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8501/cameras/72157629016911759_model_large_f05060545a.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s2600",
+        "name": {
+          "_content": "Nikon Coolpix S2600"
+        }
+      },
+      {
+        "id": "coolpix_p5100",
+        "name": {
+          "_content": "Nikon Coolpix P5100"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2032/cameras/72157602111714375_model_small_9d7cedae6f.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2032/cameras/72157602111714375_model_large_9e8c19382a.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s6500",
+        "name": {
+          "_content": "Nikon Coolpix S6500"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7795/cameras/72157632845141659_model_small_84d49cf7af.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7795/cameras/72157632845141659_model_large_6a74f43bbd.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_l1",
+        "name": {
+          "_content": "Nikon Coolpix L1"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/139_model_small_307ab7c6f3.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/139_model_large_8d6d6533a1.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s2500",
+        "name": {
+          "_content": "Nikon Coolpix S2500"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8073/cameras/72157626126441019_model_small_54a8efdaa9.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8073/cameras/72157626126441019_model_large_c82f4f119f.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_p310",
+        "name": {
+          "_content": "Nikon Coolpix P310"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "16.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDXC, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8056/cameras/72157629147881605_model_small_d8913e00a3.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8056/cameras/72157629147881605_model_large_57ffd00742.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_2500",
+        "name": {
+          "_content": "Nikon Coolpix 2500"
+        }
+      },
+      {
+        "id": "coolpix_s200",
+        "name": {
+          "_content": "Nikon Coolpix S200"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1043/cameras/72157600292847886_model_small_ca0046a678.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1043/cameras/72157600292847886_model_large_a47f3ac5f2.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_p330",
+        "name": {
+          "_content": "Nikon Coolpix P330"
+        }
+      },
+      {
+        "id": "coolpix_s6200",
+        "name": {
+          "_content": "Nikon Coolpix S6200"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "16"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8325/cameras/72157627525461122_model_small_d765a0aed1.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8325/cameras/72157627525461122_model_large_013aa8eeeb.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_950",
+        "name": {
+          "_content": "Nikon Coolpix 950"
+        }
+      },
+      {
+        "id": "coolpix_8800",
+        "name": {
+          "_content": "Nikon Coolpix 8800"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "CompactFlash, Microdrive"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/112/cameras/314_model_small_3d7cdd8ef3.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/112/cameras/314_model_large_022d1bb641.jpg"
+          }
+        }
+      },
+      {
+        "id": "1_v2",
+        "name": {
+          "_content": "Nikon 1 V2"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "14.2"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, SDXC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7322/cameras/72157632028235716_model_small_b3cf40272f.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7322/cameras/72157632028235716_model_large_5ff1e2907f.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_7900",
+        "name": {
+          "_content": "Nikon Coolpix 7900"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/113/cameras/90_model_small_faac190987.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/113/cameras/90_model_large_e6c53a3347.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s4000",
+        "name": {
+          "_content": "Nikon Coolpix S4000"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "SD"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5289/cameras/72157623390289873_model_small_f56e580373.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5289/cameras/72157623390289873_model_large_5f2381a439.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_l10",
+        "name": {
+          "_content": "Nikon Coolpix L10"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1241/cameras/72157600289471752_model_small_b46937e602.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1241/cameras/72157600289471752_model_large_a579c55296.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_3700",
+        "name": {
+          "_content": "Nikon Coolpix 3700"
+        }
+      },
+      {
+        "id": "coolpix_7600",
+        "name": {
+          "_content": "Nikon Coolpix 7600"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/110/cameras/374_model_small_e81cf14bf7.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/110/cameras/374_model_large_eb08e0a1e2.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_2000",
+        "name": {
+          "_content": "Nikon Coolpix 2000"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "2"
+          },
+          "lcd_screen_size": {
+            "_content": "1.5"
+          },
+          "memory_type": {
+            "_content": "CompactFlash (CF) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/114/cameras/291_model_small_d7a2f647ea.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/114/cameras/291_model_large_e26b912ef5.jpg"
+          }
+        }
+      },
+      {
+        "id": "1_aw1",
+        "name": {
+          "_content": "Nikon 1 AW1"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3748/cameras/72157635699365556_model_small_dbb7e7a551.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3748/cameras/72157635699365556_model_large_7cbdb496af.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_4100",
+        "name": {
+          "_content": "Nikon Coolpix 4100"
+        }
+      },
+      {
+        "id": "coolpix_5900",
+        "name": {
+          "_content": "Nikon Coolpix 5900"
+        }
+      },
+      {
+        "id": "coolpix_2200",
+        "name": {
+          "_content": "Nikon Coolpix 2200"
+        }
+      },
+      {
+        "id": "coolpix_l27",
+        "name": {
+          "_content": "Nikon Coolpix L27"
+        }
+      },
+      {
+        "id": "1_v3",
+        "name": {
+          "_content": "Nikon 1 V3"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/572/cameras/72157642357054413_model_small_a27a645cf9.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/572/cameras/72157642357054413_model_large_2c9525c107.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_l4",
+        "name": {
+          "_content": "Nikon Coolpix L4"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/111/cameras/13_model_small_da399083af.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/111/cameras/13_model_large_3f9815aa05.jpg"
+          }
+        }
+      },
+      {
+        "id": "d2h",
+        "name": {
+          "_content": "Nikon D2H"
+        }
+      },
+      {
+        "id": "coolpix_l23",
+        "name": {
+          "_content": "Nikon Coolpix L23"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7768/cameras/72157626302370062_model_small_0305d27298.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7768/cameras/72157626302370062_model_large_da5ab81a33.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_l16",
+        "name": {
+          "_content": "Nikon Coolpix L16"
+        }
+      },
+      {
+        "id": "coolpix_l12",
+        "name": {
+          "_content": "Nikon Coolpix L12"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1323/cameras/72157600291875421_model_small_a528bb55f5.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1323/cameras/72157600291875421_model_large_7095a5b361.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_p4",
+        "name": {
+          "_content": "Nikon Coolpix P4"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/113/cameras/278_model_small_62c965316a.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/113/cameras/278_model_large_ef0e46708d.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s6100",
+        "name": {
+          "_content": "Nikon Coolpix S6100"
+        }
+      },
+      {
+        "id": "coolpix_s6000",
+        "name": {
+          "_content": "Nikon Coolpix S6000"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "14.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4106/cameras/72157623584941023_model_small_5c88833513.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4106/cameras/72157623584941023_model_large_44046ec85f.jpg"
+          }
+        }
+      },
+      {
+        "id": "1_j4",
+        "name": {
+          "_content": "Nikon 1 J4"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/617/cameras/72157643812098714_model_small_1e9b8df8fe.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/617/cameras/72157643812098714_model_large_50782fe8bf.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s6800",
+        "name": {
+          "_content": "Nikon Coolpix S6800"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7797/cameras/72157640981686335_model_small_3f20b2fa6a.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7797/cameras/72157640981686335_model_large_6b252644ab.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_p5000",
+        "name": {
+          "_content": "Nikon Coolpix P5000"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1113/cameras/72157600291735961_model_small_f6efc30a56.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1113/cameras/72157600291735961_model_large_87a6061925.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s630",
+        "name": {
+          "_content": "Nikon Coolpix S630"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3597/cameras/72157613321688058_model_small_129986eaf2.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3597/cameras/72157613321688058_model_large_aa364039c6.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_880",
+        "name": {
+          "_content": "Nikon Coolpix 880"
+        }
+      },
+      {
+        "id": "coolpix_l25",
+        "name": {
+          "_content": "Nikon Coolpix L25"
+        }
+      },
+      {
+        "id": "coolpix_l21",
+        "name": {
+          "_content": "Nikon Coolpix L21"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5245/cameras/72157623561397834_model_small_d5a349eef4.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5245/cameras/72157623561397834_model_large_d9b1b2a36e.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s6",
+        "name": {
+          "_content": "Nikon Coolpix S6"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/104/cameras/897_model_small_e15629def3.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/104/cameras/897_model_large_797f066f23.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s10",
+        "name": {
+          "_content": "Nikon Coolpix S10"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/108/cameras/2386_model_small_2073abd924.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/108/cameras/2386_model_large_6f86cd2c02.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_p6000",
+        "name": {
+          "_content": "Nikon Coolpix P6000"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "13.5"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3336/cameras/72157606613683578_model_small_38f5e0ee0e.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3336/cameras/72157606613683578_model_large_a1f9ab1ca3.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_p50",
+        "name": {
+          "_content": "Nikon Coolpix P50"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.4"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2203/cameras/72157602274290280_model_small_4c057ee013.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2203/cameras/72157602274290280_model_large_d5871e9e27.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s4",
+        "name": {
+          "_content": "Nikon Coolpix S4"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/105/cameras/124_model_small_e34e75bb5c.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/105/cameras/124_model_large_cc6bbb5429.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_p2",
+        "name": {
+          "_content": "Nikon Coolpix P2"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/105/cameras/684_model_small_9cc4943f24.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/105/cameras/684_model_large_4153585c83.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s4100",
+        "name": {
+          "_content": "Nikon Coolpix S4100"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7798/cameras/72157626245472102_model_small_218626aa6b.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7798/cameras/72157626245472102_model_large_96a5cc8ec0.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_4200",
+        "name": {
+          "_content": "Nikon Coolpix 4200"
+        }
+      },
+      {
+        "id": "coolpix_l26",
+        "name": {
+          "_content": "Nikon Coolpix L26"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "16.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, SDXC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8496/cameras/72157629147881615_model_small_db29fbc9dd.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8496/cameras/72157629147881615_model_large_846989becd.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_l320",
+        "name": {
+          "_content": "Nikon Coolpix L320"
+        }
+      },
+      {
+        "id": "coolpix_s230",
+        "name": {
+          "_content": "Nikon Coolpix S230"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3548/cameras/72157613789770439_model_small_c988e266b0.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3548/cameras/72157613789770439_model_large_3d9df32d25.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s51",
+        "name": {
+          "_content": "Nikon Coolpix S51"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2306/cameras/72157601898736599_model_small_cd8a16ac35.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2306/cameras/72157601898736599_model_large_375881b6ed.jpg"
+          }
+        }
+      },
+      {
+        "id": "d1",
+        "name": {
+          "_content": "Nikon D1"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "2.74"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "CompactFlash"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/104/cameras/671_model_small_2a2c1fec5f.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/104/cameras/671_model_large_f5e91b2817.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_l2",
+        "name": {
+          "_content": "Nikon Coolpix L2"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/104/cameras/1091_model_small_1386acf9c5.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/104/cameras/1091_model_large_8558e88e5e.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s560",
+        "name": {
+          "_content": "Nikon Coolpix S560"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3619/cameras/72157607291835595_model_small_921ab7f48b.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3619/cameras/72157607291835595_model_large_eff758ea33.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s5",
+        "name": {
+          "_content": "Nikon Coolpix S5"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/99/cameras/222_model_small_3fc7ccb144.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/99/cameras/222_model_large_8ddc2b17d7.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s600",
+        "name": {
+          "_content": "Nikon Coolpix S600"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2144/cameras/72157604125319376_model_small_97d108f560.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2144/cameras/72157604125319376_model_large_6d645acede.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_l19",
+        "name": {
+          "_content": "Nikon Coolpix L19"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3368/cameras/72157613666745734_model_small_42b87bcf1d.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3368/cameras/72157613666745734_model_large_156c01a55c.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_l5",
+        "name": {
+          "_content": "Nikon Coolpix L5"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/113/cameras/13786_model_small_eb61d181cb.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/113/cameras/13786_model_large_ba70c1d37e.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_3500",
+        "name": {
+          "_content": "Nikon Coolpix 3500"
+        }
+      },
+      {
+        "id": "coolpix_l14",
+        "name": {
+          "_content": "Nikon Coolpix L14"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.4"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2377/cameras/72157602818010529_model_small_d11faf81e9.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2377/cameras/72157602818010529_model_large_ecc3bd833e.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_p1",
+        "name": {
+          "_content": "Nikon Coolpix P1"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/118/cameras/1005_model_small_a0f3c7b0c3.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/118/cameras/1005_model_large_24160a25a9.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s3",
+        "name": {
+          "_content": "Nikon Coolpix S3"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/106/cameras/151_model_small_61e35d79ff.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/106/cameras/151_model_large_94d9177b86.jpg"
+          }
+        }
+      },
+      {
+        "id": "d1h",
+        "name": {
+          "_content": "Nikon D1H"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "2.74"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "CompactFlash"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/866_model_small_7becfa7796.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/866_model_large_d95a49c0b1.jpg"
+          }
+        }
+      },
+      {
+        "id": "1_s1",
+        "name": {
+          "_content": "Nikon 1 S1"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5275/cameras/72157632555823514_model_small_d2341f1143.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5275/cameras/72157632555823514_model_large_d430ab0825.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s52",
+        "name": {
+          "_content": "Nikon Coolpix S52"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "9"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3205/cameras/72157604872760071_model_small_accfd37c48.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3205/cameras/72157604872760071_model_large_0476775dd8.jpg"
+          }
+        }
+      },
+      {
+        "id": "d2hs",
+        "name": {
+          "_content": "Nikon D2Hs"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "CompactFlash, Microdrive"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/108/cameras/1894_model_small_886b6ca55b.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/108/cameras/1894_model_large_fb9cf1d8c8.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s9",
+        "name": {
+          "_content": "Nikon Coolpix S9"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/119/cameras/23667_model_small_e671300633.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/119/cameras/23667_model_large_6da84f9f5e.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_l15",
+        "name": {
+          "_content": "Nikon Coolpix L15"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "2.8"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2331/cameras/72157602341120823_model_small_8c51dd8fcd.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2331/cameras/72157602341120823_model_large_f1fac5ee53.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s203",
+        "name": {
+          "_content": "Nikon Coolpix S203"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4149/cameras/72157622510458707_model_small_cab7a40003.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4149/cameras/72157622510458707_model_large_45c59399cb.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_l6",
+        "name": {
+          "_content": "Nikon Coolpix L6"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/105/cameras/1416_model_small_c57f7bc565.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/105/cameras/1416_model_large_410ea48b19.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s500",
+        "name": {
+          "_content": "Nikon Coolpix S500"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1321/cameras/72157600291551843_model_small_308fa4c4d2.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1321/cameras/72157600291551843_model_large_8b2ff71c62.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s620",
+        "name": {
+          "_content": "Nikon Coolpix S620"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "SDHC Memory Card, Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3557/cameras/72157614397520153_model_small_23cb999431.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3557/cameras/72157614397520153_model_large_73b42e5995.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s60",
+        "name": {
+          "_content": "Nikon Coolpix S60"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "3.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2595/cameras/72157607217567088_model_small_42d0eb2b79.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2595/cameras/72157607217567088_model_large_806fcbddd1.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_p60",
+        "name": {
+          "_content": "Nikon Coolpix P60"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2288/cameras/72157604184855885_model_small_abee8cc8ee.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2288/cameras/72157604184855885_model_large_5323bf0a76.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s7c",
+        "name": {
+          "_content": "Nikon Coolpix S7c"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/122/cameras/4980_model_small_b0e234f279.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/122/cameras/4980_model_large_b3d23deb3e.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_4800",
+        "name": {
+          "_content": "Nikon Coolpix 4800"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/101/cameras/642_model_small_c5c2cce15f.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/101/cameras/642_model_large_89b2b40679.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_8400",
+        "name": {
+          "_content": "Nikon Coolpix 8400"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "CompactFlash, Microdrive"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/29_model_small_4bae6000b9.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/29_model_large_95323d0c87.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_sq",
+        "name": {
+          "_content": "Nikon Coolpix SQ"
+        }
+      },
+      {
+        "id": "coolpix_800",
+        "name": {
+          "_content": "Nikon Coolpix 800"
+        }
+      },
+      {
+        "id": "coolpix_s520",
+        "name": {
+          "_content": "Nikon Coolpix S520"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3187/cameras/72157603467286905_model_small_91b6f8512c.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3187/cameras/72157603467286905_model_large_ef6a81380b.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s510",
+        "name": {
+          "_content": "Nikon Coolpix S510"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2379/cameras/72157602224600864_model_small_b7a1df5a0c.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2379/cameras/72157602224600864_model_large_46350c71b9.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s710",
+        "name": {
+          "_content": "Nikon Coolpix S710"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "14.5"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2696/cameras/72157607312176341_model_small_036cccc066.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2696/cameras/72157607312176341_model_large_4701952a7e.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s640",
+        "name": {
+          "_content": "Nikon Coolpix S640"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "SDHC Memory Card, Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4032/cameras/72157622063625045_model_small_816e8d2649.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4032/cameras/72157622063625045_model_large_563be7d581.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s700",
+        "name": {
+          "_content": "Nikon Coolpix S700"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2269/cameras/72157602561448390_model_small_cd1ef66b2d.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2269/cameras/72157602561448390_model_large_2d3868887d.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s70",
+        "name": {
+          "_content": "Nikon Coolpix S70"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4019/cameras/72157622198240563_model_small_e2ce5d5dcc.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4019/cameras/72157622198240563_model_large_8c57ae4c1b.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_p3",
+        "name": {
+          "_content": "Nikon Coolpix P3"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/122/cameras/10_model_small_7a6cdb41dc.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/122/cameras/10_model_large_3a53c48d94.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s50",
+        "name": {
+          "_content": "Nikon Coolpix S50"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.2"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1312/cameras/72157600292638611_model_small_a3257d0e16.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1312/cameras/72157600292638611_model_large_15eba38cac.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s51c",
+        "name": {
+          "_content": "Nikon Coolpix S51c"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2182/cameras/72157601506685158_model_small_e5c236d89c.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2182/cameras/72157601506685158_model_large_00b635f523.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_5100",
+        "name": {
+          "_content": "Nikon Coolpix 5100"
+        }
+      },
+      {
+        "id": "coolpix_s610",
+        "name": {
+          "_content": "Nikon Coolpix S610"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3329/cameras/72157607183478272_model_small_1ee4f8147b.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3329/cameras/72157607183478272_model_large_b8c9cbe17d.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s2",
+        "name": {
+          "_content": "Nikon Coolpix S2"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/115/cameras/694_model_small_f75f86c27c.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/115/cameras/694_model_large_f2c75daf1b.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s610c",
+        "name": {
+          "_content": "Nikon Coolpix S610c"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4026/cameras/72157606833191544_model_small_d6751a0cff.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4026/cameras/72157606833191544_model_large_e769fbd93c.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_700",
+        "name": {
+          "_content": "Nikon Coolpix 700"
+        }
+      },
+      {
+        "id": "coolpix_s52c",
+        "name": {
+          "_content": "Nikon Coolpix S52c"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "9"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4065/cameras/72157605063331036_model_small_3e05753fdf.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4065/cameras/72157605063331036_model_large_9ee117d7ca.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s8",
+        "name": {
+          "_content": "Nikon Coolpix S8"
+        }
+      },
+      {
+        "id": "coolpix_900",
+        "name": {
+          "_content": "Nikon Coolpix 900"
+        }
+      },
+      {
+        "id": "coolpix_s50c",
+        "name": {
+          "_content": "Nikon Coolpix S50c"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.2"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1399/cameras/72157600289407776_model_small_7c67b2a6ce.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1399/cameras/72157600289407776_model_large_c99af9a1c2.jpg"
+          }
+        }
+      },
+      {
+        "id": "coolpix_s7",
+        "name": {
+          "_content": "Nikon Coolpix S7"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "memory_type": {
+            "_content": "MultiMediaCard, Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/115/cameras/23642_model_small_b61f37ced7.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/115/cameras/23642_model_large_fda4fbaeb1.jpg"
+          }
+        }
+      }
+    ]
+  },
+  "stat": "ok"
+}

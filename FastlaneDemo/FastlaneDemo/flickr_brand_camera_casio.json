@@ -1,0 +1,1433 @@
+{
+  "cameras": {
+    "brand": "casio",
+    "camera": [
+      {
+        "id": "ex-z60",
+        "name": {
+          "_content": "Casio EX-Z60"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/116/cameras/184_model_small_4f26b7df62.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/116/cameras/184_model_large_d66b4dbd76.jpg"
+          }
+        }
+      },
+      {
+        "id": "ex-z75",
+        "name": {
+          "_content": "Casio EX-Z75"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.6"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1274/cameras/72157600289367716_model_small_1d2c6161fa.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1274/cameras/72157600289367716_model_large_bcf544a922.jpg"
+          }
+        }
+      },
+      {
+        "id": "ex-z40",
+        "name": {
+          "_content": "Casio EX-Z40"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/118/cameras/104_model_small_e487adf9ee.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/118/cameras/104_model_large_4391ec67b3.jpg"
+          }
+        }
+      },
+      {
+        "id": "ex-z750",
+        "name": {
+          "_content": "Casio EX-Z750"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/122/cameras/129_model_small_7e214631eb.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/122/cameras/129_model_large_1cfb0c9db8.jpg"
+          }
+        }
+      },
+      {
+        "id": "ex-z1000",
+        "name": {
+          "_content": "Casio EX-Z1000"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.8"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/118/cameras/402_model_small_328bac4b10.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/118/cameras/402_model_large_6d01722e41.jpg"
+          }
+        }
+      },
+      {
+        "id": "ex-s500",
+        "name": {
+          "_content": "Casio EX-S500"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "2.2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/104/cameras/363_model_small_43cbf5bb78.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/104/cameras/363_model_large_2942ae3a5d.jpg"
+          }
+        }
+      },
+      {
+        "id": "ex-s600",
+        "name": {
+          "_content": "Casio EX-S600"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6"
+          },
+          "lcd_screen_size": {
+            "_content": "2.2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/105/cameras/186_model_small_c622d12c4c.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/105/cameras/186_model_large_44e7ec27b9.jpg"
+          }
+        }
+      },
+      {
+        "id": "ex-z55",
+        "name": {
+          "_content": "Casio EX-Z55"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/833_model_small_315439578b.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/833_model_large_3a5f02264a.jpg"
+          }
+        }
+      },
+      {
+        "id": "ex-s10",
+        "name": {
+          "_content": "Casio EX-S10"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, MultiMediaCard, MMCPlus"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2208/cameras/72157603864623687_model_small_db99258428.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2208/cameras/72157603864623687_model_large_72ba49918c.jpg"
+          }
+        }
+      },
+      {
+        "id": "ex-z1080",
+        "name": {
+          "_content": "Casio EX-Z1080"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.6"
+          },
+          "memory_type": {
+            "_content": "SDHC Memory Card, MultiMediaCardplus, MultiMediaCard, Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2088/cameras/72157601898686585_model_small_a5991c5c44.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2088/cameras/72157601898686585_model_large_28650ae96c.jpg"
+          }
+        }
+      },
+      {
+        "id": "ex-z70",
+        "name": {
+          "_content": "Casio EX-Z70"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "MultiMediaCard, Secure Digital"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/101/cameras/930_model_small_079ca4d7b8.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/101/cameras/930_model_large_8bb399ccee.jpg"
+          }
+        }
+      },
+      {
+        "id": "ex-z80",
+        "name": {
+          "_content": "Casio EX-Z80"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.6"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, MultiMediaCard, MMCPlus"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3091/cameras/72157603952160159_model_small_5f7e38ce7f.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3091/cameras/72157603952160159_model_large_2e8a31fbd6.jpg"
+          }
+        }
+      },
+      {
+        "id": "ex-z1050",
+        "name": {
+          "_content": "Casio EX-Z1050"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.6"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1173/cameras/72157600288650979_model_small_c055b39aa4.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1173/cameras/72157600288650979_model_large_0681a43cea.jpg"
+          }
+        }
+      },
+      {
+        "id": "ex-h10",
+        "name": {
+          "_content": "Casio EX-H10"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "SDHC Memory Card, Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4035/cameras/72157619706965221_model_small_88b249dc30.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4035/cameras/72157619706965221_model_large_7594412858.jpg"
+          }
+        }
+      },
+      {
+        "id": "ex-z850",
+        "name": {
+          "_content": "Casio EX-Z850"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/104/cameras/248_model_small_477ef64fd1.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/104/cameras/248_model_large_5a6f374239.jpg"
+          }
+        }
+      },
+      {
+        "id": "ex-z700",
+        "name": {
+          "_content": "Casio EX-Z700"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "MultiMediaCard, Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/100/cameras/1705_model_small_34987ccc86.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/100/cameras/1705_model_large_5d7d90f3c2.jpg"
+          }
+        }
+      },
+      {
+        "id": "ex-z4",
+        "name": {
+          "_content": "Casio EX-Z4"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1380/cameras/364_model_small_1954396554.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1380/cameras/364_model_large_ba71bbe173.jpg"
+          }
+        }
+      },
+      {
+        "id": "ex-z600",
+        "name": {
+          "_content": "Casio EX-Z600"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/110/cameras/28_model_small_322d7a3d3b.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/110/cameras/28_model_large_d3a7953eba.jpg"
+          }
+        }
+      },
+      {
+        "id": "ex-z50",
+        "name": {
+          "_content": "Casio EX-Z50"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/101/cameras/786_model_small_dc29b0a33f.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/101/cameras/786_model_large_3b2fcfbf20.jpg"
+          }
+        }
+      },
+      {
+        "id": "ex-z3",
+        "name": {
+          "_content": "Casio EX-Z3"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1315/cameras/219_model_small_99c858be73.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1315/cameras/219_model_large_70f31a504d.jpg"
+          }
+        }
+      },
+      {
+        "id": "ex-z57",
+        "name": {
+          "_content": "Casio EX-Z57"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/115/cameras/110_model_small_69ecb28ac0.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/115/cameras/110_model_large_786e3eb4ce.jpg"
+          }
+        }
+      },
+      {
+        "id": "ex-z500",
+        "name": {
+          "_content": "Casio EX-Z500"
+        }
+      },
+      {
+        "id": "ex-s100",
+        "name": {
+          "_content": "Casio EX-S100"
+        }
+      },
+      {
+        "id": "ex-s770",
+        "name": {
+          "_content": "Casio EX-S770"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.2"
+          },
+          "memory_type": {
+            "_content": "SDHC Memory Card, MultiMediaCard, Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/108/cameras/525_model_small_a739e1e775.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/108/cameras/525_model_large_fb135ecb9d.jpg"
+          }
+        }
+      },
+      {
+        "id": "ex-s880",
+        "name": {
+          "_content": "Casio EX-S880"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.8"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2102/cameras/72157601284719760_model_small_0db26891e5.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2102/cameras/72157601284719760_model_large_37e19d1ce1.jpg"
+          }
+        }
+      },
+      {
+        "id": "ex-z9",
+        "name": {
+          "_content": "Casio EX-Z9"
+        }
+      },
+      {
+        "id": "ex-p600",
+        "name": {
+          "_content": "Casio EX-P600"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/107/cameras/236_model_small_e3196bfaf5.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/107/cameras/236_model_large_7ca1afc246.jpg"
+          }
+        }
+      },
+      {
+        "id": "ex-z77",
+        "name": {
+          "_content": "Casio EX-Z77"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.6"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, MultiMediaCard, MMCPlus"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2064/cameras/72157601289292031_model_small_e3024ac66c.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2064/cameras/72157601289292031_model_large_7c3886e1f7.jpg"
+          }
+        }
+      },
+      {
+        "id": "qv-r40",
+        "name": {
+          "_content": "Casio QV-R40"
+        }
+      },
+      {
+        "id": "ex-z110",
+        "name": {
+          "_content": "Casio EX-Z110"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/116/cameras/221_model_small_06cc844fba.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/116/cameras/221_model_large_be771eec40.jpg"
+          }
+        }
+      },
+      {
+        "id": "ex-z90",
+        "name": {
+          "_content": "Casio EX-Z90"
+        }
+      },
+      {
+        "id": "ex-z1200",
+        "name": {
+          "_content": "Casio EX-Z1200"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.8"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1360/cameras/72157600367564860_model_small_9ee2fb4355.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1360/cameras/72157600367564860_model_large_c08ba5654d.jpg"
+          }
+        }
+      },
+      {
+        "id": "cex-s12",
+        "name": {
+          "_content": "Casio EX-S12"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4031/cameras/72157614709428488_model_small_abc5e5b1ca.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4031/cameras/72157614709428488_model_large_cc6ccaa887.jpg"
+          }
+        }
+      },
+      {
+        "id": "ex-s2",
+        "name": {
+          "_content": "Casio EX-S2"
+        }
+      },
+      {
+        "id": "cex-z33",
+        "name": {
+          "_content": "Casio EX-Z33"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "SDHC Memory Card, Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2712/cameras/72157622310023173_model_small_9386190b21.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2712/cameras/72157622310023173_model_large_dae7d6cf4b.jpg"
+          }
+        }
+      },
+      {
+        "id": "ex-z100",
+        "name": {
+          "_content": "Casio EX-Z100"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3066/cameras/72157604073476622_model_small_580362b811.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3066/cameras/72157604073476622_model_large_6f896cf20c.jpg"
+          }
+        }
+      },
+      {
+        "id": "ex-z35",
+        "name": {
+          "_content": "Casio EX-Z35"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.1"
+          }
+        }
+      },
+      {
+        "id": "ex-z85",
+        "name": {
+          "_content": "Casio EX-Z85"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "9.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.6"
+          },
+          "memory_type": {
+            "_content": "SDHC Memory Card, MultiMediaCardplus, MultiMediaCard, Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3458/cameras/72157607584558159_model_small_662fbac53a.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3458/cameras/72157607584558159_model_large_6c90e76c70.jpg"
+          }
+        }
+      },
+      {
+        "id": "ex-z120",
+        "name": {
+          "_content": "Casio EX-Z120"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/101/cameras/223_model_small_bbf9d8fe6c.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/101/cameras/223_model_large_1fcbfeaf5a.jpg"
+          }
+        }
+      },
+      {
+        "id": "qv-r51",
+        "name": {
+          "_content": "Casio QV-R51"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/111/cameras/667_model_small_44b845eb0c.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/111/cameras/667_model_large_f9a0bd0006.jpg"
+          }
+        }
+      },
+      {
+        "id": "ex-z30",
+        "name": {
+          "_content": "Casio EX-Z30"
+        }
+      },
+      {
+        "id": "qv-r4",
+        "name": {
+          "_content": "Casio QV-R4"
+        }
+      },
+      {
+        "id": "qv-3000ex",
+        "name": {
+          "_content": "Casio QV-3000EX"
+        }
+      },
+      {
+        "id": "ex-v7",
+        "name": {
+          "_content": "Casio EX-V7"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Internal, MultiMediaCard, Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1171/cameras/72157600288641051_model_small_f3f6e5fbb8.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1171/cameras/72157600288641051_model_large_7a0223d5d8.jpg"
+          }
+        }
+      },
+      {
+        "id": "ex-p700",
+        "name": {
+          "_content": "Casio EX-P700"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/285_model_small_fc842ed42b.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/285_model_large_efda7b53b3.jpg"
+          }
+        }
+      },
+      {
+        "id": "ex-p505",
+        "name": {
+          "_content": "Casio EX-P505"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/119/cameras/566_model_small_228ae567e3.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/119/cameras/566_model_large_fb80d5ec58.jpg"
+          }
+        }
+      },
+      {
+        "id": "ex-s3",
+        "name": {
+          "_content": "Casio EX-S3"
+        }
+      },
+      {
+        "id": "ex-fh20",
+        "name": {
+          "_content": "Casio EX-FH20"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "9.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, MultiMediaCard, MMCPlus"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3308/cameras/72157607642166012_model_small_6f667061a9.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3308/cameras/72157607642166012_model_large_c01062eae4.jpg"
+          }
+        }
+      },
+      {
+        "id": "ex-z200",
+        "name": {
+          "_content": "Casio EX-Z200"
+        }
+      },
+      {
+        "id": "qv-r41",
+        "name": {
+          "_content": "Casio QV-R41"
+        }
+      },
+      {
+        "id": "ex-z7",
+        "name": {
+          "_content": "Casio EX-Z7"
+        }
+      },
+      {
+        "id": "qv-4000",
+        "name": {
+          "_content": "Casio QV-4000"
+        }
+      },
+      {
+        "id": "ex-z150",
+        "name": {
+          "_content": "Casio EX-Z150"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "SDHC Memory Card, MultiMediaCardplus, MultiMediaCard, Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3469/cameras/72157606525781479_model_small_0a3f9163fe.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3469/cameras/72157606525781479_model_large_816c29340a.jpg"
+          }
+        }
+      },
+      {
+        "id": "ex-f1",
+        "name": {
+          "_content": "Casio EX-F1"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6"
+          },
+          "lcd_screen_size": {
+            "_content": "2.8"
+          },
+          "memory_type": {
+            "_content": "SDHC Memory Card, MultiMediaCardplus, MultiMediaCard, Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3367/cameras/72157604111944402_model_small_5054cb7dea.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3367/cameras/72157604111944402_model_large_e3f26c4481.jpg"
+          }
+        }
+      },
+      {
+        "id": "ex-z11",
+        "name": {
+          "_content": "Casio EX-Z11"
+        }
+      },
+      {
+        "id": "qv-r61",
+        "name": {
+          "_content": "Casio QV-R61"
+        }
+      },
+      {
+        "id": "qv-3500ex",
+        "name": {
+          "_content": "Casio QV-3500EX"
+        }
+      },
+      {
+        "id": "qv-2300ux",
+        "name": {
+          "_content": "Casio QV-2300UX"
+        }
+      },
+      {
+        "id": "ex-s5",
+        "name": {
+          "_content": "Casio EX-S5"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4005/cameras/72157615497635175_model_small_3da1704720.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4005/cameras/72157615497635175_model_large_db249ef373.jpg"
+          }
+        }
+      },
+      {
+        "id": "ex-z19",
+        "name": {
+          "_content": "Casio EX-Z19"
+        }
+      },
+      {
+        "id": "ex-z400",
+        "name": {
+          "_content": "Casio EX-Z400"
+        }
+      },
+      {
+        "id": "ex-z65",
+        "name": {
+          "_content": "Casio EX-Z65"
+        }
+      },
+      {
+        "id": "ex-g1",
+        "name": {
+          "_content": "Casio EX-G1"
+        }
+      },
+      {
+        "id": "qv-5700",
+        "name": {
+          "_content": "Casio QV-5700"
+        }
+      },
+      {
+        "id": "ex-s20",
+        "name": {
+          "_content": "Casio EX-S20"
+        }
+      },
+      {
+        "id": "gz-one_boulder",
+        "name": {
+          "_content": "Casio G'zOne Boulder"
+        }
+      },
+      {
+        "id": "ex-z29",
+        "name": {
+          "_content": "Casio EX-Z29"
+        }
+      },
+      {
+        "id": "ex-z5",
+        "name": {
+          "_content": "Casio EX-Z5"
+        }
+      },
+      {
+        "id": "ex-z8",
+        "name": {
+          "_content": "Casio EX-Z8"
+        }
+      },
+      {
+        "id": "ex-m2",
+        "name": {
+          "_content": "Casio EX-M2"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "2"
+          },
+          "lcd_screen_size": {
+            "_content": "1.6"
+          },
+          "memory_type": {
+            "_content": "Internal, MultiMediaCard, Secure Digital"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/116/cameras/50_model_small_15f7e9b68f.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/116/cameras/50_model_large_3124beb9bc.jpg"
+          }
+        }
+      },
+      {
+        "id": "ex-s1",
+        "name": {
+          "_content": "Casio EX-S1"
+        }
+      },
+      {
+        "id": "ex-z1",
+        "name": {
+          "_content": "Casio EX-Z1"
+        }
+      },
+      {
+        "id": "qv-r52",
+        "name": {
+          "_content": "Casio QV-R52"
+        }
+      },
+      {
+        "id": "qv-2900ux",
+        "name": {
+          "_content": "Casio QV-2900UX"
+        }
+      },
+      {
+        "id": "qv-2800ux",
+        "name": {
+          "_content": "Casio QV-2800UX"
+        }
+      },
+      {
+        "id": "cex-fc100",
+        "name": {
+          "_content": "Casio EX-FC100"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "9.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2742/cameras/72157611223135085_model_small_7344172623.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2742/cameras/72157611223135085_model_large_a29e1778fe.jpg"
+          }
+        }
+      },
+      {
+        "id": "ex-v8",
+        "name": {
+          "_content": "Casio EX-V8"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2373/cameras/72157601810339659_model_small_c4f380fcf7.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2373/cameras/72157601810339659_model_large_c0db3aaf95.jpg"
+          }
+        }
+      },
+      {
+        "id": "qv-r3",
+        "name": {
+          "_content": "Casio QV-R3"
+        }
+      },
+      {
+        "id": "ex-z10",
+        "name": {
+          "_content": "Casio EX-Z10"
+        }
+      },
+      {
+        "id": "ex-z155",
+        "name": {
+          "_content": "Casio EX-Z155"
+        }
+      },
+      {
+        "id": "ex-z300",
+        "name": {
+          "_content": "Casio EX-Z300"
+        }
+      },
+      {
+        "id": "ex-z12",
+        "name": {
+          "_content": "Casio EX-Z12"
+        }
+      },
+      {
+        "id": "ex-z250",
+        "name": {
+          "_content": "Casio EX-Z250"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "9.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Internal, MMCPlus, Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3496/cameras/72157607236807667_model_small_3a26e8593c.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3496/cameras/72157607236807667_model_large_6764736568.jpg"
+          }
+        }
+      },
+      {
+        "id": "ex-z6",
+        "name": {
+          "_content": "Casio EX-Z6"
+        }
+      },
+      {
+        "id": "qv-2000ux",
+        "name": {
+          "_content": "Casio QV-2000UX"
+        }
+      },
+      {
+        "id": "ex-m1",
+        "name": {
+          "_content": "Casio EX-M1"
+        }
+      },
+      {
+        "id": "qv-8000sx",
+        "name": {
+          "_content": "Casio QV-8000SX"
+        }
+      },
+      {
+        "id": "qv-r62",
+        "name": {
+          "_content": "Casio QV-R62"
+        }
+      },
+      {
+        "id": "ex-z20",
+        "name": {
+          "_content": "Casio EX-Z20"
+        }
+      },
+      {
+        "id": "ex-z22",
+        "name": {
+          "_content": "Casio EX-Z22"
+        }
+      },
+      {
+        "id": "ex-z21",
+        "name": {
+          "_content": "Casio EX-Z21"
+        }
+      },
+      {
+        "id": "ex-z15",
+        "name": {
+          "_content": "Casio EX-Z15"
+        }
+      },
+      {
+        "id": "ex-z18",
+        "name": {
+          "_content": "Casio EX-Z18"
+        }
+      },
+      {
+        "id": "qv-3ex",
+        "name": {
+          "_content": "Casio QV-3EX"
+        }
+      },
+      {
+        "id": "ex-m20",
+        "name": {
+          "_content": "Casio EX-M20"
+        }
+      },
+      {
+        "id": "gv-10",
+        "name": {
+          "_content": "Casio GV-10"
+        }
+      },
+      {
+        "id": "qv-2400ux",
+        "name": {
+          "_content": "Casio QV-2400UX"
+        }
+      },
+      {
+        "id": "gz_one",
+        "name": {
+          "_content": "Casio G'z One Type-V"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1027/cameras/56121_model_small_a8dc965de9.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1027/cameras/56121_model_large_690aef4907.jpg"
+          }
+        }
+      },
+      {
+        "id": "gv-20",
+        "name": {
+          "_content": "Casio GV-20"
+        }
+      },
+      {
+        "id": "gz_one_s",
+        "name": {
+          "_content": "Casio G'z One Type-S"
+        }
+      },
+      {
+        "id": "xv-3",
+        "name": {
+          "_content": "Casio XV-3"
+        }
+      },
+      {
+        "id": "qv-2100",
+        "name": {
+          "_content": "Casio QV-2100"
+        }
+      }
+    ]
+  },
+  "stat": "ok"
+}

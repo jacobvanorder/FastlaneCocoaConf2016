@@ -1,0 +1,2775 @@
+{
+  "cameras": {
+    "brand": "fujifilm",
+    "camera": [
+      {
+        "id": "x-t1",
+        "name": {
+          "_content": "Fujifilm X-T1"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2842/cameras/72157640190881145_model_small_0b0e1bccb4.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2842/cameras/72157640190881145_model_large_2f6fe18fef.jpg"
+          }
+        }
+      },
+      {
+        "id": "x100t",
+        "name": {
+          "_content": "Fujifilm X100T"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8605/cameras/72157645389991897_model_small_ef8e55420b.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8605/cameras/72157645389991897_model_large_6463967ee6.jpg"
+          }
+        }
+      },
+      {
+        "id": "x-e2",
+        "name": {
+          "_content": "Fujifilm X-E2"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5585/cameras/72157636162005804_model_small_3ae29feee4.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5585/cameras/72157636162005804_model_large_efdc3c1bb9.jpg"
+          }
+        }
+      },
+      {
+        "id": "x-t10",
+        "name": {
+          "_content": "Fujifilm X-T10"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/491/cameras/72157652698018762_model_small_a4811ec10d.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/491/cameras/72157652698018762_model_large_1bb42ec8ce.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_x100s",
+        "name": {
+          "_content": "Fujifilm X100S"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "16.3"
+          },
+          "lcd_screen_size": {
+            "_content": "2.8"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDXC, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7048/cameras/72157632536454509_model_small_1cc086cdba.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7048/cameras/72157632536454509_model_large_846968050c.jpg"
+          }
+        }
+      },
+      {
+        "id": "x-e1",
+        "name": {
+          "_content": "Fujifilm X-E1"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "16.3"
+          },
+          "lcd_screen_size": {
+            "_content": "2.8"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8483/cameras/72157631455809782_model_small_f40c3d6414.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8483/cameras/72157631455809782_model_large_bb435d691a.jpg"
+          }
+        }
+      },
+      {
+        "id": "x-pro1",
+        "name": {
+          "_content": "Fujifilm X-Pro1"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "16.3"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm7.staticflickr.com/6231/cameras/72157628798788755_model_small_dc54a41419.jpg"
+          },
+          "large": {
+            "_content": "https://farm7.staticflickr.com/6231/cameras/72157628798788755_model_large_a6f2756d19.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_x100",
+        "name": {
+          "_content": "Fujifilm FinePix X100"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.3"
+          },
+          "lcd_screen_size": {
+            "_content": "2.8"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, SDXC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2030/cameras/72157625858227365_model_small_ef4a19cb67.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2030/cameras/72157625858227365_model_large_1c5dda2a91.jpg"
+          }
+        }
+      },
+      {
+        "id": "x30",
+        "name": {
+          "_content": "Fujifilm X30"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8823/cameras/72157646449123980_model_small_2b6e9f0543.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8823/cameras/72157646449123980_model_large_c203bb05dc.jpg"
+          }
+        }
+      },
+      {
+        "id": "x-m1",
+        "name": {
+          "_content": "Fujifilm X-M1"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5533/cameras/72157634365503920_model_small_0cb28c21fd.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5533/cameras/72157634365503920_model_large_d4a3ab9ea7.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_x10",
+        "name": {
+          "_content": "Fujifilm FinePix X10"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12"
+          },
+          "lcd_screen_size": {
+            "_content": "2.8"
+          },
+          "memory_type": {
+            "_content": "SD memory card, SDHC memory card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7022/cameras/72157627709532291_model_small_11c62a5e2b.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7022/cameras/72157627709532291_model_large_6fcffa7efc.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_x20",
+        "name": {
+          "_content": "Fujifilm X20"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12"
+          },
+          "lcd_screen_size": {
+            "_content": "2.8"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDXC, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8106/cameras/72157632483226736_model_small_d2426747a2.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8106/cameras/72157632483226736_model_large_71baaf9e8d.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_s2_pro",
+        "name": {
+          "_content": "Fujifilm FinePix S2 Pro"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6.2"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "Microdrive"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1134/cameras/353_model_small_d1fc17d066.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1134/cameras/353_model_large_d655661a5a.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_s5700",
+        "name": {
+          "_content": "Fujifilm FinePix S5700"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "MultiMediaCard, Secure Digital (SD) Card, XD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1068/cameras/72157600293178314_model_small_1e583d81b2.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1068/cameras/72157600293178314_model_large_ec37441c95.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_s5000",
+        "name": {
+          "_content": "Fujifilm FinePix S5000"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "3.1"
+          },
+          "lcd_screen_size": {
+            "_content": "1.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/138_model_small_06ea3f8082.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/138_model_large_2a7ef58d6b.jpg"
+          }
+        }
+      },
+      {
+        "id": "x-a1",
+        "name": {
+          "_content": "Fujifilm X-A1"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8563/cameras/72157635116311062_model_small_1e5b0be16a.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8563/cameras/72157635116311062_model_large_fb9229cca9.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_hs20exr",
+        "name": {
+          "_content": "Fujifilm FinePix HS20EXR"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "16"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7050/cameras/72157625935536621_model_small_70748a2c2f.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7050/cameras/72157625935536621_model_large_684b6e0eb1.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_s5600",
+        "name": {
+          "_content": "Fujifilm FinePix S5600"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/122/cameras/485_model_small_8601692e6c.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/122/cameras/485_model_large_ebd50001a6.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_s6000fd",
+        "name": {
+          "_content": "Fujifilm FinePix S6000fd"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6.3"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1347/cameras/72157601506589424_model_small_e14efbd4d2.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1347/cameras/72157601506589424_model_large_6fb71f6421.jpg"
+          }
+        }
+      },
+      {
+        "id": "x-a2",
+        "name": {
+          "_content": "Fujifilm X-A2"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1631/cameras/72157650043557289_model_small_ec51171f96.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1631/cameras/72157650043557289_model_large_a1658695e6.jpg"
+          }
+        }
+      },
+      {
+        "id": "hs50exr",
+        "name": {
+          "_content": "Fujifilm FinePix HS50EXR"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8658/cameras/72157632691019656_model_small_8914512e8a.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8658/cameras/72157632691019656_model_large_5d8b0dbdd5.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_hs30exr",
+        "name": {
+          "_content": "Fujifilm FinePix HS30EXR"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "16"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, SDXC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5546/cameras/72157629147894015_model_small_2f40219683.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5546/cameras/72157629147894015_model_large_59964d44c1.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_s1000fd",
+        "name": {
+          "_content": "Fujifilm FinePix S1000fd"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "xD-Picture, Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3174/cameras/72157604422845889_model_small_2c6641f361.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3174/cameras/72157604422845889_model_large_6a64d58cc6.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_s9000",
+        "name": {
+          "_content": "Fujifilm FinePix S9000"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "9"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "xD-Picture, CompactFlash, Microdrive"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/106/cameras/709_model_small_c3764f6986.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/106/cameras/709_model_large_594c6ff647.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_s7000",
+        "name": {
+          "_content": "Fujifilm FinePix S7000"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6.3"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "xD-Picture, Microdrive"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/113/cameras/38_model_small_598936fd83.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/113/cameras/38_model_large_7f4dd2822e.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_s5_pro",
+        "name": {
+          "_content": "Fujifilm FinePix S5 Pro"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.3"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "CompactFlash, Microdrive"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3113/cameras/64750_model_small_72cd8e9ae0.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3113/cameras/64750_model_large_d87ccc97cc.jpg"
+          }
+        }
+      },
+      {
+        "id": "x-s1",
+        "name": {
+          "_content": "Fujifilm X-S1"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, SDXC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8548/cameras/72157628295402001_model_small_541c6b5fb7.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8548/cameras/72157628295402001_model_large_df44a3b80f.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_s100fs",
+        "name": {
+          "_content": "Fujifilm FinePix S100fs"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "11.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture, Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3141/cameras/72157603929780997_model_small_b50d8e192e.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3141/cameras/72157603929780997_model_large_cb627aef6b.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_s3_pro",
+        "name": {
+          "_content": "Fujifilm FinePix S3 Pro"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.3"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "CompactFlash, XD-Picture Card, Microdrive"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/114/cameras/730_model_small_7084b705d9.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/114/cameras/730_model_large_7f4339028d.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_s602_zoom",
+        "name": {
+          "_content": "Fujifilm FinePix S602 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "3.1"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "SmartMedia Card (SM)"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/116/cameras/693_model_small_440210dd87.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/116/cameras/693_model_large_0e44bd7c3d.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_s2950",
+        "name": {
+          "_content": "Fujifilm FinePix S2950"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "14"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "SD/SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm7.staticflickr.com/6230/cameras/72157625055277406_model_small_274d24036a.jpg"
+          },
+          "large": {
+            "_content": "https://farm7.staticflickr.com/6230/cameras/72157625055277406_model_large_117ec33325.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_hs10",
+        "name": {
+          "_content": "Fujifilm FinePix HS10"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10.3"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8317/cameras/72157623424622637_model_small_c6ed6e5920.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8317/cameras/72157623424622637_model_large_da9a11639a.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_s800",
+        "name": {
+          "_content": "Fujifilm FinePix S800"
+        }
+      },
+      {
+        "id": "finepix_f30",
+        "name": {
+          "_content": "Fujifilm FinePix F30"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6.3"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/117/cameras/426_model_small_67691de52e.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/117/cameras/426_model_large_18ca62fb78.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_s5500",
+        "name": {
+          "_content": "Fujifilm FinePix S5500"
+        }
+      },
+      {
+        "id": "finepix_f10",
+        "name": {
+          "_content": "Fujifilm FinePix F10"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6.3"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/115/cameras/178_model_small_7a9690d25d.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/115/cameras/178_model_large_74be1aba19.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_2800_zoom",
+        "name": {
+          "_content": "Fujifilm FinePix 2800 Zoom"
+        }
+      },
+      {
+        "id": "finepix_2600_zoom",
+        "name": {
+          "_content": "Fujifilm FinePix 2600 Zoom"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2291/cameras/323_model_small_10ab3dc83a.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2291/cameras/323_model_large_4b198da98e.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_e550",
+        "name": {
+          "_content": "Fujifilm FinePix E550"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6.3"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/115/cameras/427_model_small_88619a4a37.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/115/cameras/427_model_large_6b2182123c.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_s1500",
+        "name": {
+          "_content": "Fujifilm FinePix S1500"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2571/cameras/72157614964716587_model_small_9af5bd1c32.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2571/cameras/72157614964716587_model_large_6c06f24162.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_sl1000",
+        "name": {
+          "_content": "Fujifilm FinePix SL1000"
+        }
+      },
+      {
+        "id": "finepix_a500",
+        "name": {
+          "_content": "Fujifilm FinePix A500"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5.1"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/660_model_small_16e15759a9.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/660_model_large_8966b3b1e1.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_s9100",
+        "name": {
+          "_content": "Fujifilm FinePix S9100"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "9"
+          },
+          "memory_type": {
+            "_content": "CompactFlash, XD-Picture Card, Microdrive"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/111/cameras/6748_model_small_6472502013.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/111/cameras/6748_model_large_23ca995162.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_s2000hd",
+        "name": {
+          "_content": "Fujifilm FinePix S2000HD"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "SDHC Memory Card, Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3600/cameras/72157607041535250_model_small_3bf50d1708.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3600/cameras/72157607041535250_model_large_deaa986020.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_f40fd",
+        "name": {
+          "_content": "Fujifilm FinePix F40fd"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8.3"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card, XD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1302/cameras/72157600291660273_model_small_b8f5df59e7.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1302/cameras/72157600291660273_model_large_abfa925057.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_j10",
+        "name": {
+          "_content": "Fujifilm FinePix J10"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "SDHC Memory Card, XD-Picture Card Type H, XD-Picture Card Type M, MultiMediaCard, Secure Digital (SD) Card, XD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2203/cameras/72157604043638442_model_small_bc46f43a3a.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2203/cameras/72157604043638442_model_large_40402bab03.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_f50fd",
+        "name": {
+          "_content": "Fujifilm FinePix F50fd"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "SDHC Memory Card, XD-Picture Card Type H, XD-Picture Card Type M, Secure Digital (SD) Card, XD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2170/cameras/72157601062884556_model_small_3664974194.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2170/cameras/72157601062884556_model_large_95cabce7f2.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_s3000",
+        "name": {
+          "_content": "Fujifilm FinePix S3000"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "3.2"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/102/cameras/550_model_small_8074203564.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/102/cameras/550_model_large_0d2b300aa3.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_z33wp",
+        "name": {
+          "_content": "Fujifilm FinePix Z33WP"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4032/cameras/72157615192988353_model_small_e57679eb39.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4032/cameras/72157615192988353_model_large_26a217ff64.jpg"
+          }
+        }
+      },
+      {
+        "id": "xq1",
+        "name": {
+          "_content": "Fujifilm XQ1"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7328/cameras/72157636558954044_model_small_5c67d17a20.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7328/cameras/72157636558954044_model_large_3da81d200f.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_f20",
+        "name": {
+          "_content": "Fujifilm FinePix F20"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6.3"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/111/cameras/1296_model_small_f212017ce1.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/111/cameras/1296_model_large_063fc3c945.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_z20fd",
+        "name": {
+          "_content": "Fujifilm FinePix Z20fd"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture, Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3031/cameras/72157603902488114_model_small_93269c552a.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3031/cameras/72157603902488114_model_large_7ab8da8930.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_f100fd",
+        "name": {
+          "_content": "Fujifilm FinePix F100fd"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "xD-Picture, Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2088/cameras/72157604118236076_model_small_62c43c23f7.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2088/cameras/72157604118236076_model_large_6e221585b7.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_a345",
+        "name": {
+          "_content": "Fujifilm FinePix A345"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4.1"
+          },
+          "lcd_screen_size": {
+            "_content": "1.7"
+          },
+          "memory_type": {
+            "_content": "XD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/117/cameras/497_model_small_c141bac85a.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/117/cameras/497_model_large_99d1ff6e8e.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_z10fd",
+        "name": {
+          "_content": "Fujifilm FinePix Z10fd"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture, Secure Digital"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2414/cameras/72157601914152734_model_small_591f658dd3.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2414/cameras/72157601914152734_model_large_4685635641.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_a303",
+        "name": {
+          "_content": "Fujifilm FinePix A303"
+        }
+      },
+      {
+        "id": "finepix_a210",
+        "name": {
+          "_content": "Fujifilm FinePix A210"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1341/cameras/593_model_small_e6cb518013.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1341/cameras/593_model_large_db403379b3.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_a101",
+        "name": {
+          "_content": "Fujifilm FinePix A101"
+        }
+      },
+      {
+        "id": "sp-1500",
+        "name": {
+          "_content": "Fujifilm SP-1500"
+        }
+      },
+      {
+        "id": "finepix_f31fd",
+        "name": {
+          "_content": "Fujifilm FinePix F31fd"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6.3"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1215/cameras/51010_model_small_f7cf7056b4.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1215/cameras/51010_model_large_25aacc1419.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_s304",
+        "name": {
+          "_content": "Fujifilm FinePix S304"
+        }
+      },
+      {
+        "id": "finepix_f11",
+        "name": {
+          "_content": "Fujifilm FinePix F11"
+        }
+      },
+      {
+        "id": "finepix_f770exr",
+        "name": {
+          "_content": "Fujifilm FinePix F770EXR"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "16"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, SDXC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8456/cameras/72157629361711345_model_small_b068a59fca.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8456/cameras/72157629361711345_model_large_61b1a90487.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_f200exr",
+        "name": {
+          "_content": "Fujifilm FinePix F200EXR"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3453/cameras/72157613371221121_model_small_959dc4d331.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3453/cameras/72157613371221121_model_large_b0389b7315.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_s8000fd",
+        "name": {
+          "_content": "Fujifilm FinePix S8000fd"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture, Secure Digital"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2194/cameras/72157601927723068_model_small_b1e6a94e08.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2194/cameras/72157601927723068_model_large_a2bb767599.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_a330",
+        "name": {
+          "_content": "Fujifilm FinePix A330"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "3.2"
+          },
+          "lcd_screen_size": {
+            "_content": "1.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/107/cameras/545_model_small_95d9953970.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/107/cameras/545_model_large_ec5bfd4d87.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_s5200",
+        "name": {
+          "_content": "Fujifilm FinePix S5200"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5.1"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/115/cameras/867_model_small_ab955b8e2a.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/115/cameras/867_model_large_2409cab036.jpg"
+          }
+        }
+      },
+      {
+        "id": "slp800",
+        "name": {
+          "_content": "Fujifilm SLP800"
+        }
+      },
+      {
+        "id": "finepix_3800",
+        "name": {
+          "_content": "Fujifilm FinePix 3800"
+        }
+      },
+      {
+        "id": "finepix_f700",
+        "name": {
+          "_content": "Fujifilm FinePix F700"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6.2"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/111/cameras/164_model_small_74f79a234f.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/111/cameras/164_model_large_b7de1f327a.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_s8100fd",
+        "name": {
+          "_content": "Fujifilm FinePix S8100fd"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Internal, Secure Digital, SDHC, xD-Picture"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3155/cameras/72157604193110854_model_small_32107cb633.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3155/cameras/72157604193110854_model_large_9631ba4af1.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_a900",
+        "name": {
+          "_content": "Fujifilm FinePix A900"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "9"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "SDHC Memory Card, MultiMediaCard, Secure Digital (SD) Card, XD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1118/cameras/72157600293759810_model_small_543e2f6abe.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1118/cameras/72157600293759810_model_large_000c01c496.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_s5100",
+        "name": {
+          "_content": "Fujifilm FinePix S5100"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4"
+          },
+          "lcd_screen_size": {
+            "_content": "1.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/115/cameras/717_model_small_faf64a1c51.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/115/cameras/717_model_large_2939a3f0f6.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_z1",
+        "name": {
+          "_content": "Fujifilm FinePix Z1"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/115/cameras/170_model_small_ef98cd3926.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/115/cameras/170_model_large_af7a186f4d.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_2400_zoom",
+        "name": {
+          "_content": "Fujifilm FinePix 2400 Zoom"
+        }
+      },
+      {
+        "id": "finepix_e510",
+        "name": {
+          "_content": "Fujifilm FinePix E510"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/121/cameras/17_model_small_bca9b69110.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/121/cameras/17_model_large_7ed33ccd4d.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_f70exr",
+        "name": {
+          "_content": "Fujifilm FinePix F70EXR"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4004/cameras/72157621782300665_model_small_82d16a8848.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4004/cameras/72157621782300665_model_large_5f02272afc.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_z5fd",
+        "name": {
+          "_content": "Fujifilm FinePix Z5fd"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6.3"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1080/cameras/57387_model_small_485b8690e7.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1080/cameras/57387_model_large_e014ed3b38.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_e500",
+        "name": {
+          "_content": "Fujifilm FinePix E500"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/108/cameras/1360_model_small_e0f22e537e.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/108/cameras/1360_model_large_9fa56a06a3.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_f401",
+        "name": {
+          "_content": "Fujifilm FinePix F401"
+        }
+      },
+      {
+        "id": "finepix_v10",
+        "name": {
+          "_content": "Fujifilm FinePix V10"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/104/cameras/433_model_small_3d90699ae9.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/104/cameras/433_model_large_3aa7f26faf.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_a310",
+        "name": {
+          "_content": "Fujifilm FinePix A310"
+        }
+      },
+      {
+        "id": "finepix_40i",
+        "name": {
+          "_content": "Fujifilm FinePix 40i"
+        }
+      },
+      {
+        "id": "finepixa_201",
+        "name": {
+          "_content": "Fujifilm FinePix A201"
+        }
+      },
+      {
+        "id": "finepix_a820",
+        "name": {
+          "_content": "Fujifilm FinePix A820"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8.3"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture, Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1381/cameras/72157600293753866_model_small_ce510bc5e2.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1381/cameras/72157600293753866_model_large_6aa58fd0ee.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_a340",
+        "name": {
+          "_content": "Fujifilm FinePix A340"
+        }
+      },
+      {
+        "id": "finepix_e900",
+        "name": {
+          "_content": "Fujifilm FinePix E900"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "9"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/78_model_small_caed055318.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/78_model_large_1a8a836c5b.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_6900_zoom",
+        "name": {
+          "_content": "Fujifilm FinePix 6900 Zoom"
+        }
+      },
+      {
+        "id": "finepix_a800",
+        "name": {
+          "_content": "Fujifilm FinePix A800"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8.3"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, xD-Picture"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1009/cameras/72157600288683375_model_small_2dee0be014.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1009/cameras/72157600288683375_model_large_890b756da0.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_f450",
+        "name": {
+          "_content": "Fujifilm FinePix F450"
+        }
+      },
+      {
+        "id": "finepix_a203",
+        "name": {
+          "_content": "Fujifilm FinePix A203"
+        }
+      },
+      {
+        "id": "finepix_f410",
+        "name": {
+          "_content": "Fujifilm FinePix F410"
+        }
+      },
+      {
+        "id": "finepix_2650",
+        "name": {
+          "_content": "Fujifilm FinePix 2650"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1188/cameras/672_model_small_d480e4f5fa.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1188/cameras/672_model_large_c66baf243f.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_f480",
+        "name": {
+          "_content": "Fujifilm FinePix F480"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "SDHC Memory Card, XD-Picture Card Type H, XD-Picture Card Type M, MultiMediaCard, Secure Digital (SD) Card, XD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2147/cameras/72157601970308267_model_small_175f756ac7.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2147/cameras/72157601970308267_model_large_c585e3f941.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_f810",
+        "name": {
+          "_content": "Fujifilm FinePix F810"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6.3"
+          },
+          "lcd_screen_size": {
+            "_content": "2.1"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/697_model_small_2ff6b2fb18.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/697_model_large_23e580f3a7.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_f440",
+        "name": {
+          "_content": "Fujifilm FinePix F440"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/111/cameras/251_model_small_f1bbf370e0.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/111/cameras/251_model_large_e4b71283e9.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_a350",
+        "name": {
+          "_content": "Fujifilm FinePix A350"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4.1"
+          },
+          "lcd_screen_size": {
+            "_content": "1.7"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/100/cameras/16_model_small_7f34dd7452.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/100/cameras/16_model_large_2a2142e6bd.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_6800_zoom",
+        "name": {
+          "_content": "Fujifilm FinePix 6800 Zoom"
+        }
+      },
+      {
+        "id": "finepix_f601_zoom",
+        "name": {
+          "_content": "Fujifilm FinePix F601 Zoom"
+        }
+      },
+      {
+        "id": "finepix_s200exr",
+        "name": {
+          "_content": "Fujifilm FinePix S200EXR"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "SDHC Memory Card, Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4066/cameras/72157622104720000_model_small_06b634faab.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4066/cameras/72157622104720000_model_large_10eb84040d.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_1300",
+        "name": {
+          "_content": "Fujifilm FinePix 1300"
+        }
+      },
+      {
+        "id": "finepix_1400_zoom",
+        "name": {
+          "_content": "Fujifilm FinePix 1400 Zoom"
+        }
+      },
+      {
+        "id": "finepix_z2",
+        "name": {
+          "_content": "Fujifilm FinePix Z2"
+        }
+      },
+      {
+        "id": "finepix_j50",
+        "name": {
+          "_content": "Fujifilm FinePix J50"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "xD-Picture, Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4063/cameras/72157604255517401_model_small_d6ee79dd7d.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4063/cameras/72157604255517401_model_large_7380b9f826.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_4700_zoom",
+        "name": {
+          "_content": "Fujifilm FinePix 4700 Zoom"
+        }
+      },
+      {
+        "id": "finepix_z100fd",
+        "name": {
+          "_content": "Fujifilm FinePix Z100fd"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "xD-Picture, Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2155/cameras/72157602208583683_model_small_22166c9467.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2155/cameras/72157602208583683_model_large_0835ae1b54.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_s3500",
+        "name": {
+          "_content": "Fujifilm FinePix S3500"
+        }
+      },
+      {
+        "id": "finepix_4800_zoom",
+        "name": {
+          "_content": "Fujifilm FinePix 4800 Zoom"
+        }
+      },
+      {
+        "id": "finepix_f60fd",
+        "name": {
+          "_content": "Fujifilm FinePix F60fd"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "xD-Picture, Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4064/cameras/72157607145479948_model_small_0d536f3ce8.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4064/cameras/72157607145479948_model_large_595982e071.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_f470",
+        "name": {
+          "_content": "Fujifilm FinePix F470"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6"
+          },
+          "memory_type": {
+            "_content": "XD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/107/cameras/849_model_small_fb99b194e3.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/107/cameras/849_model_large_ba5baedf76.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_s1_pro",
+        "name": {
+          "_content": "Fujifilm FinePix S1 Pro"
+        }
+      },
+      {
+        "id": "finepix_4900_zoom",
+        "name": {
+          "_content": "Fujifilm FinePix 4900 Zoom"
+        }
+      },
+      {
+        "id": "finepix_a610",
+        "name": {
+          "_content": "Fujifilm FinePix A610"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6.3"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card, XD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1377/cameras/72157600292492432_model_small_27fc072282.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1377/cameras/72157600292492432_model_large_50146ebd21.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_a202",
+        "name": {
+          "_content": "Fujifilm FinePix A202"
+        }
+      },
+      {
+        "id": "finepix_a600",
+        "name": {
+          "_content": "Fujifilm FinePix A600"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6"
+          },
+          "lcd_screen_size": {
+            "_content": "2.4"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/102/cameras/1846_model_small_ba7dee90ed.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/102/cameras/1846_model_large_a4a59a9667.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_j150w",
+        "name": {
+          "_content": "Fujifilm FinePix J150W"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4064/cameras/72157607312292037_model_small_a59134cc8f.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4064/cameras/72157607312292037_model_large_b74509227a.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_a920",
+        "name": {
+          "_content": "Fujifilm FinePix A920"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "9"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "xD-Picture, Secure Digital"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2168/cameras/72157602268575011_model_small_ed3f932bd4.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2168/cameras/72157602268575011_model_large_543e24b197.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_f420",
+        "name": {
+          "_content": "Fujifilm FinePix F420"
+        }
+      },
+      {
+        "id": "finepix_s20_pro",
+        "name": {
+          "_content": "Fujifilm FinePix S20 Pro"
+        }
+      },
+      {
+        "id": "finepix_a400",
+        "name": {
+          "_content": "Fujifilm FinePix A400"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4.1"
+          },
+          "memory_type": {
+            "_content": "XD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/102/cameras/851_model_small_d35a180417.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/102/cameras/851_model_large_c7b3ba58a4.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_a204",
+        "name": {
+          "_content": "Fujifilm FinePix A204"
+        }
+      },
+      {
+        "id": "finepix_a700",
+        "name": {
+          "_content": "Fujifilm FinePix A700"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.3"
+          },
+          "lcd_screen_size": {
+            "_content": "2.4"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/112/cameras/49157_model_small_dfd3725b9b.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/112/cameras/49157_model_large_cd8884df68.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_s3100",
+        "name": {
+          "_content": "Fujifilm FinePix S3100"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4"
+          },
+          "lcd_screen_size": {
+            "_content": "1.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/110/cameras/452_model_small_3d03c39ba6.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/110/cameras/452_model_large_4a806de7da.jpg"
+          }
+        }
+      },
+      {
+        "id": "mx-1200",
+        "name": {
+          "_content": "Fujifilm MX-1200"
+        }
+      },
+      {
+        "id": "finepix_z30",
+        "name": {
+          "_content": "Fujifilm FinePix Z30"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4006/cameras/72157615770793681_model_small_1756aed077.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4006/cameras/72157615770793681_model_large_a56baf3948.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_f460",
+        "name": {
+          "_content": "Fujifilm FinePix F460"
+        }
+      },
+      {
+        "id": "mx-1700_zoom",
+        "name": {
+          "_content": "Fujifilm MX-1700 Zoom"
+        }
+      },
+      {
+        "id": "finepix_a205",
+        "name": {
+          "_content": "Fujifilm FinePix A205"
+        }
+      },
+      {
+        "id": "sp-2500",
+        "name": {
+          "_content": "Fujifilm SP-2500"
+        }
+      },
+      {
+        "id": "finepix_f650",
+        "name": {
+          "_content": "Fujifilm FinePix F650"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/116/cameras/1733_model_small_39cc83c372.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/116/cameras/1733_model_large_c918fa4b29.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_m603",
+        "name": {
+          "_content": "Fujifilm FinePix M603"
+        }
+      },
+      {
+        "id": "finepix_50i",
+        "name": {
+          "_content": "Fujifilm FinePix 50i"
+        }
+      },
+      {
+        "id": "finepix_2300",
+        "name": {
+          "_content": "Fujifilm FinePix 2300"
+        }
+      },
+      {
+        "id": "finepix_a805",
+        "name": {
+          "_content": "Fujifilm FinePix A805"
+        }
+      },
+      {
+        "id": "digital_q1",
+        "name": {
+          "_content": "Fujifilm Digital Q1"
+        }
+      },
+      {
+        "id": "finepix_f402",
+        "name": {
+          "_content": "Fujifilm FinePix F402"
+        }
+      },
+      {
+        "id": "finepix_f601",
+        "name": {
+          "_content": "Fujifilm FinePix F601"
+        }
+      },
+      {
+        "id": "a150",
+        "name": {
+          "_content": "Fujifilm A150"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4032/cameras/72157615991995390_model_small_19b92ee523.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4032/cameras/72157615991995390_model_large_32d59b642f.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_z3",
+        "name": {
+          "_content": "Fujifilm FinePix Z3"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/122/cameras/1255_model_small_4e4699b690.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/122/cameras/1255_model_large_2d0749fcf5.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_a205s",
+        "name": {
+          "_content": "Fujifilm FinePix A205S"
+        }
+      },
+      {
+        "id": "mx-2700",
+        "name": {
+          "_content": "Fujifilm MX-2700"
+        }
+      },
+      {
+        "id": "finepix_j250",
+        "name": {
+          "_content": "Fujifilm FinePix J250"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2761/cameras/72157617313641996_model_small_8e3662d62d.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2761/cameras/72157617313641996_model_large_039dfd4658.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_j20",
+        "name": {
+          "_content": "Fujifilm FinePix J20"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "SDHC Memory Card, Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2798/cameras/72157615642190560_model_small_e45a2f557b.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2798/cameras/72157615642190560_model_large_3d8001b87f.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_f610",
+        "name": {
+          "_content": "Fujifilm FinePix F610"
+        }
+      },
+      {
+        "id": "finepix_f455",
+        "name": {
+          "_content": "Fujifilm FinePix F455"
+        }
+      },
+      {
+        "id": "finepix_a200",
+        "name": {
+          "_content": "Fujifilm FinePix A200"
+        }
+      },
+      {
+        "id": "mx-700",
+        "name": {
+          "_content": "Fujifilm MX-700"
+        }
+      },
+      {
+        "id": "finepix_f45fd",
+        "name": {
+          "_content": "Fujifilm FinePix F45fd"
+        }
+      },
+      {
+        "id": "finepix_z200fd",
+        "name": {
+          "_content": "Fujifilm FinePix Z200fd"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, xD-Picture"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2789/cameras/72157605478719031_model_small_38189a6100.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2789/cameras/72157605478719031_model_large_2e0421ba20.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_f47fd",
+        "name": {
+          "_content": "Fujifilm FinePix F47fd"
+        }
+      },
+      {
+        "id": "finepix_f50se",
+        "name": {
+          "_content": "Fujifilm FinePix F50SE"
+        }
+      },
+      {
+        "id": "mx-1500",
+        "name": {
+          "_content": "Fujifilm MX-1500"
+        }
+      },
+      {
+        "id": "finepix_a607",
+        "name": {
+          "_content": "Fujifilm FinePix A607"
+        }
+      },
+      {
+        "id": "finepix_z37",
+        "name": {
+          "_content": "Fujifilm FinePix Z37"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "SDHC Memory Card, MultiMediaCard, Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4055/cameras/72157622399227417_model_small_b0af0fc488.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4055/cameras/72157622399227417_model_large_ae058a348d.jpg"
+          }
+        }
+      },
+      {
+        "id": "digital_q1_3m",
+        "name": {
+          "_content": "Fujifilm Digital Q1 3M"
+        }
+      },
+      {
+        "id": "finepix_s602",
+        "name": {
+          "_content": "Fujifilm FinePix S602"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "3.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "CompactFlash, SmartMedia"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/103/cameras/2501_model_small_b976365fb8.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/103/cameras/2501_model_large_adef1e8fb1.jpg"
+          }
+        }
+      },
+      {
+        "id": "finepix_1700_zoom",
+        "name": {
+          "_content": "Fujifilm FinePix 1700 Zoom"
+        }
+      },
+      {
+        "id": "finepix_a360",
+        "name": {
+          "_content": "Fujifilm FinePix A360"
+        }
+      },
+      {
+        "id": "finepix_f710",
+        "name": {
+          "_content": "Fujifilm FinePix F710"
+        }
+      },
+      {
+        "id": "finepix_a403",
+        "name": {
+          "_content": "Fujifilm FinePix A403"
+        }
+      },
+      {
+        "id": "finepix_a510",
+        "name": {
+          "_content": "Fujifilm FinePix A510"
+        }
+      },
+      {
+        "id": "mx-2900_zoom",
+        "name": {
+          "_content": "Fujifilm MX-2900 Zoom"
+        }
+      },
+      {
+        "id": "finepix_a120",
+        "name": {
+          "_content": "Fujifilm FinePix A120"
+        }
+      },
+      {
+        "id": "finepix_a370",
+        "name": {
+          "_content": "Fujifilm FinePix A370"
+        }
+      },
+      {
+        "id": "finepix_a405",
+        "name": {
+          "_content": "Fujifilm FinePix A405"
+        }
+      },
+      {
+        "id": "finepix_4500",
+        "name": {
+          "_content": "Fujifilm FinePix 4500"
+        }
+      },
+      {
+        "id": "dx-10",
+        "name": {
+          "_content": "Fujifilm DX-10"
+        }
+      },
+      {
+        "id": "mx-500",
+        "name": {
+          "_content": "Fujifilm MX-500"
+        }
+      },
+      {
+        "id": "finepix_30i",
+        "name": {
+          "_content": "Fujifilm FinePix 30i"
+        }
+      },
+      {
+        "id": "finepix_700",
+        "name": {
+          "_content": "Fujifilm FinePix 700"
+        }
+      },
+      {
+        "id": "mx-600_zoom",
+        "name": {
+          "_content": "Fujifilm MX-600 Zoom"
+        }
+      },
+      {
+        "id": "finepix_a605",
+        "name": {
+          "_content": "Fujifilm FinePix A605"
+        }
+      },
+      {
+        "id": "dx-7",
+        "name": {
+          "_content": "Fujifilm DX-7"
+        }
+      },
+      {
+        "id": "dx-5",
+        "name": {
+          "_content": "Fujifilm DX-5"
+        }
+      },
+      {
+        "id": "finepix_1500",
+        "name": {
+          "_content": "Fujifilm FinePix 1500"
+        }
+      },
+      {
+        "id": "finepix_is_1",
+        "name": {
+          "_content": "Fujifilm Finepix IS-1"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "9"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "CompactFlash, XD-Picture Card, Microdrive"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3574/cameras/72157600293169416_model_small_b724e70d7a.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3574/cameras/72157600293169416_model_large_c00f823a68.jpg"
+          }
+        }
+      }
+    ]
+  },
+  "stat": "ok"
+}

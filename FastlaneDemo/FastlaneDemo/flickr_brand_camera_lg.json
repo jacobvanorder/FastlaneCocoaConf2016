@@ -1,0 +1,252 @@
+{
+  "cameras": {
+    "brand": "lg",
+    "camera": [
+      {
+        "id": "g3",
+        "name": {
+          "_content": "LG G3"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7536/cameras/72157644414630640_model_small_8f08d5ca86.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7536/cameras/72157644414630640_model_large_a60bb2ecc9.jpg"
+          }
+        }
+      },
+      {
+        "id": "g4",
+        "name": {
+          "_content": "LG G4"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/579/cameras/72157651152237630_model_small_c2601b2081.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/579/cameras/72157651152237630_model_large_9fe13f731c.jpg"
+          }
+        }
+      },
+      {
+        "id": "g2",
+        "name": {
+          "_content": "LG G2"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7465/cameras/72157634739537554_model_small_1bfe4c5272.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7465/cameras/72157634739537554_model_large_b010aec6d9.jpg"
+          }
+        }
+      },
+      {
+        "id": "g_stylo",
+        "name": {
+          "_content": "LG G Stylo"
+        }
+      },
+      {
+        "id": "g_pro_2",
+        "name": {
+          "_content": "LG G Pro 2"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7581/cameras/72157642610201704_model_small_8bd5002c6f.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7581/cameras/72157642610201704_model_large_013b4ff8a9.jpg"
+          }
+        }
+      },
+      {
+        "id": "optimus_g_pro",
+        "name": {
+          "_content": "LG Optimus G Pro"
+        }
+      },
+      {
+        "id": "l_bello",
+        "name": {
+          "_content": "LG L Bello"
+        }
+      },
+      {
+        "id": "l90",
+        "name": {
+          "_content": "LG L90"
+        }
+      },
+      {
+        "id": "leon",
+        "name": {
+          "_content": "LG Leon"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5712/cameras/72157652870091360_model_small_6cfd0ce99d.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5712/cameras/72157652870091360_model_large_fe7fbc90db.jpg"
+          }
+        }
+      },
+      {
+        "id": "volt",
+        "name": {
+          "_content": "LG Volt"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8897/cameras/72157644735657224_model_small_7c9a71a36c.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8897/cameras/72157644735657224_model_large_846528ddc0.jpg"
+          }
+        }
+      },
+      {
+        "id": "optimus_g",
+        "name": {
+          "_content": "LG Optimus G"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8825/cameras/72157632649088905_model_small_65867ca44e.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8825/cameras/72157632649088905_model_large_be1b49b620.jpg"
+          }
+        }
+      },
+      {
+        "id": "optimus_l70",
+        "name": {
+          "_content": "LG Optimus L70"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/770/cameras/72157644259137734_model_small_c7df3632cf.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/770/cameras/72157644259137734_model_large_fb778d5d1c.jpg"
+          }
+        }
+      },
+      {
+        "id": "g_pro_lite",
+        "name": {
+          "_content": "LG G Pro Lite"
+        }
+      },
+      {
+        "id": "ku990",
+        "name": {
+          "_content": "LG KU990"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3526/cameras/72157601810364683_model_small_e7e90ae711.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3526/cameras/72157601810364683_model_large_6b3e368a8d.jpg"
+          }
+        }
+      },
+      {
+        "id": "vx-8350",
+        "name": {
+          "_content": "LG VX-8350"
+        }
+      },
+      {
+        "id": "vx-9700",
+        "name": {
+          "_content": "LG VX-9700"
+        }
+      },
+      {
+        "id": "vx-8550",
+        "name": {
+          "_content": "LG VX-8550"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3377/cameras/72157600767694317_model_small_b5aa577c03.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3377/cameras/72157600767694317_model_large_55b22b1b94.jpg"
+          }
+        }
+      },
+      {
+        "id": "ke990",
+        "name": {
+          "_content": "LG KE990"
+        }
+      },
+      {
+        "id": "vx-8800",
+        "name": {
+          "_content": "LG VX-8800"
+        }
+      },
+      {
+        "id": "cu720",
+        "name": {
+          "_content": "LG CU720"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3426/cameras/72157602768624982_model_small_994472e54d.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3426/cameras/72157602768624982_model_large_b8928daeb1.jpg"
+          }
+        }
+      },
+      {
+        "id": "lx260",
+        "name": {
+          "_content": "LG LX260"
+        }
+      },
+      {
+        "id": "kf750",
+        "name": {
+          "_content": "LG KF750"
+        }
+      },
+      {
+        "id": "kf600",
+        "name": {
+          "_content": "LG KF600"
+        }
+      },
+      {
+        "id": "ke850",
+        "name": {
+          "_content": "LG KE850"
+        }
+      },
+      {
+        "id": "ax260",
+        "name": {
+          "_content": "LG AX260"
+        }
+      },
+      {
+        "id": "vx-8300",
+        "name": {
+          "_content": "LG VX-8300"
+        }
+      }
+    ]
+  },
+  "stat": "ok"
+}

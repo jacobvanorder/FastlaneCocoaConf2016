@@ -1,0 +1,254 @@
+{
+  "cameras": {
+    "brand": "benq",
+    "camera": [
+      {
+        "id": "dc_2300",
+        "name": {
+          "_content": "BenQ DC 2300"
+        }
+      },
+      {
+        "id": "dc_c500",
+        "name": {
+          "_content": "BenQ DC C500"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2119/cameras/1910_model_small_54854a2285.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2119/cameras/1910_model_large_d873cc1f35.jpg"
+          }
+        }
+      },
+      {
+        "id": "dc_c540",
+        "name": {
+          "_content": "BenQ DC C540"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2281/cameras/24172_model_small_fed6cfed3d.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2281/cameras/24172_model_large_cc925ce841.jpg"
+          }
+        }
+      },
+      {
+        "id": "dc_c740",
+        "name": {
+          "_content": "BenQ DC C740"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2031/cameras/52448_model_small_5deb4678bb.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2031/cameras/52448_model_large_f548115b85.jpg"
+          }
+        }
+      },
+      {
+        "id": "dc_c530",
+        "name": {
+          "_content": "BenQ DC C530"
+        }
+      },
+      {
+        "id": "dc_c640",
+        "name": {
+          "_content": "BenQ DC C640"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2256/cameras/72157600292980869_model_small_29d6cf1cab.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2256/cameras/72157600292980869_model_large_f2dad2d3e7.jpg"
+          }
+        }
+      },
+      {
+        "id": "dc_1500",
+        "name": {
+          "_content": "BenQ DC 1500"
+        }
+      },
+      {
+        "id": "dc_x600",
+        "name": {
+          "_content": "BenQ DC X600"
+        }
+      },
+      {
+        "id": "dc_e53",
+        "name": {
+          "_content": "BenQ DC E53"
+        }
+      },
+      {
+        "id": "dc_e300",
+        "name": {
+          "_content": "BenQ DC E300"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2085/cameras/1740_model_small_a7ca1285e0.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2085/cameras/1740_model_large_a8fa8bdb83.jpg"
+          }
+        }
+      },
+      {
+        "id": "dc_e30",
+        "name": {
+          "_content": "BenQ DC E30"
+        }
+      },
+      {
+        "id": "dc_e600",
+        "name": {
+          "_content": "BenQ DC E600"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2420/cameras/1819_model_small_52aa56c863.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2420/cameras/1819_model_large_682c288a3e.jpg"
+          }
+        }
+      },
+      {
+        "id": "dc_c520",
+        "name": {
+          "_content": "BenQ DC C520"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2129/cameras/322_model_small_38ff1cfba9.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2129/cameras/322_model_large_f173b65b6f.jpg"
+          }
+        }
+      },
+      {
+        "id": "dc_2410",
+        "name": {
+          "_content": "BenQ DC 2410"
+        }
+      },
+      {
+        "id": "s88",
+        "name": {
+          "_content": "BenQ-Siemens S88"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2402/cameras/1563_model_small_88374ae6fe.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2402/cameras/1563_model_large_580f6e457c.jpg"
+          }
+        }
+      },
+      {
+        "id": "dc_c510",
+        "name": {
+          "_content": "BenQ DC C510"
+        }
+      },
+      {
+        "id": "dc_c740i",
+        "name": {
+          "_content": "BenQ DC C740i"
+        }
+      },
+      {
+        "id": "dc_e520",
+        "name": {
+          "_content": "BenQ DC E520"
+        }
+      },
+      {
+        "id": "dc_e53_plus",
+        "name": {
+          "_content": "BenQ DC E53+"
+        }
+      },
+      {
+        "id": "dc_c420",
+        "name": {
+          "_content": "BenQ DC C420"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2385/cameras/1800_model_small_c35b133814.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2385/cameras/1800_model_large_c90b5ace3a.jpg"
+          }
+        }
+      },
+      {
+        "id": "dc_c800",
+        "name": {
+          "_content": "BenQ DC C800"
+        }
+      },
+      {
+        "id": "dc_x720",
+        "name": {
+          "_content": "BenQ DC X720"
+        }
+      },
+      {
+        "id": "dc_c50",
+        "name": {
+          "_content": "BenQ DC C50"
+        }
+      },
+      {
+        "id": "dc_c60",
+        "name": {
+          "_content": "BenQ DC C60"
+        }
+      },
+      {
+        "id": "dc_e610",
+        "name": {
+          "_content": "BenQ DC E610"
+        }
+      },
+      {
+        "id": "dc_c630",
+        "name": {
+          "_content": "BenQ DC C630"
+        }
+      },
+      {
+        "id": "dc_c745",
+        "name": {
+          "_content": "BenQ DC C745"
+        }
+      },
+      {
+        "id": "dc_p500",
+        "name": {
+          "_content": "BenQ DC P500"
+        }
+      },
+      {
+        "id": "dc_e43",
+        "name": {
+          "_content": "BenQ DC E43"
+        }
+      }
+    ]
+  },
+  "stat": "ok"
+}

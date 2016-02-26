@@ -1,0 +1,401 @@
+{
+  "cameras": {
+    "brand": "apple",
+    "camera": [
+      {
+        "id": "iphone_6",
+        "name": {
+          "_content": "Apple iPhone 6"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5616/cameras/72157626544376501_model_small_280e5c0d46.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5616/cameras/72157626544376501_model_large_69e7e5cfc6.jpg"
+          }
+        }
+      },
+      {
+        "id": "iphone_5s",
+        "name": {
+          "_content": "Apple iPhone 5s"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3779/cameras/72157631630773540_model_small_d9a29d7160.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3779/cameras/72157631630773540_model_large_6b334ce090.jpg"
+          }
+        }
+      },
+      {
+        "id": "iphone_6s",
+        "name": {
+          "_content": "Apple iPhone 6s"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/615/cameras/72157649729407924_model_small_a75f9b82bc.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/615/cameras/72157649729407924_model_large_4d8d372693.jpg"
+          }
+        }
+      },
+      {
+        "id": "iphone_6_plus",
+        "name": {
+          "_content": "Apple iPhone 6 Plus"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7539/cameras/72157646332994490_model_small_8fa2c0915a.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7539/cameras/72157646332994490_model_large_ba76ed17ea.jpg"
+          }
+        }
+      },
+      {
+        "id": "iphone_5",
+        "name": {
+          "_content": "Apple iPhone 5"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "4"
+          },
+          "memory_type": {
+            "_content": "Flash"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8300/cameras/72157627371520786_model_small_775ab5a0a1.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8300/cameras/72157627371520786_model_large_0efe1b89d6.jpg"
+          }
+        }
+      },
+      {
+        "id": "iphone_6s_plus",
+        "name": {
+          "_content": "Apple iPhone 6s Plus"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/637/cameras/72157656863701206_model_small_bc9bd69939.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/637/cameras/72157656863701206_model_large_432d663de5.jpg"
+          }
+        }
+      },
+      {
+        "id": "iphone_4s",
+        "name": {
+          "_content": "Apple iPhone 4S"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "3.5"
+          },
+          "memory_type": {
+            "_content": "Built-in flash memory"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm7.staticflickr.com/6052/cameras/72157627469395877_model_small_e147f26ff2.jpg"
+          },
+          "large": {
+            "_content": "https://farm7.staticflickr.com/6052/cameras/72157627469395877_model_large_08f72c6d85.jpg"
+          }
+        }
+      },
+      {
+        "id": "iphone_5c",
+        "name": {
+          "_content": "Apple iPhone 5c"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2844/cameras/72157635735533466_model_small_e9b119e717.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2844/cameras/72157635735533466_model_large_ca5dcf2bf1.jpg"
+          }
+        }
+      },
+      {
+        "id": "iphone_4",
+        "name": {
+          "_content": "Apple iPhone 4"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "3.5"
+          },
+          "memory_type": {
+            "_content": "Built-in flash memory"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4125/cameras/72157624172742253_model_small_1af967b188.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4125/cameras/72157624172742253_model_large_d18070a0a9.jpg"
+          }
+        }
+      },
+      {
+        "id": "ipad",
+        "name": {
+          "_content": "Apple iPad"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7209/cameras/72157623665988795_model_small_5de9c03a85.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7209/cameras/72157623665988795_model_large_0a6011d6d4.jpg"
+          }
+        }
+      },
+      {
+        "id": "iphone_3g",
+        "name": {
+          "_content": "Apple iPhone 3G"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "2"
+          },
+          "lcd_screen_size": {
+            "_content": "3.5"
+          },
+          "memory_type": {
+            "_content": "Built in flash memory"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2601/cameras/72157607254796933_model_small_dc2576e364.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2601/cameras/72157607254796933_model_large_95582fe19b.jpg"
+          }
+        }
+      },
+      {
+        "id": "ipad_air",
+        "name": {
+          "_content": "Apple iPad Air"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5502/cameras/72157637202309856_model_small_8d7eb7ac2b.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5502/cameras/72157637202309856_model_large_120d6c670c.jpg"
+          }
+        }
+      },
+      {
+        "id": "ipad_mini",
+        "name": {
+          "_content": "Apple iPad mini"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8515/cameras/72157631890628727_model_small_86f430a7f8.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8515/cameras/72157631890628727_model_large_e3320070e6.jpg"
+          }
+        }
+      },
+      {
+        "id": "ipad_air_2",
+        "name": {
+          "_content": "Apple iPad Air 2"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7553/cameras/72157646591949763_model_small_17b50b70c9.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7553/cameras/72157646591949763_model_large_35b6ec875e.jpg"
+          }
+        }
+      },
+      {
+        "id": "ipod_touch",
+        "name": {
+          "_content": "Apple iPod touch"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "0.7"
+          },
+          "lcd_screen_size": {
+            "_content": "3.5"
+          },
+          "memory_type": {
+            "_content": "Built-in Flash memory"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4030/cameras/72157623138774737_model_small_6149a4f628.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4030/cameras/72157623138774737_model_large_aa5445bb68.jpg"
+          }
+        }
+      },
+      {
+        "id": "ipad_mini_2",
+        "name": {
+          "_content": "Apple iPad mini 2"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3950/cameras/72157648278648916_model_small_867d2461ed.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3950/cameras/72157648278648916_model_large_e5446a2d54.jpg"
+          }
+        }
+      },
+      {
+        "id": "ipad_2",
+        "name": {
+          "_content": "Apple iPad 2"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5059/cameras/72157626232575220_model_small_74ab68b50f.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5059/cameras/72157626232575220_model_large_84e7e873b5.jpg"
+          }
+        }
+      },
+      {
+        "id": "iphone_3gs",
+        "name": {
+          "_content": "Apple iPhone 3GS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "3"
+          },
+          "lcd_screen_size": {
+            "_content": "3.5"
+          },
+          "memory_type": {
+            "_content": "Built in flash memory"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2750/cameras/72157620775652629_model_small_620f694bc1.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2750/cameras/72157620775652629_model_large_20da408b19.jpg"
+          }
+        }
+      },
+      {
+        "id": "ios_other",
+        "name": {
+          "_content": "Apple iOS other"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7789/cameras/72157629030776333_model_small_8e14ca7c89.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7789/cameras/72157629030776333_model_large_c52c1d856e.jpg"
+          }
+        }
+      },
+      {
+        "id": "ipad_mini_3",
+        "name": {
+          "_content": "Apple iPad mini 3"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7759/cameras/72157648903850216_model_small_5952b4499c.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7759/cameras/72157648903850216_model_large_0ef29c4a80.jpg"
+          }
+        }
+      },
+      {
+        "id": "quicktake_200",
+        "name": {
+          "_content": "Apple QuickTake 200"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2139/cameras/4406_model_small_e76124c7ee.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2139/cameras/4406_model_large_4cae618a07.jpg"
+          }
+        }
+      },
+      {
+        "id": "quicktake_100",
+        "name": {
+          "_content": "Apple QuickTake 100"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2035/cameras/33992_model_small_723cdf9428.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2035/cameras/33992_model_large_ebd447a462.jpg"
+          }
+        }
+      },
+      {
+        "id": "quicktake_150",
+        "name": {
+          "_content": "Apple QuickTake 150"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2280/cameras/19159_model_small_943b08b0ac.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2280/cameras/19159_model_large_3a063e0d29.jpg"
+          }
+        }
+      }
+    ]
+  },
+  "stat": "ok"
+}

@@ -1,0 +1,106 @@
+{
+  "cameras": {
+    "brand": "gopro",
+    "camera": [
+      {
+        "id": "hero4",
+        "name": {
+          "_content": "GoPro HERO4"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7700/cameras/72157646632037510_model_small_be5abd01e6.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7700/cameras/72157646632037510_model_large_a73115f8a8.jpg"
+          }
+        }
+      },
+      {
+        "id": "hero3plus",
+        "name": {
+          "_content": "GoPro HERO3+"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2843/cameras/72157636225723853_model_small_cf97441ba5.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2843/cameras/72157636225723853_model_large_10c3b6cde4.jpg"
+          }
+        }
+      },
+      {
+        "id": "hero3",
+        "name": {
+          "_content": "GoPro HERO3"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8418/cameras/72157631822562176_model_small_435ce99dd0.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8418/cameras/72157631822562176_model_large_a24cb4d4e3.jpg"
+          }
+        }
+      },
+      {
+        "id": "hd2",
+        "name": {
+          "_content": "GoPro HD2"
+        }
+      },
+      {
+        "id": "hero",
+        "name": {
+          "_content": "GoPro HERO"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7664/cameras/72157648242089087_model_small_5f7c4021d8.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7664/cameras/72157648242089087_model_large_0f829c76e8.jpg"
+          }
+        }
+      },
+      {
+        "id": "hero3-silver_edition",
+        "name": {
+          "_content": "GoPro Hero3-Silver Edition"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3714/cameras/72157632035620832_model_small_d987512212.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3714/cameras/72157632035620832_model_large_f6e6004cde.jpg"
+          }
+        }
+      },
+      {
+        "id": "hd_hero2",
+        "name": {
+          "_content": "GoPro HD HERO2"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "11"
+          },
+          "memory_type": {
+            "_content": "SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5459/cameras/72157629369744474_model_small_e3ffa50d79.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5459/cameras/72157629369744474_model_large_5294d5f94c.jpg"
+          }
+        }
+      }
+    ]
+  },
+  "stat": "ok"
+}

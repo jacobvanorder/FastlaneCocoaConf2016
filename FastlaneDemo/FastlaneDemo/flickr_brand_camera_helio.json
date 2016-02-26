@@ -1,0 +1,34 @@
+{
+  "cameras": {
+    "brand": "helio",
+    "camera": [
+      {
+        "id": "ocean",
+        "name": {
+          "_content": "Helio Ocean"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3066/cameras/72157600292926652_model_small_389d98dcc3.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3066/cameras/72157600292926652_model_large_10885e920b.jpg"
+          }
+        }
+      },
+      {
+        "id": "fin",
+        "name": {
+          "_content": "Helio Fin"
+        }
+      },
+      {
+        "id": "mysto",
+        "name": {
+          "_content": "Helio Mysto"
+        }
+      }
+    ]
+  },
+  "stat": "ok"
+}

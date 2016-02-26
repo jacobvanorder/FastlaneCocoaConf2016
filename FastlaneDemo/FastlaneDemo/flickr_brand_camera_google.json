@@ -1,0 +1,14 @@
+{
+  "cameras": {
+    "brand": "google",
+    "camera": [
+      {
+        "id": "glass",
+        "name": {
+          "_content": "Google Glass"
+        }
+      }
+    ]
+  },
+  "stat": "ok"
+}

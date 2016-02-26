@@ -1,0 +1,285 @@
+{
+  "cameras": {
+    "brand": "kyocera",
+    "camera": [
+      {
+        "id": "finecam_s4",
+        "name": {
+          "_content": "Kyocera Finecam S4"
+        }
+      },
+      {
+        "id": "contax_tvs_digital",
+        "name": {
+          "_content": "Kyocera Contax TVS Digital"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "1.6"
+          },
+          "memory_type": {
+            "_content": "MultiMediaCard, Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/101/cameras/848_model_small_2a5794622e.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/101/cameras/848_model_large_1446153fba.jpg"
+          }
+        }
+      },
+      {
+        "id": "finecam_sl300r",
+        "name": {
+          "_content": "Kyocera Finecam SL300R"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/105/cameras/422_model_small_9fc12bc1ea.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/105/cameras/422_model_large_4c3e9dbcf0.jpg"
+          }
+        }
+      },
+      {
+        "id": "finecam_sl400r",
+        "name": {
+          "_content": "Kyocera Finecam SL400R"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/100/cameras/1016_model_small_41dbc23c0a.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/100/cameras/1016_model_large_a04623f274.jpg"
+          }
+        }
+      },
+      {
+        "id": "finecam_s5r",
+        "name": {
+          "_content": "Kyocera Finecam S5R"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "1.6"
+          },
+          "memory_type": {
+            "_content": "MultiMediaCard, Secure Digital"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2339/cameras/1779_model_small_d7657bfc46.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2339/cameras/1779_model_large_32ed3d061b.jpg"
+          }
+        }
+      },
+      {
+        "id": "finecam_sl300r_tstar",
+        "name": {
+          "_content": "Kyocera Finecam SL300R T*"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/101/cameras/439_model_small_615bec12a8.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/101/cameras/439_model_large_757504f85f.jpg"
+          }
+        }
+      },
+      {
+        "id": "finecam_m410r",
+        "name": {
+          "_content": "Kyocera Finecam M410R"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4"
+          },
+          "lcd_screen_size": {
+            "_content": "1.5"
+          },
+          "memory_type": {
+            "_content": "MultiMediaCard, Secure Digital"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/109/cameras/1160_model_small_9c51f422f7.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/109/cameras/1160_model_large_f3e807eb95.jpg"
+          }
+        }
+      },
+      {
+        "id": "finecam_s3",
+        "name": {
+          "_content": "Kyocera Finecam S3"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1273/cameras/1770_model_small_46521b8800.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1273/cameras/1770_model_large_685497489a.jpg"
+          }
+        }
+      },
+      {
+        "id": "contax_n_digital",
+        "name": {
+          "_content": "Kyocera Contax N Digital"
+        }
+      },
+      {
+        "id": "finecam_s5",
+        "name": {
+          "_content": "Kyocera Finecam S5"
+        }
+      },
+      {
+        "id": "finecam_s3r",
+        "name": {
+          "_content": "Kyocera Finecam S3R"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/1000_model_small_cc2b6ad79f.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/1000_model_large_7231e18d17.jpg"
+          }
+        }
+      },
+      {
+        "id": "finecam_s3l",
+        "name": {
+          "_content": "Kyocera Finecam S3L"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1139/cameras/1533_model_small_1267ba74b1.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1139/cameras/1533_model_large_1f05ae2122.jpg"
+          }
+        }
+      },
+      {
+        "id": "finecam_l4v",
+        "name": {
+          "_content": "Kyocera Finecam L4v"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1180/cameras/2459_model_small_8fecd89a04.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1180/cameras/2459_model_large_f91b58a29c.jpg"
+          }
+        }
+      },
+      {
+        "id": "finecam_s3x",
+        "name": {
+          "_content": "Kyocera Finecam S3x"
+        }
+      },
+      {
+        "id": "contax_i4r",
+        "name": {
+          "_content": "Kyocera Contax i4R"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/100/cameras/1009_model_small_580a0906de.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/100/cameras/1009_model_large_990d3de0c5.jpg"
+          }
+        }
+      },
+      {
+        "id": "finecam_l3v",
+        "name": {
+          "_content": "Kyocera Finecam L3v"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/113/cameras/1911_model_small_deeaf21358.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/113/cameras/1911_model_large_0b58b4f9c1.jpg"
+          }
+        }
+      },
+      {
+        "id": "finecam_l3",
+        "name": {
+          "_content": "Kyocera Finecam L3"
+        }
+      },
+      {
+        "id": "contax_u4r",
+        "name": {
+          "_content": "Kyocera Contax U4R"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1378/cameras/2090_model_small_0dcc2367b4.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1378/cameras/2090_model_large_f3b4d66061.jpg"
+          }
+        }
+      },
+      {
+        "id": "wx310k",
+        "name": {
+          "_content": "Kyocera WX310K"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2258/cameras/1732_model_small_30a4a3c36e.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2258/cameras/1732_model_large_8d2498c88d.jpg"
+          }
+        }
+      },
+      {
+        "id": "finecam_l30",
+        "name": {
+          "_content": "Kyocera Finecam L30"
+        }
+      },
+      {
+        "id": "finecam_l4",
+        "name": {
+          "_content": "Kyocera Finecam L4"
+        }
+      },
+      {
+        "id": "samurai_2100dg",
+        "name": {
+          "_content": "Kyocera Samural 2100DG"
+        }
+      }
+    ]
+  },
+  "stat": "ok"
+}

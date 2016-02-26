@@ -1,0 +1,2795 @@
+{
+  "cameras": {
+    "brand": "olympus",
+    "camera": [
+      {
+        "id": "e-m1",
+        "name": {
+          "_content": "Olympus E-M1"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2866/cameras/72157635393103891_model_small_257f4a8100.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2866/cameras/72157635393103891_model_large_ea2d3b98f0.jpg"
+          }
+        }
+      },
+      {
+        "id": "e-m5",
+        "name": {
+          "_content": "Olympus E-M5"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "16.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, SDXC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5458/cameras/72157629249027061_model_small_5878ba2ae2.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5458/cameras/72157629249027061_model_large_9abe282ea1.jpg"
+          }
+        }
+      },
+      {
+        "id": "e-m10",
+        "name": {
+          "_content": "Olympus E-M10"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2901/cameras/72157639361329386_model_small_cbb237b1af.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2901/cameras/72157639361329386_model_large_0800fcd8d6.jpg"
+          }
+        }
+      },
+      {
+        "id": "e-m5markii",
+        "name": {
+          "_content": "Olympus E-M5MarkII"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7775/cameras/72157648963904450_model_small_a6a9ef9153.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7775/cameras/72157648963904450_model_large_5364947624.jpg"
+          }
+        }
+      },
+      {
+        "id": "e-pl1",
+        "name": {
+          "_content": "Olympus E-PL1"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.3"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4113/cameras/72157623373323268_model_small_0177bb38df.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4113/cameras/72157623373323268_model_large_f64ca31a38.jpg"
+          }
+        }
+      },
+      {
+        "id": "e-pl5",
+        "name": {
+          "_content": "Olympus E-PL5"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "16.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDXC, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3827/cameras/72157631576696260_model_small_27407fcdd6.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3827/cameras/72157631576696260_model_large_9578592118.jpg"
+          }
+        }
+      },
+      {
+        "id": "e-m10markii",
+        "name": {
+          "_content": "Olympus E-M10MarkII"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1656/cameras/72157656204631868_model_small_759aa5accd.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1656/cameras/72157656204631868_model_large_0cd02c382d.jpg"
+          }
+        }
+      },
+      {
+        "id": "e-p5",
+        "name": {
+          "_content": "Olympus E-P5"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5461/cameras/72157633251941159_model_small_877df865d7.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5461/cameras/72157633251941159_model_large_cdb2b90976.jpg"
+          }
+        }
+      },
+      {
+        "id": "e500",
+        "name": {
+          "_content": "Olympus EVOLT E-500"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "CompactFlash, Microdrive, xD-Picture"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/115/cameras/523_model_small_bcbb2eb990.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/115/cameras/523_model_large_c32a79fcbd.jpg"
+          }
+        }
+      },
+      {
+        "id": "e510",
+        "name": {
+          "_content": "Olympus EVOLT E-510"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "CompactFlash, Microdrive, xD-Picture"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1001/cameras/72157600300939657_model_small_29ba592846.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1001/cameras/72157600300939657_model_large_6152ac547b.jpg"
+          }
+        }
+      },
+      {
+        "id": "tg-4",
+        "name": {
+          "_content": "Olympus TG-4"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3706/cameras/72157651767348870_model_small_0141236bbd.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3706/cameras/72157651767348870_model_large_a29809383b.jpg"
+          }
+        }
+      },
+      {
+        "id": "e-pl7",
+        "name": {
+          "_content": "Olympus E-PL7"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8850/cameras/72157646554750979_model_small_88fbc5828d.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8850/cameras/72157646554750979_model_large_d778b871f8.jpg"
+          }
+        }
+      },
+      {
+        "id": "e-pl6",
+        "name": {
+          "_content": "Olympus E-PL6"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5618/cameras/72157634453404392_model_small_810ea0a7fa.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5618/cameras/72157634453404392_model_large_eed60a009d.jpg"
+          }
+        }
+      },
+      {
+        "id": "e410",
+        "name": {
+          "_content": "Olympus EVOLT E-410"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "CompactFlash, Secure Digital, xD-Picture"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1412/cameras/72157600292412153_model_small_66e39baa7e.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1412/cameras/72157600292412153_model_large_4367de0987.jpg"
+          }
+        }
+      },
+      {
+        "id": "e-p3",
+        "name": {
+          "_content": "Olympus E-P3"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.3"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "SD"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8010/cameras/72157622067695888_model_small_48898b8625.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8010/cameras/72157622067695888_model_large_39c54367ec.jpg"
+          }
+        }
+      },
+      {
+        "id": "e-420",
+        "name": {
+          "_content": "Olympus EVOLT E-420"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "XD-Picture Card Type H, XD-Picture Card Type M, CompactFlash, XD-Picture Card, Microdrive"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2259/cameras/72157603923812695_model_small_36d523d443.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2259/cameras/72157603923812695_model_large_536dd356bf.jpg"
+          }
+        }
+      },
+      {
+        "id": "xz-1",
+        "name": {
+          "_content": "Olympus XZ-1"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "SDHC Memory Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5151/cameras/72157625763650038_model_small_f00ba42b07.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5151/cameras/72157625763650038_model_large_42238a40a7.jpg"
+          }
+        }
+      },
+      {
+        "id": "e-620",
+        "name": {
+          "_content": "Olympus E-620"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.3"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "xD-Picture, CompactFlash, Microdrive"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2472/cameras/72157614430144872_model_small_d4f7b46d98.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2472/cameras/72157614430144872_model_large_a50e617ce3.jpg"
+          }
+        }
+      },
+      {
+        "id": "e-pm2",
+        "name": {
+          "_content": "Olympus E-PM2"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "16.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDXC, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2810/cameras/72157631606240512_model_small_d85b8e14ee.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2810/cameras/72157631606240512_model_large_fe7143c1ea.jpg"
+          }
+        }
+      },
+      {
+        "id": "tg-3",
+        "name": {
+          "_content": "Olympus TG-3"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5618/cameras/72157644690022254_model_small_b2a74415fd.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5618/cameras/72157644690022254_model_large_5121aa4189.jpg"
+          }
+        }
+      },
+      {
+        "id": "e-pl3",
+        "name": {
+          "_content": "Olympus E-PL3"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.3"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "SD"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7244/cameras/72157627233269295_model_small_b3ab130f85.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7244/cameras/72157627233269295_model_large_9090c1fe94.jpg"
+          }
+        }
+      },
+      {
+        "id": "e-520",
+        "name": {
+          "_content": "Olympus EVOLT E-520"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "CompactFlash, XD-Picture Card, Microdrive"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3268/cameras/72157605154479537_model_small_830200192d.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3268/cameras/72157605154479537_model_large_a3ea677c8e.jpg"
+          }
+        }
+      },
+      {
+        "id": "c50z",
+        "name": {
+          "_content": "Olympus C50 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "1.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/119/cameras/122_model_small_a4073f16d2.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/119/cameras/122_model_large_ef50fa95e7.jpg"
+          }
+        }
+      },
+      {
+        "id": "s300",
+        "name": {
+          "_content": "Olympus Stylus 300"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/119/cameras/114_model_small_747e8144ea.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/119/cameras/114_model_large_0b12735438.jpg"
+          }
+        }
+      },
+      {
+        "id": "e3",
+        "name": {
+          "_content": "Olympus EVOLT E-3"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "CompactFlash, Microdrive, xD-Picture"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2297/cameras/72157602505458779_model_small_fe7b252342.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2297/cameras/72157602505458779_model_large_aab6b4bb5b.jpg"
+          }
+        }
+      },
+      {
+        "id": "e-pm1",
+        "name": {
+          "_content": "Olympus E-PM1"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.3"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Eye-Fi Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8460/cameras/72157627447471341_model_small_0486e6593b.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8460/cameras/72157627447471341_model_large_2b8147baf2.jpg"
+          }
+        }
+      },
+      {
+        "id": "xz-2",
+        "name": {
+          "_content": "Olympus XZ-2"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/714/cameras/72157631866528753_model_small_6ae1269c20.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/714/cameras/72157631866528753_model_large_0b665e9b63.jpg"
+          }
+        }
+      },
+      {
+        "id": "e-p1",
+        "name": {
+          "_content": "Olympus E-P1"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.3"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3451/cameras/72157619753903429_model_small_7024da3b49.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3451/cameras/72157619753903429_model_large_8b89a1e355.jpg"
+          }
+        }
+      },
+      {
+        "id": "c370z",
+        "name": {
+          "_content": "Olympus C370 Zoom"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1246/cameras/744_model_small_02dcbbca61.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1246/cameras/744_model_large_af6fc932bd.jpg"
+          }
+        }
+      },
+      {
+        "id": "c310z",
+        "name": {
+          "_content": "Olympus C310 Zoom"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/113/cameras/131_model_small_a85c75e708.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/113/cameras/131_model_large_d686c1647d.jpg"
+          }
+        }
+      },
+      {
+        "id": "c750uz",
+        "name": {
+          "_content": "Olympus C750 Ultra Zoom"
+        }
+      },
+      {
+        "id": "c740uz",
+        "name": {
+          "_content": "Olympus C740 Ultra Zoom"
+        }
+      },
+      {
+        "id": "tg-2",
+        "name": {
+          "_content": "Olympus TG-2"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, SDXC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7337/cameras/72157632478686045_model_small_652b88d31b.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7337/cameras/72157632478686045_model_large_bd1be7a327.jpg"
+          }
+        }
+      },
+      {
+        "id": "e300",
+        "name": {
+          "_content": "Olympus EVOLT E-300"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "CompactFlash, Microdrive"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/118/cameras/142_model_small_bfda8fa2f4.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/118/cameras/142_model_large_34e9ecb963.jpg"
+          }
+        }
+      },
+      {
+        "id": "c350z",
+        "name": {
+          "_content": "Olympus C350 Zoom"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/101/cameras/598_model_small_14a4de3fec.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/101/cameras/598_model_large_a37d88ea09.jpg"
+          }
+        }
+      },
+      {
+        "id": "e-5",
+        "name": {
+          "_content": "Olympus E-5"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.3"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4125/cameras/72157604868001244_model_small_f0002c874d.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4125/cameras/72157604868001244_model_large_15cc0c4b26.jpg"
+          }
+        }
+      },
+      {
+        "id": "c4000z",
+        "name": {
+          "_content": "Olympus C4000 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "SmartMedia Card (SM)"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1227/cameras/685_model_small_e3f2ed75d9.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1227/cameras/685_model_large_0acd48ae03.jpg"
+          }
+        }
+      },
+      {
+        "id": "e-pl2",
+        "name": {
+          "_content": "Olympus E-PL2"
+        }
+      },
+      {
+        "id": "s410",
+        "name": {
+          "_content": "Olympus Stylus 410"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4"
+          },
+          "lcd_screen_size": {
+            "_content": "1.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1215/cameras/317_model_small_c298268cc8.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1215/cameras/317_model_large_bc86e0b28f.jpg"
+          }
+        }
+      },
+      {
+        "id": "s400",
+        "name": {
+          "_content": "Olympus Stylus 400"
+        }
+      },
+      {
+        "id": "stylus1",
+        "name": {
+          "_content": "Olympus Stylus 1"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7363/cameras/72157637133545055_model_small_f43420d09f.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7363/cameras/72157637133545055_model_large_e932ae64ae.jpg"
+          }
+        }
+      },
+      {
+        "id": "s700",
+        "name": {
+          "_content": "Olympus Stylus 700"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "memory_type": {
+            "_content": "XD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/100/cameras/272_model_small_9e008dd7f5.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/100/cameras/272_model_large_ec658c908f.jpg"
+          }
+        }
+      },
+      {
+        "id": "sp550uz",
+        "name": {
+          "_content": "Olympus SP550 Ultra Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "XD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1016/cameras/72157600288581527_model_small_07416d1f89.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1016/cameras/72157600288581527_model_large_3b249be90a.jpg"
+          }
+        }
+      },
+      {
+        "id": "sp800uz",
+        "name": {
+          "_content": "Olympus SP800UZ"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "14"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4106/cameras/72157623568458667_model_small_361c23fe94.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4106/cameras/72157623568458667_model_large_c5a6e1ba88.jpg"
+          }
+        }
+      },
+      {
+        "id": "fe230",
+        "name": {
+          "_content": "Olympus FE230"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1346/cameras/64070_model_small_45418544bf.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1346/cameras/64070_model_large_6e820f5e74.jpg"
+          }
+        }
+      },
+      {
+        "id": "e-p2",
+        "name": {
+          "_content": "Olympus E-P2"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.3"
+          }
+        }
+      },
+      {
+        "id": "s850sw",
+        "name": {
+          "_content": "Olympus Stylus 850SW"
+        }
+      },
+      {
+        "id": "fe210",
+        "name": {
+          "_content": "Olympus FE210"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "XD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1269/cameras/62036_model_small_b2fb0a5d06.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1269/cameras/62036_model_large_11a9dd4d78.jpg"
+          }
+        }
+      },
+      {
+        "id": "c220z",
+        "name": {
+          "_content": "Olympus C220 Zoom"
+        }
+      },
+      {
+        "id": "c5060wz",
+        "name": {
+          "_content": "Olympus C5060 Wide Zoom"
+        }
+      },
+      {
+        "id": "e-30",
+        "name": {
+          "_content": "Olympus E-30"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.3"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "CompactFlash Type I/II (UDMA), Microdrive, xD-Picture Card (Dual-Slot)"
+          }
+        }
+      },
+      {
+        "id": "s770sw",
+        "name": {
+          "_content": "Olympus Stylus 770SW"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "XD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1104/cameras/72157600288567451_model_small_6143e962de.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1104/cameras/72157600288567451_model_large_16aae9a067.jpg"
+          }
+        }
+      },
+      {
+        "id": "c5050z",
+        "name": {
+          "_content": "Olympus C5050 Zoom"
+        }
+      },
+      {
+        "id": "sp510uz",
+        "name": {
+          "_content": "Olympus SP510 Ultra Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "memory_type": {
+            "_content": "XD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/117/cameras/1358_model_small_8abf0d41db.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/117/cameras/1358_model_large_afa9af3797.jpg"
+          }
+        }
+      },
+      {
+        "id": "s1030sw",
+        "name": {
+          "_content": "Olympus Stylus 1030SW"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "xD-Picture"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2026/cameras/72157604057025961_model_small_3d305a4752.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2026/cameras/72157604057025961_model_large_1832b2813b.jpg"
+          }
+        }
+      },
+      {
+        "id": "s600",
+        "name": {
+          "_content": "Olympus Stylus 600"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/60_model_small_3f841f7755.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/60_model_large_f2d7669009.jpg"
+          }
+        }
+      },
+      {
+        "id": "c8080wz",
+        "name": {
+          "_content": "Olympus C8080 Wide Zoom"
+        }
+      },
+      {
+        "id": "e10",
+        "name": {
+          "_content": "Olympus EVOLT E-10"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "SmartMedia, CompactFlash"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/109/cameras/927_model_small_b1914a132f.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/109/cameras/927_model_large_45f2cb013e.jpg"
+          }
+        }
+      },
+      {
+        "id": "e1",
+        "name": {
+          "_content": "Olympus EVOLT E-1"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5.1"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "CompactFlash, Microdrive"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/121/cameras/506_model_small_c0e3212634.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/121/cameras/506_model_large_97f05a338e.jpg"
+          }
+        }
+      },
+      {
+        "id": "sv",
+        "name": {
+          "_content": "Olympus Stylus V"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/118/cameras/254_model_small_b97b67f7b7.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/118/cameras/254_model_large_0324261164.jpg"
+          }
+        }
+      },
+      {
+        "id": "c300z",
+        "name": {
+          "_content": "Olympus C300 Zoom"
+        }
+      },
+      {
+        "id": "c765uz",
+        "name": {
+          "_content": "Olympus C765 Ultra Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/102/cameras/371_model_small_b4f1cc42e9.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/102/cameras/371_model_large_3a9d00f80f.jpg"
+          }
+        }
+      },
+      {
+        "id": "c720uz",
+        "name": {
+          "_content": "Olympus C720 Ultra Zoom"
+        }
+      },
+      {
+        "id": "s1010",
+        "name": {
+          "_content": "Olympus Stylus 1010"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "xD-Picture"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2418/cameras/72157604000773846_model_small_1d36b2d421.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2418/cameras/72157604000773846_model_large_dfdd3f4f01.jpg"
+          }
+        }
+      },
+      {
+        "id": "c120",
+        "name": {
+          "_content": "Olympus C120"
+        }
+      },
+      {
+        "id": "sp590uz",
+        "name": {
+          "_content": "Olympus SP590UZ"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "xD-Picture"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3417/cameras/72157615637648557_model_small_5f59cbbf58.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3417/cameras/72157615637648557_model_large_cdbb7ccc4f.jpg"
+          }
+        }
+      },
+      {
+        "id": "sp500uz",
+        "name": {
+          "_content": "Olympus SP500 Ultra Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/108/cameras/135_model_small_d85403df9f.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/108/cameras/135_model_large_fb7001e8cd.jpg"
+          }
+        }
+      },
+      {
+        "id": "e400",
+        "name": {
+          "_content": "Olympus EVOLT E-400"
+        }
+      },
+      {
+        "id": "c860l",
+        "name": {
+          "_content": "Olympus C860L"
+        }
+      },
+      {
+        "id": "c5000z",
+        "name": {
+          "_content": "Olympus C5000 Zoom"
+        }
+      },
+      {
+        "id": "c990z",
+        "name": {
+          "_content": "Olympus C990 Zoom"
+        }
+      },
+      {
+        "id": "c460z",
+        "name": {
+          "_content": "Olympus C460 Zoom"
+        }
+      },
+      {
+        "id": "c770uz",
+        "name": {
+          "_content": "Olympus C770 Ultra Zoom"
+        }
+      },
+      {
+        "id": "c700uz",
+        "name": {
+          "_content": "Olympus C700 Ultra Zoom"
+        }
+      },
+      {
+        "id": "c960z",
+        "name": {
+          "_content": "Olympus C960 Zoom"
+        }
+      },
+      {
+        "id": "sp560_ultra_zoom",
+        "name": {
+          "_content": "Olympus SP560 Ultra Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "XD-Picture Card Type H, XD-Picture Card Type M, XD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2365/cameras/72157602219124143_model_small_cf27978938.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2365/cameras/72157602219124143_model_large_afbb46aa07.jpg"
+          }
+        }
+      },
+      {
+        "id": "fe190",
+        "name": {
+          "_content": "Olympus FE190"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/110/cameras/992_model_small_19821b654d.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/110/cameras/992_model_large_4dcfdc9f02.jpg"
+          }
+        }
+      },
+      {
+        "id": "s790sw",
+        "name": {
+          "_content": "Olympus Stylus 790SW"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8450/cameras/72157601804034830_model_small_edc1779875.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8450/cameras/72157601804034830_model_large_6c787768ec.jpg"
+          }
+        }
+      },
+      {
+        "id": "fe280",
+        "name": {
+          "_content": "Olympus FE280"
+        }
+      },
+      {
+        "id": "e20",
+        "name": {
+          "_content": "Olympus EVOLT E-20"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "SmartMedia Card (SM)"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/105/cameras/735_model_small_cfcd4d07c5.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/105/cameras/735_model_large_37ea91d5ec.jpg"
+          }
+        }
+      },
+      {
+        "id": "c3000z",
+        "name": {
+          "_content": "Olympus C3000 Zoom"
+        }
+      },
+      {
+        "id": "c150",
+        "name": {
+          "_content": "Olympus C150"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "2"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "XD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/102/cameras/19_model_small_ff4a921d6a.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/102/cameras/19_model_large_e58538f95a.jpg"
+          }
+        }
+      },
+      {
+        "id": "fe100",
+        "name": {
+          "_content": "Olympus FE100"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4"
+          },
+          "lcd_screen_size": {
+            "_content": "1.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/111/cameras/324_model_small_8f60d2698b.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/111/cameras/324_model_large_4aa5ff559d.jpg"
+          }
+        }
+      },
+      {
+        "id": "fe340",
+        "name": {
+          "_content": "Olympus FE340"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3571/cameras/72157603499300718_model_small_371cd746cc.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3571/cameras/72157603499300718_model_large_6486565442.jpg"
+          }
+        }
+      },
+      {
+        "id": "fe170",
+        "name": {
+          "_content": "Olympus FE170"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/108/cameras/1962_model_small_f9e4faaf6e.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/108/cameras/1962_model_large_402d2160aa.jpg"
+          }
+        }
+      },
+      {
+        "id": "c60z",
+        "name": {
+          "_content": "Olympus C60 Zoom"
+        }
+      },
+      {
+        "id": "c70z",
+        "name": {
+          "_content": "Olympus C70 Zoom"
+        }
+      },
+      {
+        "id": "c480z",
+        "name": {
+          "_content": "Olympus C480 Zoom"
+        }
+      },
+      {
+        "id": "s800",
+        "name": {
+          "_content": "Olympus Stylus 800"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/103/cameras/62_model_small_a9b4d68cfb.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/103/cameras/62_model_large_cc31cf0d94.jpg"
+          }
+        }
+      },
+      {
+        "id": "e-450",
+        "name": {
+          "_content": "Olympus E-450"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4107/cameras/72157618103371358_model_small_7a988b3f9b.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4107/cameras/72157618103371358_model_large_684ae094be.jpg"
+          }
+        }
+      },
+      {
+        "id": "c200z",
+        "name": {
+          "_content": "Olympus C200 Zoom"
+        }
+      },
+      {
+        "id": "s760",
+        "name": {
+          "_content": "Olympus Stylus 760"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1316/cameras/72157600289396904_model_small_9a21c7266e.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1316/cameras/72157600289396904_model_large_34937e6273.jpg"
+          }
+        }
+      },
+      {
+        "id": "c760uz",
+        "name": {
+          "_content": "Olympus C760 Ultra Zoom"
+        }
+      },
+      {
+        "id": "c900z",
+        "name": {
+          "_content": "Olympus C900 Zoom"
+        }
+      },
+      {
+        "id": "c2100uz",
+        "name": {
+          "_content": "Olympus C2100 Ultra Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "2.11"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "SSFDC/SmartMedia"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/100/cameras/479_model_small_f72761dd5a.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/100/cameras/479_model_large_1effd6bc3f.jpg"
+          }
+        }
+      },
+      {
+        "id": "c160",
+        "name": {
+          "_content": "Olympus C160"
+        }
+      },
+      {
+        "id": "fe310",
+        "name": {
+          "_content": "Olympus FE310"
+        }
+      },
+      {
+        "id": "s820",
+        "name": {
+          "_content": "Olympus Stylus 820"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2287/cameras/72157601768079662_model_small_ea4ed1e73a.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2287/cameras/72157601768079662_model_large_3a81667531.jpg"
+          }
+        }
+      },
+      {
+        "id": "fe240",
+        "name": {
+          "_content": "Olympus FE240"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "XD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1248/cameras/65740_model_small_3c307283d9.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1248/cameras/65740_model_large_07d6e9bb1f.jpg"
+          }
+        }
+      },
+      {
+        "id": "c3030z",
+        "name": {
+          "_content": "Olympus C3030 Zoom"
+        }
+      },
+      {
+        "id": "c830l",
+        "name": {
+          "_content": "Olympus C830L"
+        }
+      },
+      {
+        "id": "sp350",
+        "name": {
+          "_content": "Olympus SP350"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/113/cameras/273_model_small_2f392fd811.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/113/cameras/273_model_large_a8d839b094.jpg"
+          }
+        }
+      },
+      {
+        "id": "c360z",
+        "name": {
+          "_content": "Olympus C360 Zoom"
+        }
+      },
+      {
+        "id": "fe120",
+        "name": {
+          "_content": "Olympus FE120"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/106/cameras/745_model_small_5cccb9bf3d.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/106/cameras/745_model_large_f7fa443cb9.jpg"
+          }
+        }
+      },
+      {
+        "id": "s720sw",
+        "name": {
+          "_content": "Olympus Stylus 720SW"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/117/cameras/264_model_small_e4a3300820.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/117/cameras/264_model_large_ba4911edee.jpg"
+          }
+        }
+      },
+      {
+        "id": "c3020z",
+        "name": {
+          "_content": "Olympus C3020 Zoom"
+        }
+      },
+      {
+        "id": "sp570uz",
+        "name": {
+          "_content": "Olympus SP570 Ultra Zoom"
+        }
+      },
+      {
+        "id": "c4040z",
+        "name": {
+          "_content": "Olympus C4040 Zoom"
+        }
+      },
+      {
+        "id": "s500",
+        "name": {
+          "_content": "Olympus Stylus 500"
+        }
+      },
+      {
+        "id": "c180",
+        "name": {
+          "_content": "Olympus C180"
+        }
+      },
+      {
+        "id": "fe115",
+        "name": {
+          "_content": "Olympus FE115"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "1.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/118/cameras/504_model_small_dd1c10245a.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/118/cameras/504_model_large_a7110dd7f2.jpg"
+          }
+        }
+      },
+      {
+        "id": "c450z",
+        "name": {
+          "_content": "Olympus C450 Zoom"
+        }
+      },
+      {
+        "id": "c100",
+        "name": {
+          "_content": "Olympus C100"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "1.3"
+          },
+          "lcd_screen_size": {
+            "_content": "1.5"
+          },
+          "memory_type": {
+            "_content": "SmartMedia"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/101/cameras/1469_model_small_54e523b573.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/101/cameras/1469_model_large_9b1d8e4c84.jpg"
+          }
+        }
+      },
+      {
+        "id": "fe370",
+        "name": {
+          "_content": "Olympus FE370"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "xD-Picture"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3352/cameras/72157606909262368_model_small_2159c78d8b.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3352/cameras/72157606909262368_model_large_0f32c47658.jpg"
+          }
+        }
+      },
+      {
+        "id": "c2020z",
+        "name": {
+          "_content": "Olympus C2020 Zoom"
+        }
+      },
+      {
+        "id": "s740",
+        "name": {
+          "_content": "Olympus Stylus 740"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/110/cameras/639_model_small_664b81ca38.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/110/cameras/639_model_large_6fdab840c0.jpg"
+          }
+        }
+      },
+      {
+        "id": "e330",
+        "name": {
+          "_content": "Olympus EVOLT E-330"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.5"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "CompactFlash, Microdrive, xD-Picture"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/117/cameras/301_model_small_3ac72e74dc.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/117/cameras/301_model_large_b5bc0fd467.jpg"
+          }
+        }
+      },
+      {
+        "id": "s710",
+        "name": {
+          "_content": "Olympus Stylus 710"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/115/cameras/1018_model_small_7351e62e71.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/115/cameras/1018_model_large_3a7ca67d6e.jpg"
+          }
+        }
+      },
+      {
+        "id": "s725sw",
+        "name": {
+          "_content": "Olympus Stylus 725SW"
+        }
+      },
+      {
+        "id": "c2000z",
+        "name": {
+          "_content": "Olympus C2000 Zoom"
+        }
+      },
+      {
+        "id": "s840",
+        "name": {
+          "_content": "Olympus Stylus 840"
+        }
+      },
+      {
+        "id": "fe330",
+        "name": {
+          "_content": "Olympus FE330"
+        }
+      },
+      {
+        "id": "svs",
+        "name": {
+          "_content": "Olympus Stylus VS"
+        }
+      },
+      {
+        "id": "fe200",
+        "name": {
+          "_content": "Olympus FE200"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/188/cameras/2264_model_small_0b05c1e79c.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/188/cameras/2264_model_large_a172f6fb8c.jpg"
+          }
+        }
+      },
+      {
+        "id": "c55z",
+        "name": {
+          "_content": "Olympus C55 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/99/cameras/1266_model_small_ef1b0d0564.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/99/cameras/1266_model_large_c000e484a4.jpg"
+          }
+        }
+      },
+      {
+        "id": "c3040z",
+        "name": {
+          "_content": "Olympus C3040 Zoom"
+        }
+      },
+      {
+        "id": "c730uz",
+        "name": {
+          "_content": "Olympus C730 Ultra Zoom"
+        }
+      },
+      {
+        "id": "c170",
+        "name": {
+          "_content": "Olympus C170"
+        }
+      },
+      {
+        "id": "c725uz",
+        "name": {
+          "_content": "Olympus C725 Ultra Zoom"
+        }
+      },
+      {
+        "id": "c7070wz",
+        "name": {
+          "_content": "Olympus C7070 Wide Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "xD-Picture, CompactFlash, Microdrive"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/104/cameras/56_model_small_d2b4c2b01b.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/104/cameras/56_model_large_fcbfefb8f6.jpg"
+          }
+        }
+      },
+      {
+        "id": "s750",
+        "name": {
+          "_content": "Olympus Stylus 750"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/121/cameras/1203_model_small_9859c00f4b.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/121/cameras/1203_model_large_88ca65de07.jpg"
+          }
+        }
+      },
+      {
+        "id": "sp320",
+        "name": {
+          "_content": "Olympus SP320"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/122/cameras/889_model_small_a898fd1d04.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/122/cameras/889_model_large_021f293254.jpg"
+          }
+        }
+      },
+      {
+        "id": "fe180",
+        "name": {
+          "_content": "Olympus FE180"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/108/cameras/2838_model_small_dfc35ff8d4.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/108/cameras/2838_model_large_9994333fe1.jpg"
+          }
+        }
+      },
+      {
+        "id": "fe5500",
+        "name": {
+          "_content": "Olympus FE5500"
+        }
+      },
+      {
+        "id": "c40z",
+        "name": {
+          "_content": "Olympus C40 Zoom"
+        }
+      },
+      {
+        "id": "c500z",
+        "name": {
+          "_content": "Olympus C500 Zoom"
+        }
+      },
+      {
+        "id": "c2040z",
+        "name": {
+          "_content": "Olympus C2040 Zoom"
+        }
+      },
+      {
+        "id": "c920z",
+        "name": {
+          "_content": "Olympus C920 Zoom"
+        }
+      },
+      {
+        "id": "s830",
+        "name": {
+          "_content": "Olympus Stylus 830"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2299/cameras/72157602280791987_model_small_1dcaf94329.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2299/cameras/72157602280791987_model_large_c5aa27a31d.jpg"
+          }
+        }
+      },
+      {
+        "id": "c2500l",
+        "name": {
+          "_content": "Olympus C2500L"
+        }
+      },
+      {
+        "id": "fe140",
+        "name": {
+          "_content": "Olympus FE140"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/613_model_small_fedfe4604e.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/613_model_large_da7e34b41e.jpg"
+          }
+        }
+      },
+      {
+        "id": "fe150",
+        "name": {
+          "_content": "Olympus FE150"
+        }
+      },
+      {
+        "id": "ir300",
+        "name": {
+          "_content": "Olympus IR-300"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "XD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/106/cameras/953_model_small_8afb147992.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/106/cameras/953_model_large_4beae7fe9a.jpg"
+          }
+        }
+      },
+      {
+        "id": "fe250",
+        "name": {
+          "_content": "Olympus FE250"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "XD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1278/cameras/72157600292722442_model_small_3e74f3dd5d.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1278/cameras/72157600292722442_model_large_0972ef11ac.jpg"
+          }
+        }
+      },
+      {
+        "id": "fe220",
+        "name": {
+          "_content": "Olympus FE220"
+        }
+      },
+      {
+        "id": "c2",
+        "name": {
+          "_content": "Olympus C2"
+        }
+      },
+      {
+        "id": "c1",
+        "name": {
+          "_content": "Olympus C1"
+        }
+      },
+      {
+        "id": "s810",
+        "name": {
+          "_content": "Olympus Stylus 810"
+        }
+      },
+      {
+        "id": "c1z",
+        "name": {
+          "_content": "Olympus C1 Zoom"
+        }
+      },
+      {
+        "id": "sp310",
+        "name": {
+          "_content": "Olympus SP310"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/121/cameras/983_model_small_636585657b.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/121/cameras/983_model_large_96c2ddd0d8.jpg"
+          }
+        }
+      },
+      {
+        "id": "c470z",
+        "name": {
+          "_content": "Olympus C470 Zoom"
+        }
+      },
+      {
+        "id": "sp700",
+        "name": {
+          "_content": "Olympus SP700"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6.18"
+          },
+          "memory_type": {
+            "_content": "XD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/115/cameras/686_model_small_382aaa166d.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/115/cameras/686_model_large_4911ba5742.jpg"
+          }
+        }
+      },
+      {
+        "id": "fe290",
+        "name": {
+          "_content": "Olympus FE290"
+        }
+      },
+      {
+        "id": "sp565uz",
+        "name": {
+          "_content": "Olympus SP565UZ"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5045/cameras/72157607892424753_model_small_494360b955.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5045/cameras/72157607892424753_model_large_913aa7cb01.jpg"
+          }
+        }
+      },
+      {
+        "id": "fe320",
+        "name": {
+          "_content": "Olympus FE320"
+        }
+      },
+      {
+        "id": "fe110",
+        "name": {
+          "_content": "Olympus FE110"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "1.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/110/cameras/888_model_small_c3ede6236a.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/110/cameras/888_model_large_54cc8bf1d2.jpg"
+          }
+        }
+      },
+      {
+        "id": "fe130",
+        "name": {
+          "_content": "Olympus FE130"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/122/cameras/1667_model_small_2a66307de8.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/122/cameras/1667_model_large_9653e622a4.jpg"
+          }
+        }
+      },
+      {
+        "id": "s780",
+        "name": {
+          "_content": "Olympus Stylus 780"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1389/cameras/72157600292477093_model_small_90fb868252.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1389/cameras/72157600292477093_model_large_6a428a0ee8.jpg"
+          }
+        }
+      },
+      {
+        "id": "fe300",
+        "name": {
+          "_content": "Olympus FE300"
+        }
+      },
+      {
+        "id": "e100rs",
+        "name": {
+          "_content": "Olympus E100RS"
+        }
+      },
+      {
+        "id": "fe3010",
+        "name": {
+          "_content": "Olympus FE3010"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "xD-Picture"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2643/cameras/72157614352034282_model_small_9281956b4e.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2643/cameras/72157614352034282_model_large_19d0553b59.jpg"
+          }
+        }
+      },
+      {
+        "id": "s730",
+        "name": {
+          "_content": "Olympus Stylus 730"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/137/cameras/49837_model_small_5fcd4bd9ea.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/137/cameras/49837_model_large_3897a25af5.jpg"
+          }
+        }
+      },
+      {
+        "id": "ir500",
+        "name": {
+          "_content": "Olympus IR-500"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/111/cameras/1423_model_small_81c6c07dfa.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/111/cameras/1423_model_large_bb8fc0e027.jpg"
+          }
+        }
+      },
+      {
+        "id": "s1200",
+        "name": {
+          "_content": "Olympus Stylus 1200"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3235/cameras/72157602768564732_model_small_3914c3f1bc.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3235/cameras/72157602768564732_model_large_5a3463684a.jpg"
+          }
+        }
+      },
+      {
+        "id": "c315z",
+        "name": {
+          "_content": "Olympus C315 Zoom"
+        }
+      },
+      {
+        "id": "az1",
+        "name": {
+          "_content": "Olympus AZ-1"
+        }
+      },
+      {
+        "id": "fe160",
+        "name": {
+          "_content": "Olympus FE160"
+        }
+      },
+      {
+        "id": "c755uz",
+        "name": {
+          "_content": "Olympus C755 Ultra Zoom"
+        }
+      },
+      {
+        "id": "s1000",
+        "name": {
+          "_content": "Olympus Stylus 1000"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/102/cameras/23805_model_small_8afd3de48a.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/102/cameras/23805_model_large_1cd9364c0a.jpg"
+          }
+        }
+      },
+      {
+        "id": "fe270",
+        "name": {
+          "_content": "Olympus FE270"
+        }
+      },
+      {
+        "id": "c460z_del_sol",
+        "name": {
+          "_content": "Olympus C460Z del Sol"
+        }
+      },
+      {
+        "id": "fe3000",
+        "name": {
+          "_content": "Olympus FE3000,X890"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5003/cameras/72157613827447503_model_small_3bbe0f9238.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5003/cameras/72157613827447503_model_large_fd11146765.jpg"
+          }
+        }
+      },
+      {
+        "id": "u15",
+        "name": {
+          "_content": "Olympus μ15"
+        }
+      },
+      {
+        "id": "c21",
+        "name": {
+          "_content": "Olympus C21"
+        }
+      },
+      {
+        "id": "fe15",
+        "name": {
+          "_content": "Olympus FE15"
+        }
+      },
+      {
+        "id": "c211z",
+        "name": {
+          "_content": "Olympus C211 Zoom"
+        }
+      },
+      {
+        "id": "ferrari_2003",
+        "name": {
+          "_content": "Olympus Ferrari Digital Model 2003"
+        }
+      },
+      {
+        "id": "az2-zoom",
+        "name": {
+          "_content": "Olympus AZ-2 Zoom"
+        }
+      },
+      {
+        "id": "x1",
+        "name": {
+          "_content": "Olympus X-1"
+        }
+      },
+      {
+        "id": "ferrari_2004",
+        "name": {
+          "_content": "Olympus Ferrari Digital Model 2004"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "3.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "xD-Picture Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/102/cameras/5367_model_small_8958ba355f.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/102/cameras/5367_model_large_2e8335f18f.jpg"
+          }
+        }
+      },
+      {
+        "id": "s410d",
+        "name": {
+          "_content": "Olympus Stylus 410D"
+        }
+      }
+    ]
+  },
+  "stat": "ok"
+}

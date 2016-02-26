@@ -1,0 +1,1342 @@
+{
+  "cameras": {
+    "brand": "htc",
+    "camera": [
+      {
+        "id": "one",
+        "name": {
+          "_content": "HTC One"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3687/cameras/72157632713261880_model_small_7ed2fee8e4.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3687/cameras/72157632713261880_model_large_09c858916b.jpg"
+          }
+        }
+      },
+      {
+        "id": "one_m8",
+        "name": {
+          "_content": "HTC One M8"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5597/cameras/72157641080389073_model_small_0cefc30e9c.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5597/cameras/72157641080389073_model_large_56fbc5dd1e.jpg"
+          }
+        }
+      },
+      {
+        "id": "one_m9",
+        "name": {
+          "_content": "HTC One M9"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7780/cameras/72157651119136222_model_small_0a95d391eb.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7780/cameras/72157651119136222_model_large_9932b65d1b.jpg"
+          }
+        }
+      },
+      {
+        "id": "desire_eye",
+        "name": {
+          "_content": "HTC Desire Eye"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8892/cameras/72157649083866595_model_small_6b872a11f5.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8892/cameras/72157649083866595_model_large_a5de65240c.jpg"
+          }
+        }
+      },
+      {
+        "id": "desire_820",
+        "name": {
+          "_content": "HTC Desire 820"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8813/cameras/72157646849108614_model_small_09bfa659bc.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8813/cameras/72157646849108614_model_large_fe3d786bd8.jpg"
+          }
+        }
+      },
+      {
+        "id": "butterfly",
+        "name": {
+          "_content": "HTC Butterfly"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7519/cameras/72157632160809549_model_small_0b4fde4ce2.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7519/cameras/72157632160809549_model_large_1f75220467.jpg"
+          }
+        }
+      },
+      {
+        "id": "desire",
+        "name": {
+          "_content": "HTC Desire"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "3.7"
+          },
+          "memory_type": {
+            "_content": "microSD™ memory card "
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4072/cameras/72157623390292511_model_small_6945dd136e.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4072/cameras/72157623390292511_model_large_0ce01f5f3e.jpg"
+          }
+        }
+      },
+      {
+        "id": "butterfly_2",
+        "name": {
+          "_content": "HTC Butterfly 2"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7750/cameras/72157644970612020_model_small_4319ee37a8.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7750/cameras/72157644970612020_model_large_c3b9f1d849.jpg"
+          }
+        }
+      },
+      {
+        "id": "one_e9plus",
+        "name": {
+          "_content": "HTC One E9PLUS dual sim"
+        }
+      },
+      {
+        "id": "one_max",
+        "name": {
+          "_content": "HTC One Max"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7730/cameras/72157636225803214_model_small_e1a86c91f2.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7730/cameras/72157636225803214_model_large_4e277ec5c2.jpg"
+          }
+        }
+      },
+      {
+        "id": "one_x-plus",
+        "name": {
+          "_content": "HTC One X+"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5116/cameras/72157629104662492_model_small_30b268d5a5.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5116/cameras/72157629104662492_model_large_dfde519983.jpg"
+          }
+        }
+      },
+      {
+        "id": "one_mini_2",
+        "name": {
+          "_content": "HTC One mini 2"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7766/cameras/72157644880871205_model_small_302fc36327.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7766/cameras/72157644880871205_model_large_06f420ccc3.jpg"
+          }
+        }
+      },
+      {
+        "id": "one_e8",
+        "name": {
+          "_content": "HTC One E8"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8834/cameras/72157646252984023_model_small_718b497e79.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8834/cameras/72157646252984023_model_large_ab0cfa99a4.jpg"
+          }
+        }
+      },
+      {
+        "id": "one_mini",
+        "name": {
+          "_content": "HTC One mini"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7502/cameras/72157634365547810_model_small_2fce7fdb2b.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7502/cameras/72157634365547810_model_large_84090b3325.jpg"
+          }
+        }
+      },
+      {
+        "id": "one_m8s",
+        "name": {
+          "_content": "HTC One M8s"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/678/cameras/72157651268031090_model_small_bcd7550943.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/678/cameras/72157651268031090_model_large_efef02f8d1.jpg"
+          }
+        }
+      },
+      {
+        "id": "one_m7",
+        "name": {
+          "_content": "HTC One M7"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8817/cameras/72157632845136577_model_small_1cd0c22eb2.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8817/cameras/72157632845136577_model_large_abca4f48b4.jpg"
+          }
+        }
+      },
+      {
+        "id": "desire_626s",
+        "name": {
+          "_content": "HTC Desire 626s"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/634/cameras/72157656020915539_model_small_6eee57a37c.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/634/cameras/72157656020915539_model_large_3f6c2f5d3c.jpg"
+          }
+        }
+      },
+      {
+        "id": "desire_510",
+        "name": {
+          "_content": "HTC Desire 510"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7752/cameras/72157646928574359_model_small_abcfd796c7.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7752/cameras/72157646928574359_model_large_48fb5305c0.jpg"
+          }
+        }
+      },
+      {
+        "id": "one_s",
+        "name": {
+          "_content": "HTC One S"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8453/cameras/72157629483834391_model_small_977dfc8996.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8453/cameras/72157629483834391_model_large_d4d30866d0.jpg"
+          }
+        }
+      },
+      {
+        "id": "desire_610",
+        "name": {
+          "_content": "HTC Desire 610"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8771/cameras/72157644337949728_model_small_842c3a3577.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8771/cameras/72157644337949728_model_large_81ddfd1ee2.jpg"
+          }
+        }
+      },
+      {
+        "id": "desire_hd",
+        "name": {
+          "_content": "HTC Desire HD"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "4.3"
+          },
+          "memory_type": {
+            "_content": "microSD™"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4152/cameras/72157624762157476_model_small_bf0e16732c.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4152/cameras/72157624762157476_model_large_31fff08860.jpg"
+          }
+        }
+      },
+      {
+        "id": "droid_dna",
+        "name": {
+          "_content": "HTC Droid DNA"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7524/cameras/72157630518668898_model_small_7ab3ae8c2a.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7524/cameras/72157630518668898_model_large_bc77364e2c.jpg"
+          }
+        }
+      },
+      {
+        "id": "desire_816",
+        "name": {
+          "_content": "HTC Desire 816"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7747/cameras/72157643228915615_model_small_fc61b2f132.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7747/cameras/72157643228915615_model_large_71a8863b5d.jpg"
+          }
+        }
+      },
+      {
+        "id": "evo4g",
+        "name": {
+          "_content": "HTC EVO 4G"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "4.3"
+          },
+          "memory_type": {
+            "_content": "microSD™"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4011/cameras/72157623237412006_model_small_367e13d47c.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4011/cameras/72157623237412006_model_large_39fb18d33f.jpg"
+          }
+        }
+      },
+      {
+        "id": "one_x_plus",
+        "name": {
+          "_content": "HTC One X+"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2826/cameras/72157631786608068_model_small_2a688a49b4.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2826/cameras/72157631786608068_model_large_bebaf8563c.jpg"
+          }
+        }
+      },
+      {
+        "id": "butterfly_s",
+        "name": {
+          "_content": "HTC Butterfly S"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8812/cameras/72157644538756181_model_small_0468ed12a2.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8812/cameras/72157644538756181_model_large_1fb64778bd.jpg"
+          }
+        }
+      },
+      {
+        "id": "desire_x",
+        "name": {
+          "_content": "HTC Desire X"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7737/cameras/72157631227905650_model_small_814d4b8025.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7737/cameras/72157631227905650_model_large_bef209f5fe.jpg"
+          }
+        }
+      },
+      {
+        "id": "desire_500",
+        "name": {
+          "_content": "HTC Desire 500"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7747/cameras/72157635400526068_model_small_3d92ac17b6.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7747/cameras/72157635400526068_model_large_8217e99a82.jpg"
+          }
+        }
+      },
+      {
+        "id": "wildfire_s_a510e",
+        "name": {
+          "_content": "HTC Wildfire S"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "3.2"
+          },
+          "memory_type": {
+            "_content": "microSD™"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm7.staticflickr.com/6157/cameras/72157626351731908_model_small_974b2d4def.jpg"
+          },
+          "large": {
+            "_content": "https://farm7.staticflickr.com/6157/cameras/72157626351731908_model_large_85e748af66.jpg"
+          }
+        }
+      },
+      {
+        "id": "wildfire",
+        "name": {
+          "_content": "HTC Wildfire"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "3.2"
+          },
+          "memory_type": {
+            "_content": "microSD"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm7.staticflickr.com/6153/cameras/72157623882840721_model_small_2a5f181eaf.jpg"
+          },
+          "large": {
+            "_content": "https://farm7.staticflickr.com/6153/cameras/72157623882840721_model_large_875336e863.jpg"
+          }
+        }
+      },
+      {
+        "id": "incredible_s",
+        "name": {
+          "_content": "HTC Incredible S"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "4"
+          },
+          "memory_type": {
+            "_content": "microSD™"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm7.staticflickr.com/6124/cameras/72157626085187721_model_small_40672fcd65.jpg"
+          },
+          "large": {
+            "_content": "https://farm7.staticflickr.com/6124/cameras/72157626085187721_model_large_fb2d9df3b2.jpg"
+          }
+        }
+      },
+      {
+        "id": "sensation_4g",
+        "name": {
+          "_content": "HTC Sensation"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "4.3"
+          },
+          "memory_type": {
+            "_content": "microSD"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm7.staticflickr.com/6190/cameras/72157626485303555_model_small_b1f0f260de.jpg"
+          },
+          "large": {
+            "_content": "https://farm7.staticflickr.com/6190/cameras/72157626485303555_model_large_1874b362c3.jpg"
+          }
+        }
+      },
+      {
+        "id": "adr6400l",
+        "name": {
+          "_content": "HTC ThunderBolt"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "4.3"
+          },
+          "memory_type": {
+            "_content": "microSD™"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm7.staticflickr.com/6160/cameras/72157625411264040_model_small_2ac32115b3.jpg"
+          },
+          "large": {
+            "_content": "https://farm7.staticflickr.com/6160/cameras/72157625411264040_model_large_312c438362.jpg"
+          }
+        }
+      },
+      {
+        "id": "evo",
+        "name": {
+          "_content": "HTC Evo"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8310/cameras/72157624405761635_model_small_160db93acf.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8310/cameras/72157624405761635_model_large_ee3e541d2f.jpg"
+          }
+        }
+      },
+      {
+        "id": "droid_incredible",
+        "name": {
+          "_content": "HTC Droid Incredible"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "3.7"
+          },
+          "memory_type": {
+            "_content": "microSD™"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4016/cameras/72157623257214966_model_small_ff60903c52.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4016/cameras/72157623257214966_model_large_54a6a2d3f0.jpg"
+          }
+        }
+      },
+      {
+        "id": "adr6350",
+        "name": {
+          "_content": "HTC Droid Incredible 2"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "4"
+          },
+          "memory_type": {
+            "_content": "microSD™"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm7.staticflickr.com/6172/cameras/72157625301186015_model_small_8107f85b02.jpg"
+          },
+          "large": {
+            "_content": "https://farm7.staticflickr.com/6172/cameras/72157625301186015_model_large_493f1b3afe.jpg"
+          }
+        }
+      },
+      {
+        "id": "desire_s",
+        "name": {
+          "_content": "HTC Desire S"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "3.7"
+          },
+          "memory_type": {
+            "_content": "microSD"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm7.staticflickr.com/6154/cameras/72157626077722521_model_small_f0aaf65733.jpg"
+          },
+          "large": {
+            "_content": "https://farm7.staticflickr.com/6154/cameras/72157626077722521_model_large_83e75c95a5.jpg"
+          }
+        }
+      },
+      {
+        "id": "t-mobile_g2",
+        "name": {
+          "_content": "HTC T-Mobile G2"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "3.7"
+          },
+          "memory_type": {
+            "_content": "microSD™"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm7.staticflickr.com/6164/cameras/72157625075048620_model_small_38a8661e6b.jpg"
+          },
+          "large": {
+            "_content": "https://farm7.staticflickr.com/6164/cameras/72157625075048620_model_large_f4f7368cb0.jpg"
+          }
+        }
+      },
+      {
+        "id": "magic",
+        "name": {
+          "_content": "HTC Magic"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "3.2"
+          },
+          "lcd_screen_size": {
+            "_content": "3.2"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4066/cameras/72157615116991558_model_small_3fdf9e855e.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4066/cameras/72157615116991558_model_large_ba3f623dac.jpg"
+          }
+        }
+      },
+      {
+        "id": "pg86100",
+        "name": {
+          "_content": "HTC EVO 3D"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "4.3"
+          },
+          "memory_type": {
+            "_content": "microSD™"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm7.staticflickr.com/6129/cameras/72157626051084595_model_small_0913e10b93.jpg"
+          },
+          "large": {
+            "_content": "https://farm7.staticflickr.com/6129/cameras/72157626051084595_model_large_8dc4649512.jpg"
+          }
+        }
+      },
+      {
+        "id": "nexus_one",
+        "name": {
+          "_content": "HTC Nexus One"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "3.7"
+          },
+          "memory_type": {
+            "_content": "microSD"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4071/cameras/72157622962784010_model_small_9b81b1ae31.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4071/cameras/72157622962784010_model_large_fd9756e9d7.jpg"
+          }
+        }
+      },
+      {
+        "id": "dream",
+        "name": {
+          "_content": "HTC Dream"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "3.2"
+          },
+          "memory_type": {
+            "_content": "microSD"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2557/cameras/72157607417678583_model_small_97dac61474.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2557/cameras/72157607417678583_model_large_f35cfe9722.jpg"
+          }
+        }
+      },
+      {
+        "id": "touch_diamond",
+        "name": {
+          "_content": "HTC Touch Diamond"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3390/cameras/72157604974800304_model_small_d4200d1d56.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3390/cameras/72157604974800304_model_large_71c7061724.jpg"
+          }
+        }
+      },
+      {
+        "id": "legend",
+        "name": {
+          "_content": "HTC Legend"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "memory_type": {
+            "_content": "microSD™"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5219/cameras/72157622817914685_model_small_c3d950d5ce.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5219/cameras/72157622817914685_model_large_80ccdde27c.jpg"
+          }
+        }
+      },
+      {
+        "id": "hermes_200",
+        "name": {
+          "_content": "HTC Hermes 200"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3248/cameras/72157600291916501_model_small_32b891f4b2.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3248/cameras/72157600291916501_model_large_d14eeb4d29.jpg"
+          }
+        }
+      },
+      {
+        "id": "hero",
+        "name": {
+          "_content": "HTC Hero"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "memory_type": {
+            "_content": "microSD"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2702/cameras/55698_model_small_4214ffe79b.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2702/cameras/55698_model_large_acd313c7b2.jpg"
+          }
+        }
+      },
+      {
+        "id": "hero200",
+        "name": {
+          "_content": "HTC Hero 200"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "memory_type": {
+            "_content": "microSD"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2754/cameras/72157617917812625_model_small_135a1697f5.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2754/cameras/72157617917812625_model_large_8181844037.jpg"
+          }
+        }
+      },
+      {
+        "id": "pg06100",
+        "name": {
+          "_content": "HTC EVO Shift 4G"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "3.6"
+          },
+          "memory_type": {
+            "_content": "microSD™"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm7.staticflickr.com/6125/cameras/72157624580560158_model_small_a375b3598b.jpg"
+          },
+          "large": {
+            "_content": "https://farm7.staticflickr.com/6125/cameras/72157624580560158_model_large_bfd10c0ebc.jpg"
+          }
+        }
+      },
+      {
+        "id": "touch_hd_t8282",
+        "name": {
+          "_content": "HTC Touch HD T8282"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "3.8"
+          },
+          "memory_type": {
+            "_content": "microSD"
+          }
+        }
+      },
+      {
+        "id": "windows_phone_8x",
+        "name": {
+          "_content": "Windows Phone 8X"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8082/cameras/72157631569335497_model_small_caa699f602.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8082/cameras/72157631569335497_model_large_9fb88457af.jpg"
+          }
+        }
+      },
+      {
+        "id": "excalibur",
+        "name": {
+          "_content": "HTC Excalibur"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3020/cameras/50792_model_small_cdcd750077.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3020/cameras/50792_model_large_80c19b7a9d.jpg"
+          }
+        }
+      },
+      {
+        "id": "vogue",
+        "name": {
+          "_content": "HTC Vogue"
+        }
+      },
+      {
+        "id": "visionz",
+        "name": {
+          "_content": "HTC Vision"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "4.3"
+          },
+          "memory_type": {
+            "_content": "microSD™"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7141/cameras/72157624522770119_model_small_bf5203b224.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7141/cameras/72157624522770119_model_large_44277195c4.jpg"
+          }
+        }
+      },
+      {
+        "id": "touch",
+        "name": {
+          "_content": "HTC Touch"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3284/cameras/72157601548423446_model_small_625e56c2a3.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3284/cameras/72157601548423446_model_large_c1e3a8edf8.jpg"
+          }
+        }
+      },
+      {
+        "id": "herald",
+        "name": {
+          "_content": "HTC Herald"
+        }
+      },
+      {
+        "id": "universal",
+        "name": {
+          "_content": "HTC Universal"
+        }
+      },
+      {
+        "id": "droideris",
+        "name": {
+          "_content": "HTC Eris"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "memory_type": {
+            "_content": "microSD"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2548/cameras/72157622378186515_model_small_852f98c6b9.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2548/cameras/72157622378186515_model_large_c7e3c0c961.jpg"
+          }
+        }
+      },
+      {
+        "id": "mytouch_4g",
+        "name": {
+          "_content": "HTC myTouch 4G"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2549/cameras/72157625094667305_model_small_91e31c6aeb.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2549/cameras/72157625094667305_model_large_25340e7a25.jpg"
+          }
+        }
+      },
+      {
+        "id": "t-mobile_mytouch_3g_slide",
+        "name": {
+          "_content": "HTC T-Mobile myTouch 3G Slide"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "3.4"
+          },
+          "memory_type": {
+            "_content": "microSD™"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7015/cameras/72157623607542740_model_small_73f98d0ca1.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7015/cameras/72157623607542740_model_large_d04a2f53e1.jpg"
+          }
+        }
+      },
+      {
+        "id": "hd7",
+        "name": {
+          "_content": "HTC HD7"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "4.3"
+          },
+          "memory_type": {
+            "_content": "microSD"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5295/cameras/72157625233134010_model_small_3e2828b24d.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5295/cameras/72157625233134010_model_large_71b2a9d707.jpg"
+          }
+        }
+      },
+      {
+        "id": "apache",
+        "name": {
+          "_content": "HTC Apache"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3085/cameras/1007_model_small_c9190dbfb6.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3085/cameras/1007_model_large_35662683d2.jpg"
+          }
+        }
+      },
+      {
+        "id": "touch_pro",
+        "name": {
+          "_content": "HTC Touch Pro"
+        }
+      },
+      {
+        "id": "touch_dual",
+        "name": {
+          "_content": "HTC Touch Dual"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3058/cameras/72157603295892353_model_small_ee85001e9a.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3058/cameras/72157603295892353_model_large_32d415db0d.jpg"
+          }
+        }
+      },
+      {
+        "id": "elf_v2",
+        "name": {
+          "_content": "HTC Elf v2"
+        }
+      },
+      {
+        "id": "kaiser_100",
+        "name": {
+          "_content": "HTC Kaiser 100"
+        }
+      },
+      {
+        "id": "startrek",
+        "name": {
+          "_content": "HTC Startrek"
+        }
+      },
+      {
+        "id": "touch_cruise",
+        "name": {
+          "_content": "HTC Touch Cruise"
+        }
+      },
+      {
+        "id": "kaiser_130",
+        "name": {
+          "_content": "HTC Kaiser 130"
+        }
+      },
+      {
+        "id": "artemis",
+        "name": {
+          "_content": "HTC Artemis"
+        }
+      },
+      {
+        "id": "titan",
+        "name": {
+          "_content": "HTC Titan"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3200/cameras/72157600292780143_model_small_7b5081fb23.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3200/cameras/72157600292780143_model_large_2064d72d64.jpg"
+          }
+        }
+      },
+      {
+        "id": "vox",
+        "name": {
+          "_content": "HTC Vox"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3023/cameras/72157600293351566_model_small_71fd4431a9.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3023/cameras/72157600293351566_model_large_43a38e95ae.jpg"
+          }
+        }
+      },
+      {
+        "id": "kaiser_110",
+        "name": {
+          "_content": "HTC Kaiser 110"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3145/cameras/72157600469615374_model_small_43c07e094a.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3145/cameras/72157600469615374_model_large_fe6f57c1e2.jpg"
+          }
+        }
+      },
+      {
+        "id": "kaiser_120",
+        "name": {
+          "_content": "HTC Kaiser 120"
+        }
+      },
+      {
+        "id": "trinity",
+        "name": {
+          "_content": "HTC Trinity"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3067/cameras/51995_model_small_cb12aa87f0.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3067/cameras/51995_model_large_8cf12b9949.jpg"
+          }
+        }
+      },
+      {
+        "id": "wings",
+        "name": {
+          "_content": "HTC Wings"
+        }
+      },
+      {
+        "id": "status",
+        "name": {
+          "_content": "HTC Status"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "2.6"
+          },
+          "memory_type": {
+            "_content": "microSD™"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm7.staticflickr.com/6179/cameras/72157626807074559_model_small_e35b393013.jpg"
+          },
+          "large": {
+            "_content": "https://farm7.staticflickr.com/6179/cameras/72157626807074559_model_large_746a1a80f2.jpg"
+          }
+        }
+      },
+      {
+        "id": "7mozart",
+        "name": {
+          "_content": "HTC 7 Mozart"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "3.7"
+          },
+          "memory_type": {
+            "_content": "microSD™"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5100/cameras/72157624437903492_model_small_8e8eaa90ec.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5100/cameras/72157624437903492_model_large_bdfccd2c59.jpg"
+          }
+        }
+      },
+      {
+        "id": "pharos",
+        "name": {
+          "_content": "HTC Pharos"
+        }
+      },
+      {
+        "id": "phoebus",
+        "name": {
+          "_content": "HTC Phoebus"
+        }
+      },
+      {
+        "id": "gene_i",
+        "name": {
+          "_content": "HTC Gene i"
+        }
+      },
+      {
+        "id": "trinity_i",
+        "name": {
+          "_content": "HTC Trinity i"
+        }
+      },
+      {
+        "id": "excalibur_v2",
+        "name": {
+          "_content": "HTC Excalibur v2"
+        }
+      },
+      {
+        "id": "breeze",
+        "name": {
+          "_content": "HTC Breeze"
+        }
+      },
+      {
+        "id": "oxygen",
+        "name": {
+          "_content": "HTC Oxygen"
+        }
+      },
+      {
+        "id": "touch_diamond_r3",
+        "name": {
+          "_content": "HTC Touch Diamond r3"
+        }
+      },
+      {
+        "id": "gene",
+        "name": {
+          "_content": "HTC Gene"
+        }
+      },
+      {
+        "id": "libra",
+        "name": {
+          "_content": "HTC Libra"
+        }
+      },
+      {
+        "id": "panda",
+        "name": {
+          "_content": "HTC Panda"
+        }
+      },
+      {
+        "id": "iris",
+        "name": {
+          "_content": "HTC Iris"
+        }
+      },
+      {
+        "id": "cavalier",
+        "name": {
+          "_content": "HTC Cavalier"
+        }
+      },
+      {
+        "id": "hermes_100",
+        "name": {
+          "_content": "HTC Hermes 100"
+        }
+      }
+    ]
+  },
+  "stat": "ok"
+}

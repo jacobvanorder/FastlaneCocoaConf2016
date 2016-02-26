@@ -1,0 +1,22 @@
+{
+  "cameras": {
+    "brand": "nintendo",
+    "camera": [
+      {
+        "id": "3ds",
+        "name": {
+          "_content": "Nintendo 3DS"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8066/cameras/72157626146350350_model_small_c792b3d6b9.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8066/cameras/72157626146350350_model_large_2ae780ca5a.jpg"
+          }
+        }
+      }
+    ]
+  },
+  "stat": "ok"
+}

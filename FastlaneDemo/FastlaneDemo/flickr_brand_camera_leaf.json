@@ -1,0 +1,134 @@
+{
+  "cameras": {
+    "brand": "leaf",
+    "camera": [
+      {
+        "id": "aptus_75s",
+        "name": {
+          "_content": "Leaf Aptus 75S"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3218/cameras/72157603795918433_model_small_46c07e1e67.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3218/cameras/72157603795918433_model_large_0a16d0a5d4.jpg"
+          }
+        }
+      },
+      {
+        "id": "aptus_22",
+        "name": {
+          "_content": "Leaf Aptus 22"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2214/cameras/3484_model_small_de7ec7a035.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2214/cameras/3484_model_large_46f9a16eae.jpg"
+          }
+        }
+      },
+      {
+        "id": "aptus_75",
+        "name": {
+          "_content": "Leaf Aptus 75"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3159/cameras/57894_model_small_da8a82c566.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3159/cameras/57894_model_large_dab6a84409.jpg"
+          }
+        }
+      },
+      {
+        "id": "aptus_65",
+        "name": {
+          "_content": "Leaf Aptus 65"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3208/cameras/24204_model_small_8460cfcfd8.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3208/cameras/24204_model_large_9c6e7a71e5.jpg"
+          }
+        }
+      },
+      {
+        "id": "valeo_22",
+        "name": {
+          "_content": "Leaf Valeo 22"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3155/cameras/6397_model_small_b560d62e38.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3155/cameras/6397_model_large_f038e43204.jpg"
+          }
+        }
+      },
+      {
+        "id": "aptus_54s",
+        "name": {
+          "_content": "Leaf Aptus 54S"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3200/cameras/72157602825940518_model_small_272078fded.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3200/cameras/72157602825940518_model_large_b8f2898eee.jpg"
+          }
+        }
+      },
+      {
+        "id": "aptus_17",
+        "name": {
+          "_content": "Leaf Aptus 17"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3223/cameras/2195_model_small_1ceea75578.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3223/cameras/2195_model_large_78f2b4d758.jpg"
+          }
+        }
+      },
+      {
+        "id": "valeo_17",
+        "name": {
+          "_content": "Leaf Valeo 17"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3171/cameras/38596_model_small_c3a747babd.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3171/cameras/38596_model_large_92373606a5.jpg"
+          }
+        }
+      },
+      {
+        "id": "valeo_11",
+        "name": {
+          "_content": "Leaf Valeo 11"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3147/cameras/34052_model_small_c965fc1fdf.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3147/cameras/34052_model_large_657ca50263.jpg"
+          }
+        }
+      }
+    ]
+  },
+  "stat": "ok"
+}

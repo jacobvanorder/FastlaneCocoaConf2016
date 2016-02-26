@@ -1,0 +1,496 @@
+{
+  "cameras": {
+    "brand": "leica",
+    "camera": [
+      {
+        "id": "m",
+        "name": {
+          "_content": "M"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3744/cameras/72157632596485304_model_small_146d6cb55b.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3744/cameras/72157632596485304_model_large_91303a4c54.jpg"
+          }
+        }
+      },
+      {
+        "id": "m9",
+        "name": {
+          "_content": "Leica M9"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "18"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "SD/SDHC "
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4013/cameras/72157622161805448_model_small_8410ea2015.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4013/cameras/72157622161805448_model_large_6b590518c3.jpg"
+          }
+        }
+      },
+      {
+        "id": "leica_q",
+        "name": {
+          "_content": "Leica Camera AG Leica Q"
+        }
+      },
+      {
+        "id": "d-lux",
+        "name": {
+          "_content": "Leica D-LUX"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/586/cameras/1381_model_small_01b59d595f.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/586/cameras/1381_model_large_5f025283c9.jpg"
+          }
+        }
+      },
+      {
+        "id": "m8",
+        "name": {
+          "_content": "Leica M8"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10.3"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "SD Memory Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/102/cameras/50785_model_small_c913746776.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/102/cameras/50785_model_large_d39913f96e.jpg"
+          }
+        }
+      },
+      {
+        "id": "d-lux_4",
+        "name": {
+          "_content": "Leica D-LUX 4"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "SDHC Memory Card, MultiMediaCard, Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3513/cameras/72157607561404317_model_small_f0728477bb.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3513/cameras/72157607561404317_model_large_1506793c6b.jpg"
+          }
+        }
+      },
+      {
+        "id": "m_monochrom",
+        "name": {
+          "_content": "Leica M Monochrom"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3756/cameras/72157629868844995_model_small_ac797acbec.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3756/cameras/72157629868844995_model_large_2db5bffbd3.jpg"
+          }
+        }
+      },
+      {
+        "id": "d-lux_6",
+        "name": {
+          "_content": "Leica D-LUX 6"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3720/cameras/72157631707182073_model_small_83a8fbc128.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3720/cameras/72157631707182073_model_large_0c06402e5f.jpg"
+          }
+        }
+      },
+      {
+        "id": "d-lux_5",
+        "name": {
+          "_content": "Leica D-LUX 5"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8321/cameras/72157625171229580_model_small_5d3bb0b038.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8321/cameras/72157625171229580_model_large_17a2fcf166.jpg"
+          }
+        }
+      },
+      {
+        "id": "d-lux_3",
+        "name": {
+          "_content": "Leica D-LUX 3"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "memory_type": {
+            "_content": "SDHC Memory Card, MultiMediaCard, Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/110/cameras/48856_model_small_3c5b4f002d.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/110/cameras/48856_model_large_8d25940cb9.jpg"
+          }
+        }
+      },
+      {
+        "id": "x2",
+        "name": {
+          "_content": "Leica X2"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8604/cameras/72157629683990948_model_small_1b8480386f.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8604/cameras/72157629683990948_model_large_7d91bc432a.jpg"
+          }
+        }
+      },
+      {
+        "id": "x1",
+        "name": {
+          "_content": "Leica Camera AG Leica X1"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "Built-in Memory, SD Memory Card, SDHC Memory Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4144/cameras/72157622399075508_model_small_603282f38e.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4144/cameras/72157622399075508_model_large_25301594fe.jpg"
+          }
+        }
+      },
+      {
+        "id": "v-lux_1",
+        "name": {
+          "_content": "Leica V-LUX 1"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "memory_type": {
+            "_content": "SDHC Memory Card, MultiMediaCard, Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/113/cameras/53227_model_small_393a93b88f.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/113/cameras/53227_model_large_de48865e3f.jpg"
+          }
+        }
+      },
+      {
+        "id": "digilux_2",
+        "name": {
+          "_content": "Leica Digilux 2"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "memory_type": {
+            "_content": "MultiMediaCard, Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/107/cameras/483_model_small_f82190b43f.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/107/cameras/483_model_large_6eaf7990fc.jpg"
+          }
+        }
+      },
+      {
+        "id": "v-lux_20",
+        "name": {
+          "_content": "Leica V-LUX 20"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "14.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDXC, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2810/cameras/72157623743132788_model_small_c4e2eda6a6.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2810/cameras/72157623743132788_model_large_2ab21f6d06.jpg"
+          }
+        }
+      },
+      {
+        "id": "digilux_3",
+        "name": {
+          "_content": "Leica Digilux 3"
+        }
+      },
+      {
+        "id": "d-lux_2",
+        "name": {
+          "_content": "Leica D-LUX 2"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8.6"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "MultiMediaCard, Secure Digital"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/101/cameras/842_model_small_aaf93d2434.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/101/cameras/842_model_large_84681bc7b0.jpg"
+          }
+        }
+      },
+      {
+        "id": "c-lux_3",
+        "name": {
+          "_content": "Leica C-LUX 3"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "MultiMediaCard, Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4145/cameras/72157607892421559_model_small_ab176e21be.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4145/cameras/72157607892421559_model_large_983a459551.jpg"
+          }
+        }
+      },
+      {
+        "id": "digilux_1",
+        "name": {
+          "_content": "Leica Digilux 1"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "MultiMediaCard, Secure Digital"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/119/cameras/1343_model_small_d5c04bd0e6.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/119/cameras/1343_model_large_98dd1bf49b.jpg"
+          }
+        }
+      },
+      {
+        "id": "c-lux_2",
+        "name": {
+          "_content": "Leica C-LUX 2"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1243/cameras/72157600292849999_model_small_5348a68188.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1243/cameras/72157600292849999_model_large_07126c2144.jpg"
+          }
+        }
+      },
+      {
+        "id": "v-lux_3",
+        "name": {
+          "_content": "Leica V-LUX 3"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8454/cameras/72157628594896591_model_small_aa53e8027f.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8454/cameras/72157628594896591_model_large_76fdf54c09.jpg"
+          }
+        }
+      },
+      {
+        "id": "digilux_4.3",
+        "name": {
+          "_content": "Leica Digilux 4.3"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1379/cameras/3155_model_small_7e22e14319.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1379/cameras/3155_model_large_f1b2d278db.jpg"
+          }
+        }
+      },
+      {
+        "id": "digilux_zoom",
+        "name": {
+          "_content": "Leica Digilux Zoom"
+        }
+      },
+      {
+        "id": "x_e_102",
+        "name": {
+          "_content": "Leica Camera AG Leica X-E 102"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/629/cameras/72157647460782559_model_small_769a1424d3.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/629/cameras/72157647460782559_model_large_7c087e2642.jpg"
+          }
+        }
+      },
+      {
+        "id": "c-lux_1",
+        "name": {
+          "_content": "Leica C-LUX 1"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "MultiMediaCard, Secure Digital"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/100/cameras/702_model_small_94f552924e.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/100/cameras/702_model_large_7c70587764.jpg"
+          }
+        }
+      },
+      {
+        "id": "r8_dmr",
+        "name": {
+          "_content": "Leica R8 Digital Module-R"
+        }
+      },
+      {
+        "id": "r9_dmr",
+        "name": {
+          "_content": "Leica R9 Digital Module-R"
+        }
+      },
+      {
+        "id": "digilux",
+        "name": {
+          "_content": "Leica Digilux"
+        }
+      },
+      {
+        "id": "mp",
+        "name": {
+          "_content": "Leica MP"
+        },
+        "details": {
+          "memory_type": {
+            "_content": "135 film"
+          }
+        }
+      }
+    ]
+  },
+  "stat": "ok"
+}

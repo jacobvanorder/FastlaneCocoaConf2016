@@ -1,0 +1,175 @@
+{
+  "brands": {
+    "brand": [
+      {
+        "id": "apple",
+        "name": "Apple"
+      },
+      {
+        "id": "samsung",
+        "name": "Samsung"
+      },
+      {
+        "id": "canon",
+        "name": "Canon"
+      },
+      {
+        "id": "nikon",
+        "name": "Nikon"
+      },
+      {
+        "id": "sony",
+        "name": "Sony"
+      },
+      {
+        "id": "motorola",
+        "name": "Motorola"
+      },
+      {
+        "id": "htc",
+        "name": "HTC"
+      },
+      {
+        "id": "lg",
+        "name": "LG"
+      },
+      {
+        "id": "panasonic",
+        "name": "Panasonic"
+      },
+      {
+        "id": "fujifilm",
+        "name": "Fujifilm"
+      },
+      {
+        "id": "olympus",
+        "name": "Olympus"
+      },
+      {
+        "id": "pentax",
+        "name": "Pentax"
+      },
+      {
+        "id": "nokia",
+        "name": "Nokia"
+      },
+      {
+        "id": "kodak",
+        "name": "Kodak"
+      },
+      {
+        "id": "gopro",
+        "name": "GoPro"
+      },
+      {
+        "id": "casio",
+        "name": "Casio"
+      },
+      {
+        "id": "sonyericsson",
+        "name": "Sony Ericsson"
+      },
+      {
+        "id": "leica",
+        "name": "Leica"
+      },
+      {
+        "id": "ricoh",
+        "name": "Ricoh"
+      },
+      {
+        "id": "blackberry",
+        "name": "BlackBerry"
+      },
+      {
+        "id": "minolta",
+        "name": "Konica Minolta"
+      },
+      {
+        "id": "hp",
+        "name": "HP"
+      },
+      {
+        "id": "sigma",
+        "name": "Sigma"
+      },
+      {
+        "id": "phaseone",
+        "name": "Phase One"
+      },
+      {
+        "id": "sanyo",
+        "name": "Sanyo"
+      },
+      {
+        "id": "benq",
+        "name": "BenQ"
+      },
+      {
+        "id": "kyocera",
+        "name": "Kyocera"
+      },
+      {
+        "id": "palm",
+        "name": "Palm"
+      },
+      {
+        "id": "epson",
+        "name": "Epson"
+      },
+      {
+        "id": "vivitar",
+        "name": "Vivitar"
+      },
+      {
+        "id": "leaf",
+        "name": "Leaf"
+      },
+      {
+        "id": "concord",
+        "name": "Concord"
+      },
+      {
+        "id": "toshiba",
+        "name": "Toshiba"
+      },
+      {
+        "id": "jvc",
+        "name": "JVC"
+      },
+      {
+        "id": "nintendo",
+        "name": "Nintendo"
+      },
+      {
+        "id": "docomo",
+        "name": "DoCoMo"
+      },
+      {
+        "id": "acer",
+        "name": "Acer"
+      },
+      {
+        "id": "polaroid",
+        "name": "Polaroid"
+      },
+      {
+        "id": "kddi",
+        "name": "KDDI"
+      },
+      {
+        "id": "sharp",
+        "name": "Sharp"
+      },
+      {
+        "id": "google",
+        "name": "Google"
+      },
+      {
+        "id": "helio",
+        "name": "Helio"
+      }
+    ]
+  },
+  "stat": "ok"
+}

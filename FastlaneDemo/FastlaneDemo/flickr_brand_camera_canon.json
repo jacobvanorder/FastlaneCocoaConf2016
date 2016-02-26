@@ -1,0 +1,4880 @@
+{
+  "cameras": {
+    "brand": "canon",
+    "camera": [
+      {
+        "id": "eos_5d_mark_iii",
+        "name": {
+          "_content": "Canon EOS 5D Mark III"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "22.3"
+          },
+          "lcd_screen_size": {
+            "_content": "3.2"
+          },
+          "memory_type": {
+            "_content": "CompactFlash, Secure Digital, SDHC, SDXC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7184/cameras/72157622292089908_model_small_99bff53988.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7184/cameras/72157622292089908_model_large_497d3698ba.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_6d",
+        "name": {
+          "_content": "Canon EOS 6D"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "20.2"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDXC, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8083/cameras/72157607012320362_model_small_aa23f6b999.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8083/cameras/72157607012320362_model_large_ceb47a4e39.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_rebel_t3i",
+        "name": {
+          "_content": "Canon EOS REBEL T3i"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "18"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDXC, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5035/cameras/72157625858229685_model_small_82002d6bd6.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5035/cameras/72157625858229685_model_large_7c02ddbfe1.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_5d_mark_ii",
+        "name": {
+          "_content": "Canon EOS 5D Mark II"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "21.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "CompactFlash (CF) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3154/cameras/72157607348761901_model_small_a874952616.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3154/cameras/72157607348761901_model_large_97198e11ef.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_7d",
+        "name": {
+          "_content": "Canon EOS 7D"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "18"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "CompactFlash (CF) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3487/cameras/72157602280763141_model_small_d6e5af0712.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3487/cameras/72157602280763141_model_large_1f77f7e0f2.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_60d",
+        "name": {
+          "_content": "Canon EOS 60D"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "18"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, SDXC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5249/cameras/72157624493316109_model_small_93c8e25107.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5249/cameras/72157624493316109_model_large_c07377e8d4.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_70d",
+        "name": {
+          "_content": "Canon EOS 70D"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "20.2"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDXC, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7440/cameras/72157633273873695_model_small_e17b51707b.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7440/cameras/72157633273873695_model_large_0ac43738dc.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_rebel_t2i",
+        "name": {
+          "_content": "Canon EOS REBEL T2i"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "18"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "SDXC, Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3369/cameras/72157623502347808_model_small_d6f54d07c8.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3369/cameras/72157623502347808_model_large_692b09d10c.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_rebel_t3",
+        "name": {
+          "_content": "Canon EOS REBEL T3"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "SDHC Memory Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5280/cameras/72157625983689520_model_small_fbd9eb7715.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5280/cameras/72157625983689520_model_large_f244f70fb6.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_7d_mark_ii",
+        "name": {
+          "_content": "Canon EOS 7D MARK II"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7467/cameras/72157644861391679_model_small_68f69eec3f.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7467/cameras/72157644861391679_model_large_12fcf1403e.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_rebel_t1i",
+        "name": {
+          "_content": "Canon EOS REBEL T1i"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "15.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2456/cameras/72157617313528954_model_small_aa0037849d.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2456/cameras/72157617313528954_model_large_1fd8120fef.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_700d",
+        "name": {
+          "_content": "Canon EOS 700D"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3828/cameras/72157632461630521_model_small_7db5f3e1ea.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3828/cameras/72157632461630521_model_large_ebdc3e28a2.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_digital_rebel_xti",
+        "name": {
+          "_content": "Canon EOS Digital Rebel XTi"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "CompactFlash (CF) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/119/cameras/68_model_small_201afafc2f.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/119/cameras/68_model_large_5fbbd26c3c.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_digital_rebel_xsi",
+        "name": {
+          "_content": "Canon EOS Digital Rebel XSi"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.2"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2372/cameras/72157604225656701_model_small_c76252f106.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2372/cameras/72157604225656701_model_large_dedb412bb3.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_digital_rebel_xt",
+        "name": {
+          "_content": "Canon EOS Digital Rebel XT"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "CompactFlash (CF) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/110/cameras/31_model_small_7143654004.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/110/cameras/31_model_large_f11b305bdd.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_5d",
+        "name": {
+          "_content": "Canon EOS 5D"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.8"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "CompactFlash (CF) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/111/cameras/130_model_small_9dbbe5a2b2.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/111/cameras/130_model_large_b8df029b89.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_rebel_t5",
+        "name": {
+          "_content": "Canon EOS REBEL T5"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7531/cameras/72157642353970835_model_small_b3f1ecb638.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7531/cameras/72157642353970835_model_large_359a3f62ee.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_50d",
+        "name": {
+          "_content": "Canon EOS 50D"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "15.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "CompactFlash (CF) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3236/cameras/72157606814096380_model_small_acfeba1dae.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3236/cameras/72157606814096380_model_large_320ea78949.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_rebel_t4i",
+        "name": {
+          "_content": "Canon EOS REBEL T4i"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "18"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDXC, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8170/cameras/72157630136654636_model_small_7aa6948e95.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8170/cameras/72157630136654636_model_large_9f1336ca57.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_digital_rebel_xs",
+        "name": {
+          "_content": "Canon EOS Digital Rebel XS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3290/cameras/72157605582107524_model_small_f8c3eacc3e.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3290/cameras/72157605582107524_model_large_f2dd3c1f2b.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_40d",
+        "name": {
+          "_content": "Canon EOS 40D"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "CompactFlash (CF) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1311/cameras/13483_model_small_bc865d9a17.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1311/cameras/13483_model_large_9d618a4965.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_rebel_t5i",
+        "name": {
+          "_content": "Canon EOS REBEL T5i"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "18"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, SDXC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2854/cameras/72157633291340568_model_small_a29265b941.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2854/cameras/72157633291340568_model_large_6aa43d9736.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_1200d",
+        "name": {
+          "_content": "Canon EOS 1200D"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5608/cameras/72157640939372033_model_small_c1a3cb597a.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5608/cameras/72157640939372033_model_large_52555f6708.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos-1d_x",
+        "name": {
+          "_content": "Canon EOS-1D X"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "18.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3.2"
+          },
+          "memory_type": {
+            "_content": "CompactFlash (CF) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8174/cameras/72157629220288179_model_small_4807a929c8.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8174/cameras/72157629220288179_model_large_9b2a9a4024.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_100d",
+        "name": {
+          "_content": "Canon EOS 100D"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/651/cameras/72157623555354732_model_small_4ee35cfeb3.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/651/cameras/72157623555354732_model_large_b5dc69964d.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_20d",
+        "name": {
+          "_content": "Canon EOS 20D"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8.3"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "CompactFlash (CF) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/111/cameras/44_model_small_2cb85e48f5.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/111/cameras/44_model_large_eb72aa76ed.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sx50_hs",
+        "name": {
+          "_content": "Canon PowerShot SX50 HS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.8"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDXC, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8089/cameras/72157631606498503_model_small_e5db6a3484.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8089/cameras/72157631606498503_model_large_17cd9b1f8e.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_digital_rebel",
+        "name": {
+          "_content": "Canon EOS Digital Rebel"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6.3"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "CompactFlash, Microdrive"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/99/cameras/4_model_small_0d320aed75.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/99/cameras/4_model_large_2a7e545a1e.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos-1d_mark_iv",
+        "name": {
+          "_content": "Canon EOS-1D Mark IV"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "16.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "SDHC Memory Card, CompactFlash, Secure Digital (SD) Card, Microdrive"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2777/cameras/72157603810225532_model_small_e8a45a1b36.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2777/cameras/72157603810225532_model_large_9785d9733c.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_30d",
+        "name": {
+          "_content": "Canon EOS 30D"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "CompactFlash (CF) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/111/cameras/9_model_small_e4b4d029e2.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/111/cameras/9_model_large_b17d8c82c3.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_rebel_sl1",
+        "name": {
+          "_content": "Canon EOS REBEL SL1"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3786/cameras/72157633336811707_model_small_9f40643ac4.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3786/cameras/72157633336811707_model_large_2d70d20249.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_750d",
+        "name": {
+          "_content": "Canon EOS 750D"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5746/cameras/72157632205837729_model_small_42e58fa967.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5746/cameras/72157632205837729_model_large_8cb7ba6c52.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_g12",
+        "name": {
+          "_content": "Canon PowerShot G12"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "2.8"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5003/cameras/72157624839718693_model_small_81c526286d.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5003/cameras/72157624839718693_model_large_b6d975e7d6.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_g7_x",
+        "name": {
+          "_content": "Canon PowerShot G7 X"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3676/cameras/72157645338335022_model_small_7ec3d31a3c.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3676/cameras/72157645338335022_model_large_c815303a07.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_m",
+        "name": {
+          "_content": "Canon EOS M"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "18"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDXC, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7421/cameras/72157630734034208_model_small_92bbea491c.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7421/cameras/72157630734034208_model_large_2a60438278.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_1ds_mark_ii",
+        "name": {
+          "_content": "Canon EOS 1Ds Mark II"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "16.7"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "CompactFlash, Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/121/cameras/156_model_small_a56b80a67f.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/121/cameras/156_model_large_e6b1f8216a.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sd1100_is",
+        "name": {
+          "_content": "Canon PowerShot SD1100 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, MultiMediaCard, MMCPlus"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2186/cameras/72157603983956398_model_small_b6d51a8150.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2186/cameras/72157603983956398_model_large_c4d1e89f8d.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_s95",
+        "name": {
+          "_content": "Canon PowerShot S95"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "SD/SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4087/cameras/72157624762166562_model_small_fdc8df7c28.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4087/cameras/72157624762166562_model_large_85e6ab9d4f.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_1ds_mark_iii",
+        "name": {
+          "_content": "Canon EOS 1Ds Mark III"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "21.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "CompactFlash (CF) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2079/cameras/72157601586629334_model_small_071161b82f.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2079/cameras/72157601586629334_model_large_9bfa056618.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sx40_hs",
+        "name": {
+          "_content": "Canon PowerShot SX40 HS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7157/cameras/72157627707836876_model_small_d58fd3c6ff.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7157/cameras/72157627707836876_model_large_9edd7fd023.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_1d_mark_iii",
+        "name": {
+          "_content": "Canon EOS 1D Mark III"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "CompactFlash (CF) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/222/cameras/72157600288628059_model_small_4cdfcb3773.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/222/cameras/72157600288628059_model_large_97180e7aa5.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_rebel_t6s",
+        "name": {
+          "_content": "Canon EOS 760D"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5762/cameras/72157651752742028_model_small_299d7bef9a.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5762/cameras/72157651752742028_model_large_c8b8060b16.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_g16",
+        "name": {
+          "_content": "Canon PowerShot G16"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5038/cameras/72157633994515034_model_small_4563648ebb.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5038/cameras/72157633994515034_model_large_8458a45884.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sx60_hs",
+        "name": {
+          "_content": "Canon PowerShot SX60 HS"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3700/cameras/72157647824755152_model_small_e23090b5f4.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3700/cameras/72157647824755152_model_large_7e7e4f80c6.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sd1000",
+        "name": {
+          "_content": "Canon PowerShot SD1000"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "SDHC Memory Card, MultiMediaCard, Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/234/cameras/72157600291596369_model_small_9cf1a0b9c6.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/234/cameras/72157600291596369_model_large_9782e6ca80.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_s100",
+        "name": {
+          "_content": "Canon PowerShot S100"
+        }
+      },
+      {
+        "id": "eos_5ds_r",
+        "name": {
+          "_content": "Canon EOS 5DS R"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3817/cameras/72157650665459092_model_small_70265a1860.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3817/cameras/72157650665459092_model_large_0272a7ab99.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_s110",
+        "name": {
+          "_content": "Canon PowerShot S110"
+        }
+      },
+      {
+        "id": "powershot_g15",
+        "name": {
+          "_content": "Canon PowerShot G15"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDXC, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8073/cameras/72157631669626016_model_small_b412b6f89a.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8073/cameras/72157631669626016_model_large_aee995637e.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sx260_hs",
+        "name": {
+          "_content": "Canon PowerShot SX260 HS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card, Secure Digital High Capacity (SDHC) Card, Secure Digital Extended Capacity (SDXC)"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8333/cameras/72157629555712731_model_small_c08bd90398.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8333/cameras/72157629555712731_model_large_cf014452fb.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sd750",
+        "name": {
+          "_content": "Canon PowerShot SD750"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/221/cameras/72157600292482502_model_small_16de7e5ce6.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/221/cameras/72157600292482502_model_large_25b3e8c05d.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_10d",
+        "name": {
+          "_content": "Canon EOS 10D"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6.3"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "CompactFlash (CF) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/105/cameras/81_model_small_4b6d829266.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/105/cameras/81_model_large_7082fc8590.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sd780_is",
+        "name": {
+          "_content": "Canon PowerShot SD780 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "SDHC, MultiMediaCard, MMCPlus"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3540/cameras/72157615260423184_model_small_bc5565c8b7.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3540/cameras/72157615260423184_model_large_f0a803b0fc.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sd1200_is",
+        "name": {
+          "_content": "Canon PowerShot SD1200 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, MultiMediaCard, MMCPlus"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3303/cameras/72157615858002250_model_small_d297c2dd76.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3303/cameras/72157615858002250_model_large_18e94049dd.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_g9",
+        "name": {
+          "_content": "Canon PowerShot G9"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "MultiMediaCard, Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1189/cameras/72157601586583928_model_small_71f71758a6.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1189/cameras/72157601586583928_model_large_3df7faed63.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_g10",
+        "name": {
+          "_content": "Canon PowerShot G10"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "14.7"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, MultiMediaCard, MMCPlus"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3226/cameras/72157607254728807_model_small_c7595d237f.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3226/cameras/72157607254728807_model_large_62ddda0838.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_s5_is",
+        "name": {
+          "_content": "Canon PowerShot S5 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1288/cameras/72157600292972439_model_small_d10462f983.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1288/cameras/72157600292972439_model_large_33a048b67b.jpg"
+          }
+        }
+      },
+      {
+        "id": "sx700hs",
+        "name": {
+          "_content": "Canon PowerShot SX700 HS"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8574/cameras/72157641922172003_model_small_335e01dc78.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8574/cameras/72157641922172003_model_large_c62a48d7c0.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_s120",
+        "name": {
+          "_content": "Canon PowerShot S120"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5509/cameras/72157632858905716_model_small_09c906f983.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5509/cameras/72157632858905716_model_large_85a885e1ce.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_g11",
+        "name": {
+          "_content": "Canon PowerShot G11"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "2.8"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, MultiMediaCard, MMCPlus"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2539/cameras/72157621971543189_model_small_1644edb612.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2539/cameras/72157621971543189_model_large_bdefce42a8.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sd800_is",
+        "name": {
+          "_content": "Canon PowerShot SD800 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/100/cameras/3506_model_small_baa4b8be11.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/100/cameras/3506_model_large_9fba9d5611.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sx210_is",
+        "name": {
+          "_content": "Canon PowerShot SX210 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "14.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5169/cameras/72157623514846576_model_small_102da06252.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5169/cameras/72157623514846576_model_large_ff33eaebcd.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sd400",
+        "name": {
+          "_content": "Canon PowerShot SD400"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/101/cameras/30_model_small_ba4763b423.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/101/cameras/30_model_large_464f18fc8a.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_1d_mark_ii",
+        "name": {
+          "_content": "Canon EOS 1D Mark II"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "CompactFlash, Secure Digital (SD) Card, Microdrive"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/117/cameras/12_model_small_1242e67975.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/117/cameras/12_model_large_dfa80dabd0.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sd600",
+        "name": {
+          "_content": "Canon PowerShot SD600"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/100/cameras/147_model_small_d4e6885dd1.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/100/cameras/147_model_large_7542357b7b.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sx230_hs",
+        "name": {
+          "_content": "Canon PowerShot SX230 HS"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm7.staticflickr.com/6029/cameras/72157626107421899_model_small_fe96996285.jpg"
+          },
+          "large": {
+            "_content": "https://farm7.staticflickr.com/6029/cameras/72157626107421899_model_large_3b15049271.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_s3_is",
+        "name": {
+          "_content": "Canon PowerShot S3 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/103/cameras/115_model_small_ec10d60f7a.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/103/cameras/115_model_large_9ffdcf70bf.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sd300",
+        "name": {
+          "_content": "Canon PowerShot SD300"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/109/cameras/192_model_small_dc3c6ec0b9.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/109/cameras/192_model_large_d808fc3fb6.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sd1300_is",
+        "name": {
+          "_content": "Canon PowerShot SD1300 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "SDHC Memory Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5032/cameras/72157623495818996_model_small_a77640cee0.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5032/cameras/72157623495818996_model_large_23f998fc01.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sx510_hs",
+        "name": {
+          "_content": "Canon PowerShot SX510 HS"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3720/cameras/72157633170380529_model_small_267d868489.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3720/cameras/72157633170380529_model_large_1196f12423.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_m3",
+        "name": {
+          "_content": "Canon EOS M3"
+        }
+      },
+      {
+        "id": "powershot_sx710_hs",
+        "name": {
+          "_content": "Canon PowerShot SX710 HS"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5816/cameras/72157649863292917_model_small_4e5f4385ba.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5816/cameras/72157649863292917_model_large_9af0e169f3.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_s400",
+        "name": {
+          "_content": "Canon PowerShot S400"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1314/cameras/533_model_small_d595a3f690.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1314/cameras/533_model_large_9c8688c05a.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sd870_is",
+        "name": {
+          "_content": "Canon PowerShot SD870 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1022/cameras/72157601661637005_model_small_8e99150a47.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1022/cameras/72157601661637005_model_large_778c7a6f7f.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sx30_is",
+        "name": {
+          "_content": "Canon PowerShot SX30 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "14.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5249/cameras/72157624846412507_model_small_3ba18a5885.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5249/cameras/72157624846412507_model_large_478b8f73b5.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sx280_hs",
+        "name": {
+          "_content": "Canon PowerShot SX280 HS"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5596/cameras/72157633352455718_model_small_d946c5d9ca.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5596/cameras/72157633352455718_model_large_0bc3ebbc33.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sx500_is",
+        "name": {
+          "_content": "Canon PowerShot SX500 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "16"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2826/cameras/72157631426644668_model_small_3db39a01f5.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2826/cameras/72157631426644668_model_large_3d45443eaf.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sx130_is",
+        "name": {
+          "_content": "Canon PowerShot SX130 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "SDHX"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5079/cameras/72157624843263664_model_small_466ca9648e.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5079/cameras/72157624843263664_model_large_0cdf8d446b.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_s2_is",
+        "name": {
+          "_content": "Canon PowerShot S2 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/99/cameras/73_model_small_54db2b6032.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/99/cameras/73_model_large_b8912b2c1e.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_elph_100_hs",
+        "name": {
+          "_content": "Canon PowerShot ELPH 100 HS"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm7.staticflickr.com/6058/cameras/72157626077723737_model_small_422bc9313f.jpg"
+          },
+          "large": {
+            "_content": "https://farm7.staticflickr.com/6058/cameras/72157626077723737_model_large_e95bc5563a.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sx20_is",
+        "name": {
+          "_content": "Canon PowerShot SX20 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "MultiMediaCard (MMC)"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2724/cameras/72157622054003161_model_small_fa47de9a45.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2724/cameras/72157622054003161_model_large_84bc659ebc.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sx200_is",
+        "name": {
+          "_content": "Canon PowerShot SX200 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, MultiMediaCard, MMCPlus"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3382/cameras/72157615327177137_model_small_c923617fcf.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3382/cameras/72157615327177137_model_large_e2585949a3.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sd630",
+        "name": {
+          "_content": "Canon PowerShot SD630"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "MultiMediaCard, Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/100/cameras/380_model_small_ced61150f3.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/100/cameras/380_model_large_aa27b87301.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sx100_is",
+        "name": {
+          "_content": "Canon PowerShot SX100 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2400/cameras/72157602254956013_model_small_c7fc8218ed.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2400/cameras/72157602254956013_model_large_ca3276f712.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_5ds",
+        "name": {
+          "_content": "Canon EOS 5Ds"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/283/cameras/72157603423041122_model_small_7066489740.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/283/cameras/72157603423041122_model_large_ca4d89355b.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sd1400_is",
+        "name": {
+          "_content": "Canon PowerShot SD1400 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm7.staticflickr.com/6023/cameras/72157623403735861_model_small_7b6eef712c.jpg"
+          },
+          "large": {
+            "_content": "https://farm7.staticflickr.com/6023/cameras/72157623403735861_model_large_6377095b94.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a520",
+        "name": {
+          "_content": "Canon PowerShot A520"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "MultiMediaCard, Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/108/cameras/113_model_small_3c4e2b476c.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/108/cameras/113_model_large_a8ae50aaa2.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sd790_is",
+        "name": {
+          "_content": "Canon PowerShot SD790 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, MultiMediaCard, MMCPlus"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2234/cameras/72157604206177666_model_small_61519d019b.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2234/cameras/72157604206177666_model_large_fe0abf6ac8.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_g1_x",
+        "name": {
+          "_content": "Canon PowerShot G1 X"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "14.3"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, SDXC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8314/cameras/72157628828372835_model_small_198698201c.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8314/cameras/72157628828372835_model_large_a3c965c325.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sx10_is",
+        "name": {
+          "_content": "Canon PowerShot SX10 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, MultiMediaCard, MMCPlus"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3368/cameras/72157607394786554_model_small_cd7b8479c5.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3368/cameras/72157607394786554_model_large_472ea85a5a.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_s90",
+        "name": {
+          "_content": "Canon PowerShot S90"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, MultiMediaCard, MMCPlus"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2790/cameras/72157622037248671_model_small_599abbeea4.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2790/cameras/72157622037248671_model_large_a3e2203efb.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a80",
+        "name": {
+          "_content": "Canon PowerShot A80"
+        }
+      },
+      {
+        "id": "powershot_a590_is",
+        "name": {
+          "_content": "Canon PowerShot A590 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "MMCplus"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3059/cameras/72157603914408544_model_small_70f463f26f.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3059/cameras/72157603914408544_model_large_914d992355.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a70",
+        "name": {
+          "_content": "Canon PowerShot A70"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1396/cameras/331_model_small_fd6c5d9f6e.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1396/cameras/331_model_large_2a908d5d29.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sd450",
+        "name": {
+          "_content": "Canon PowerShot SD450"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/114/cameras/64_model_small_fa1065b7b6.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/114/cameras/64_model_large_35994d68f5.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sd550",
+        "name": {
+          "_content": "Canon PowerShot SD550"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/122/cameras/482_model_small_f8b4bfe6d8.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/122/cameras/482_model_large_033233faac.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sx120_is",
+        "name": {
+          "_content": "Canon PowerShot SX120 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, MultiMediaCard, MMCPlus"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2594/cameras/72157622008716929_model_small_7acbfb860f.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2594/cameras/72157622008716929_model_large_730372a5d9.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a95",
+        "name": {
+          "_content": "Canon PowerShot A95"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "CompactFlash"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/107/cameras/58_model_small_1e7955211c.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/107/cameras/58_model_large_2f415e825f.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_1d_mark_ii_n",
+        "name": {
+          "_content": "Canon EOS 1D Mark II N"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "CompactFlash, Secure Digital (SD) Card, Microdrive"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/122/cameras/792_model_small_79b90ff356.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/122/cameras/792_model_large_ae86ccf632.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a620",
+        "name": {
+          "_content": "Canon PowerShot A620"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/107/cameras/134_model_small_92eeb17022.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/107/cameras/134_model_large_d1c1e2d3df.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sd880_is",
+        "name": {
+          "_content": "Canon PowerShot SD880 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, MultiMediaCard, MMCPlus"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3347/cameras/72157607803563543_model_small_f054e019cf.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3347/cameras/72157607803563543_model_large_b23b35ef33.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a540",
+        "name": {
+          "_content": "Canon PowerShot A540"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "MultiMediaCard, Secure Digital"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/109/cameras/21_model_small_4595d398d7.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/109/cameras/21_model_large_511e5c2f88.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sd850_is",
+        "name": {
+          "_content": "Canon PowerShot SD850 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1001/cameras/72157600316000762_model_small_a83286a964.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1001/cameras/72157600316000762_model_large_1970b12f6c.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a710_is",
+        "name": {
+          "_content": "Canon PowerShot A710 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/100/cameras/928_model_small_687bc868ed.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/100/cameras/928_model_large_863d565f23.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sx240_hs",
+        "name": {
+          "_content": "Canon PowerShot SX240 HS"
+        }
+      },
+      {
+        "id": "powershot_sx110_is",
+        "name": {
+          "_content": "Canon PowerShot SX110 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "9"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, MultiMediaCard, MMCPlus"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3319/cameras/72157607097240125_model_small_89b9359b0a.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3319/cameras/72157607097240125_model_large_37bf0a0285.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a560",
+        "name": {
+          "_content": "Canon PowerShot A560"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/201/cameras/72157600291685735_model_small_c81b932be3.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/201/cameras/72157600291685735_model_large_6bcd9d3efc.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sx600_hs",
+        "name": {
+          "_content": "Canon PowerShot SX600 HS"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3735/cameras/72157642221879684_model_small_dc7d3c59ee.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3735/cameras/72157642221879684_model_large_206c3e1651.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a530",
+        "name": {
+          "_content": "Canon PowerShot A530"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "MultiMediaCard, Secure Digital"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/117/cameras/303_model_small_85ec2a9970.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/117/cameras/303_model_large_90dd997c32.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a720_is",
+        "name": {
+          "_content": "Canon PowerShot A720 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1342/cameras/72157601700908638_model_small_ffa204741b.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1342/cameras/72157601700908638_model_large_c5f41eec0b.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_s500",
+        "name": {
+          "_content": "Canon PowerShot S500"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "1.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/113/cameras/311_model_small_8f0b9890f5.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/113/cameras/311_model_large_7d733573e9.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a2300",
+        "name": {
+          "_content": "Canon PowerShot A2300"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "16"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, SDXC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8495/cameras/72157629682877859_model_small_0e76052de3.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8495/cameras/72157629682877859_model_large_512c829f1c.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sx150_is",
+        "name": {
+          "_content": "Canon PowerShot SX150 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "14.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8040/cameras/72157627401052221_model_small_27ede7c032.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8040/cameras/72157627401052221_model_large_a88fcd5700.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sx160_is",
+        "name": {
+          "_content": "Canon PowerShot SX160 IS"
+        }
+      },
+      {
+        "id": "powershot_g7",
+        "name": {
+          "_content": "Canon PowerShot G7"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/122/cameras/24369_model_small_cc7df00614.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/122/cameras/24369_model_large_e18440c1ed.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a75",
+        "name": {
+          "_content": "Canon PowerShot A75"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "3.2"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "CompactFlash"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/114/cameras/53_model_small_1358fa386c.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/114/cameras/53_model_large_83792310b4.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_g2",
+        "name": {
+          "_content": "Canon PowerShot G2"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "CompactFlash (CF) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8310/cameras/42_model_small_53424d7981.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8310/cameras/42_model_large_e48879fba0.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a610",
+        "name": {
+          "_content": "Canon PowerShot A610"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/107/cameras/295_model_small_ec60d819ec.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/107/cameras/295_model_large_b9f67ef906.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sd700_is",
+        "name": {
+          "_content": "Canon PowerShot SD700 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/122/cameras/432_model_small_08e9751d7e.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/122/cameras/432_model_large_137b141680.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_s200",
+        "name": {
+          "_content": "Canon PowerShot S200"
+        }
+      },
+      {
+        "id": "powershot_sx170_is",
+        "name": {
+          "_content": "Canon PowerShot SX170 IS"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5619/cameras/72157635427421420_model_small_2ddc739862.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5619/cameras/72157635427421420_model_large_6530dd3eac.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sx520_hs",
+        "name": {
+          "_content": "Canon PowerShot SX520 HS"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/416/cameras/72157646860530030_model_small_c287cae292.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/416/cameras/72157646860530030_model_large_2e679b44dd.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sx220_hs",
+        "name": {
+          "_content": "Canon PowerShot SX220 HS"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5620/cameras/72157626120402661_model_small_2d8ae30536.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5620/cameras/72157626120402661_model_large_16f4ed2c3f.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a85",
+        "name": {
+          "_content": "Canon PowerShot A85"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "CompactFlash (CF) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1389/cameras/123_model_small_64e30bc0c3.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1389/cameras/123_model_large_6a55c4cc59.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a2200",
+        "name": {
+          "_content": "Canon PowerShot A2200"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "14.1"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5278/cameras/72157626006484232_model_small_32fb85f79e.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5278/cameras/72157626006484232_model_large_7de50bc2d5.jpg"
+          }
+        }
+      },
+      {
+        "id": "g1x_markii",
+        "name": {
+          "_content": "Canon PowerShot G1 X Mark II"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5619/cameras/72157640985213904_model_small_8d1b938d77.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5619/cameras/72157640985213904_model_large_8454c17833.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_g5",
+        "name": {
+          "_content": "Canon PowerShot G5"
+        }
+      },
+      {
+        "id": "powershot_a510",
+        "name": {
+          "_content": "Canon PowerShot A510"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "3.2"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "MultiMediaCard, Secure Digital"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1436/cameras/103_model_small_b132094ab0.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1436/cameras/103_model_large_f8b0f7772c.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sd770_is",
+        "name": {
+          "_content": "Canon PowerShot SD770 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, MultiMediaCard, MMCPlus"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3223/cameras/72157604597339286_model_small_4e767448d9.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3223/cameras/72157604597339286_model_large_c7c345de36.jpg"
+          }
+        }
+      },
+      {
+        "id": "ixus_220hs",
+        "name": {
+          "_content": "Canon IXUS 220HS"
+        }
+      },
+      {
+        "id": "powershot_s50",
+        "name": {
+          "_content": "Canon PowerShot S50"
+        }
+      },
+      {
+        "id": "powershot_sd960_is",
+        "name": {
+          "_content": "Canon PowerShot SD960 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.8"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, MultiMediaCard, MMCPlus"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3542/cameras/72157615260434668_model_small_068dd2b166.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3542/cameras/72157615260434668_model_large_bddd57f961.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_m2",
+        "name": {
+          "_content": "Canon EOS M2"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/681/cameras/72157638486651333_model_small_dd694f802b.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/681/cameras/72157638486651333_model_large_ee0838b78e.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_g3",
+        "name": {
+          "_content": "Canon PowerShot G3"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "CompactFlash (CF) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8321/cameras/168_model_small_f86db7018f.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8321/cameras/168_model_large_bf37ba94b6.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a470",
+        "name": {
+          "_content": "Canon PowerShot A470"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2099/cameras/72157604008953746_model_small_ab3a0c68fb.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2099/cameras/72157604008953746_model_large_5b25b77672.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a630",
+        "name": {
+          "_content": "Canon PowerShot A630"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "MultiMediaCard, Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/118/cameras/880_model_small_f621539dd2.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/118/cameras/880_model_large_f447184173.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a570_is",
+        "name": {
+          "_content": "Canon PowerShot A570 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "MultiMediaCard, Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8031/cameras/72157600291595413_model_small_4f322f47a2.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8031/cameras/72157600291595413_model_large_d7bed7b9d9.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_s230",
+        "name": {
+          "_content": "Canon PowerShot S230"
+        }
+      },
+      {
+        "id": "powershot_sd500",
+        "name": {
+          "_content": "Canon PowerShot SD500"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/111/cameras/413_model_small_cde2faea24.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/111/cameras/413_model_large_9eff7352b6.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a400",
+        "name": {
+          "_content": "Canon PowerShot A400"
+        }
+      },
+      {
+        "id": "powershot_a40",
+        "name": {
+          "_content": "Canon PowerShot A40"
+        }
+      },
+      {
+        "id": "powershot_sd100",
+        "name": {
+          "_content": "Canon PowerShot SD100"
+        }
+      },
+      {
+        "id": "powershot_a480",
+        "name": {
+          "_content": "Canon PowerShot A480"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, MultiMediaCard, MMCPlus"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3652/cameras/72157613371182459_model_small_8f00044538.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3652/cameras/72157613371182459_model_large_6f9d21111d.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a550",
+        "name": {
+          "_content": "Canon PowerShot A550"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "MultiMediaCard, Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/252/cameras/72157600289383418_model_small_0ee0a7e545.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/252/cameras/72157600289383418_model_large_b029991d3d.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_s30",
+        "name": {
+          "_content": "Canon PowerShot S30"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "3.2"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "CompactFlash (CF) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8173/cameras/681_model_small_b801bc3de5.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8173/cameras/681_model_large_fc4c035a37.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_elph_300hs",
+        "name": {
+          "_content": "Canon PowerShot ELPH 300HS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "MultiMediaCard, Secure Digital, SDXC, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8309/cameras/72157626177410605_model_small_384a9a5bf2.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8309/cameras/72157626177410605_model_large_ac6be593a2.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a2500",
+        "name": {
+          "_content": "Canon PowerShot A2500"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "2.7"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5530/cameras/72157633211759483_model_small_fdf71aaa57.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5530/cameras/72157633211759483_model_large_068f77cbc8.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sx400_is",
+        "name": {
+          "_content": "Canon PowerShot SX400 IS"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5807/cameras/72157647167111895_model_small_d02bbe89d7.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5807/cameras/72157647167111895_model_large_cfbf3da591.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_elph_300_hs",
+        "name": {
+          "_content": "Canon PowerShot ELPH 300 HS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm7.staticflickr.com/6004/cameras/72157626133707081_model_small_fd24fe9a5f.jpg"
+          },
+          "large": {
+            "_content": "https://farm7.staticflickr.com/6004/cameras/72157626133707081_model_large_5789bb40d6.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a60",
+        "name": {
+          "_content": "Canon PowerShot A60"
+        }
+      },
+      {
+        "id": "powershot_a3100_is",
+        "name": {
+          "_content": "Canon PowerShot A3100 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12"
+          }
+        }
+      },
+      {
+        "id": "powershot_sd200",
+        "name": {
+          "_content": "Canon PowerShot SD200"
+        }
+      },
+      {
+        "id": "eos_d60",
+        "name": {
+          "_content": "Canon EOS D60"
+        }
+      },
+      {
+        "id": "powershot_s45",
+        "name": {
+          "_content": "Canon PowerShot S45"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "CompactFlash (CF) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8175/cameras/373_model_small_f2002e4d4c.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8175/cameras/373_model_large_8d345e31a2.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a3300_is",
+        "name": {
+          "_content": "Canon PowerShot A3300 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "16"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8313/cameras/72157626169050894_model_small_9024e25b64.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8313/cameras/72157626169050894_model_large_11c60be00c.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_1ds",
+        "name": {
+          "_content": "Canon EOS 1DS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "11.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "CompactFlash"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/115/cameras/541_model_small_8bf11ebe60.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/115/cameras/541_model_large_f104299b9c.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a1100_is",
+        "name": {
+          "_content": "Canon PowerShot A1100 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, MultiMediaCard, MMCPlus"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3403/cameras/72157614912551863_model_small_6c2707008a.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3403/cameras/72157614912551863_model_large_3870e9c623.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_d10",
+        "name": {
+          "_content": "Canon PowerShot D10"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3488/cameras/72157616911061933_model_small_e0ca711a7f.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3488/cameras/72157616911061933_model_large_cc00846c64.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_s1_is",
+        "name": {
+          "_content": "Canon PowerShot S1 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "3.2"
+          },
+          "lcd_screen_size": {
+            "_content": "1.5"
+          },
+          "memory_type": {
+            "_content": "CompactFlash"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/116/cameras/445_model_small_a6791e4c0a.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/116/cameras/445_model_large_7499eb1668.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a430",
+        "name": {
+          "_content": "Canon PowerShot A430"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "MultiMediaCard, Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/122/cameras/7_model_small_b345a26c77.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/122/cameras/7_model_large_377848c90e.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sd950_is",
+        "name": {
+          "_content": "Canon PowerShot SD950 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "MultiMediaCard, Secure Digital"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2068/cameras/72157602219148731_model_small_d208e9a3b0.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2068/cameras/72157602219148731_model_large_95eacd033f.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a4000_is",
+        "name": {
+          "_content": "Canon PowerShot A4000 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "16"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, SDXC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8234/cameras/72157629690121413_model_small_c3674f9a04.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8234/cameras/72157629690121413_model_large_fd69104134.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a640",
+        "name": {
+          "_content": "Canon PowerShot A640"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "MultiMediaCard, Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/114/cameras/1317_model_small_82221e6d98.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/114/cameras/1317_model_large_5c7290e792.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_650d",
+        "name": {
+          "_content": "Canon EOS 650D"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5681/cameras/72157658988031402_model_small_84fd539622.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5681/cameras/72157658988031402_model_large_3b9e33f1d9.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_elph_110_hs",
+        "name": {
+          "_content": "Canon PowerShot ELPH 110 HS"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8491/cameras/72157629310448342_model_small_cd14d2b324.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8491/cameras/72157629310448342_model_large_d505d94f18.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_g6",
+        "name": {
+          "_content": "Canon PowerShot G6"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "CompactFlash (CF) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/306_model_small_10710a51a3.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/306_model_large_1cbfb40949.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a460",
+        "name": {
+          "_content": "Canon PowerShot A460"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "MultiMediaCard, Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/228/cameras/72157600289350296_model_small_7fbe5bacab.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/228/cameras/72157600289350296_model_large_4a22860b7c.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sd940_is",
+        "name": {
+          "_content": "Canon PowerShot SD940 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, MultiMediaCard, MMCPlus"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2669/cameras/72157622084755657_model_small_1eaf6702b9.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2669/cameras/72157622084755657_model_large_b543294bc4.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_1d",
+        "name": {
+          "_content": "Canon EOS 1D"
+        }
+      },
+      {
+        "id": "powershot_sd890_is",
+        "name": {
+          "_content": "Canon PowerShot SD890 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "MultiMediaCard, Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3213/cameras/72157604325182497_model_small_37aa89e826.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3213/cameras/72157604325182497_model_large_80e15aacfd.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a1000_is",
+        "name": {
+          "_content": "Canon PowerShot A1000 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, MultiMediaCard, MMCPlus"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3474/cameras/72157607149127437_model_small_ea9ae41258.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3474/cameras/72157607149127437_model_large_c274e4a031.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a410",
+        "name": {
+          "_content": "Canon PowerShot A410"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "3.2"
+          },
+          "lcd_screen_size": {
+            "_content": "1.5"
+          },
+          "memory_type": {
+            "_content": "MultiMediaCard, Secure Digital"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/113/cameras/18_model_small_4e47ea423d.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/113/cameras/18_model_large_dc8a8ee8b3.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a650_is",
+        "name": {
+          "_content": "Canon PowerShot A650 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1226/cameras/72157601891740240_model_small_935ab686ff.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1226/cameras/72157601891740240_model_large_010a6f6998.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a3000_is",
+        "name": {
+          "_content": "Canon PowerShot A3000 IS"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm7.staticflickr.com/6015/cameras/72157623337752577_model_small_ff326581e0.jpg"
+          },
+          "large": {
+            "_content": "https://farm7.staticflickr.com/6015/cameras/72157623337752577_model_large_fa3577dc49.jpg"
+          }
+        }
+      },
+      {
+        "id": "ixus_300_hs",
+        "name": {
+          "_content": "Canon IXUS 300 HS"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm7.staticflickr.com/6011/cameras/72157624136191544_model_small_c8c1f1020d.jpg"
+          },
+          "large": {
+            "_content": "https://farm7.staticflickr.com/6011/cameras/72157624136191544_model_large_0d9be374a0.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_s80",
+        "name": {
+          "_content": "Canon PowerShot S80"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/121/cameras/162_model_small_e1565c67c9.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/121/cameras/162_model_large_571ee7b4bd.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a2000_is",
+        "name": {
+          "_content": "Canon PowerShot A2000 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, MultiMediaCard, MMCPlus"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8038/cameras/72157607272610511_model_small_ffc16364ec.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8038/cameras/72157607272610511_model_large_c3440fdc55.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a1200",
+        "name": {
+          "_content": "Canon PowerShot A1200"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "SD/SDHC/SDXC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7178/cameras/72157626100347637_model_small_98281cf6c9.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7178/cameras/72157626100347637_model_large_5815e8dea2.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sd10",
+        "name": {
+          "_content": "Canon PowerShot SD10"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4"
+          },
+          "lcd_screen_size": {
+            "_content": "1.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/102/cameras/345_model_small_727b7fb8a6.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/102/cameras/345_model_large_0640966e76.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_s40",
+        "name": {
+          "_content": "Canon PowerShot S40"
+        }
+      },
+      {
+        "id": "powershot_sd980_is",
+        "name": {
+          "_content": "Canon PowerShot SD980 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, MultiMediaCard, MMCPlus"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2594/cameras/72157622084783391_model_small_1558771e45.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2594/cameras/72157622084783391_model_large_05e2884fe1.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_s70",
+        "name": {
+          "_content": "Canon PowerShot S70"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "CompactFlash"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/110/cameras/70_model_small_74b4f1d550.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/110/cameras/70_model_large_f9711ed374.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_s60",
+        "name": {
+          "_content": "Canon PowerShot S60"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "CompactFlash (CF) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/121/cameras/319_model_small_b6503c5e8f.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/121/cameras/319_model_large_a74142fbbb.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_pro1",
+        "name": {
+          "_content": "Canon PowerShot Pro1"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "CompactFlash"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/118/cameras/279_model_small_e6281ed159.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/118/cameras/279_model_large_ac13e907a7.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sd900",
+        "name": {
+          "_content": "Canon PowerShot SD900"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/109/cameras/2705_model_small_e4e7c5e7df.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/109/cameras/2705_model_large_af0d96d561.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sx1_is",
+        "name": {
+          "_content": "Canon PowerShot SX1 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "2.8"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, MultiMediaCard, MMCPlus"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3580/cameras/72157607398275267_model_small_506f6616ce.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3580/cameras/72157607398275267_model_large_533d29fcab.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a490",
+        "name": {
+          "_content": "Canon PowerShot A490"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          }
+        }
+      },
+      {
+        "id": "powershot_s430",
+        "name": {
+          "_content": "Canon PowerShot S430"
+        }
+      },
+      {
+        "id": "powershot_a580",
+        "name": {
+          "_content": "Canon PowerShot A580"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "MMCplus"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2017/cameras/72157604000068487_model_small_11826b37d5.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2017/cameras/72157604000068487_model_large_57e09b15a2.jpg"
+          }
+        }
+      },
+      {
+        "id": "eos_d30",
+        "name": {
+          "_content": "Canon EOS D30"
+        }
+      },
+      {
+        "id": "powershot_s300",
+        "name": {
+          "_content": "Canon PowerShot S300"
+        }
+      },
+      {
+        "id": "powershot_s410",
+        "name": {
+          "_content": "Canon PowerShot S410"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4"
+          },
+          "lcd_screen_size": {
+            "_content": "1.5"
+          },
+          "memory_type": {
+            "_content": "CompactFlash (CF) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/112/cameras/49_model_small_a82d562b14.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/112/cameras/49_model_large_f7c124120b.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a495",
+        "name": {
+          "_content": "Canon PowerShot A495"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5314/cameras/72157623248701455_model_small_866f79da99.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5314/cameras/72157623248701455_model_large_d76121e78f.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a20",
+        "name": {
+          "_content": "Canon PowerShot A20"
+        }
+      },
+      {
+        "id": "powershot_a300",
+        "name": {
+          "_content": "Canon PowerShot A300"
+        }
+      },
+      {
+        "id": "powershot_g1",
+        "name": {
+          "_content": "Canon PowerShot G1"
+        }
+      },
+      {
+        "id": "powershot_sd110",
+        "name": {
+          "_content": "Canon PowerShot SD110"
+        }
+      },
+      {
+        "id": "powershot_a700",
+        "name": {
+          "_content": "Canon PowerShot A700"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "MultiMediaCard, Secure Digital"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/118/cameras/24_model_small_82f9fe11cf.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/118/cameras/24_model_large_9a1ac4b633.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sd30",
+        "name": {
+          "_content": "Canon PowerShot SD30"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/100/cameras/329_model_small_ca1aa2959e.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/100/cameras/329_model_large_ab5abc906b.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sd990_is",
+        "name": {
+          "_content": "Canon PowerShot SD990 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "14.7"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, MultiMediaCard, MMCPlus"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3461/cameras/72157607826378076_model_small_570b3e63da.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3461/cameras/72157607826378076_model_large_57edfd2df8.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_s10",
+        "name": {
+          "_content": "Canon PowerShot S10"
+        }
+      },
+      {
+        "id": "powershot_sd3500_is",
+        "name": {
+          "_content": "Canon PowerShot SD3500 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "14.1"
+          }
+        }
+      },
+      {
+        "id": "powershot_a420",
+        "name": {
+          "_content": "Canon PowerShot A420"
+        }
+      },
+      {
+        "id": "powershot_a450",
+        "name": {
+          "_content": "Canon PowerShot A450"
+        }
+      },
+      {
+        "id": "powershot_sd40",
+        "name": {
+          "_content": "Canon PowerShot SD40"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/50047_model_small_07b3b7b4c4.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/50047_model_large_21ac845732.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a200",
+        "name": {
+          "_content": "Canon PowerShot A200"
+        }
+      },
+      {
+        "id": "powershot_a10",
+        "name": {
+          "_content": "Canon PowerShot A10"
+        }
+      },
+      {
+        "id": "powershot_s330",
+        "name": {
+          "_content": "Canon PowerShot S330"
+        }
+      },
+      {
+        "id": "powershot_sd20",
+        "name": {
+          "_content": "Canon PowerShot SD20"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "1.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/101/cameras/1056_model_small_0fe1cb84e6.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/101/cameras/1056_model_large_c3b3853158.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a310",
+        "name": {
+          "_content": "Canon PowerShot A310"
+        }
+      },
+      {
+        "id": "powershot_a2100_is",
+        "name": {
+          "_content": "Canon PowerShot A2100 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, MultiMediaCard, MMCPlus"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2719/cameras/72157615813690609_model_small_85a05a0580.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2719/cameras/72157615813690609_model_large_5c483e0981.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_pro90_is",
+        "name": {
+          "_content": "Canon PowerShot Pro90 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "3.2"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "CompactFlash (CF) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/101/cameras/1792_model_small_6ca66ff1ac.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/101/cameras/1792_model_large_2654c5d5de.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_tx1",
+        "name": {
+          "_content": "Canon PowerShot TX1"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "MultiMediaCard, Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/195/cameras/72157600293208250_model_small_264ea2a837.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/195/cameras/72157600293208250_model_large_d7a965d3fb.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_sd970_is",
+        "name": {
+          "_content": "Canon PowerShot SD970 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, MultiMediaCard, MMCPlus"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2674/cameras/72157616347164661_model_small_3f4b234723.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2674/cameras/72157616347164661_model_large_886fd1e530.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a100",
+        "name": {
+          "_content": "Canon PowerShot A100"
+        }
+      },
+      {
+        "id": "powershot_a50",
+        "name": {
+          "_content": "Canon PowerShot A50"
+        }
+      },
+      {
+        "id": "powershot_sd430_wireless",
+        "name": {
+          "_content": "Canon PowerShot SD430 Wireless"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/108/cameras/414_model_small_ecb3329329.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/108/cameras/414_model_large_a004c60da3.jpg"
+          }
+        }
+      },
+      {
+        "id": "zr90",
+        "name": {
+          "_content": "Canon ZR90"
+        }
+      },
+      {
+        "id": "powershot_s20",
+        "name": {
+          "_content": "Canon PowerShot S20"
+        }
+      },
+      {
+        "id": "powershot_e1",
+        "name": {
+          "_content": "Canon PowerShot E1"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, MultiMediaCard, MMCPlus"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3664/cameras/72157607584729571_model_small_19dc0473cb.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3664/cameras/72157607584729571_model_large_ef505b6354.jpg"
+          }
+        }
+      },
+      {
+        "id": "hv20",
+        "name": {
+          "_content": "Canon HV20"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "2.7"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2081/cameras/72157600292920852_model_small_08ffbdf604.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2081/cameras/72157600292920852_model_large_3175d743e7.jpg"
+          }
+        }
+      },
+      {
+        "id": "zr85",
+        "name": {
+          "_content": "Canon ZR85"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "2.5"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/118/cameras/2031_model_small_23f714666e.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/118/cameras/2031_model_large_b853e28789.jpg"
+          }
+        }
+      },
+      {
+        "id": "zr850",
+        "name": {
+          "_content": "Canon ZR850"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "2.7"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1149/cameras/72157600292491412_model_small_bd46421c08.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1149/cameras/72157600292491412_model_large_5f38b568a4.jpg"
+          }
+        }
+      },
+      {
+        "id": "elura_70",
+        "name": {
+          "_content": "Canon Elura 70"
+        }
+      },
+      {
+        "id": "optura_20",
+        "name": {
+          "_content": "Canon Optura 20"
+        }
+      },
+      {
+        "id": "dc20",
+        "name": {
+          "_content": "Canon DC20"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "2.5"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/165/cameras/2706_model_small_c33b9358b4.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/165/cameras/2706_model_large_dc34c957f5.jpg"
+          }
+        }
+      },
+      {
+        "id": "powershot_a30",
+        "name": {
+          "_content": "Canon PowerShot A30"
+        }
+      },
+      {
+        "id": "zr65_mc",
+        "name": {
+          "_content": "Canon ZR65 MC"
+        }
+      },
+      {
+        "id": "hv10",
+        "name": {
+          "_content": "Canon HV10"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "2.7"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/101/cameras/4250_model_small_0587b2f1d4.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/101/cameras/4250_model_large_485d09c770.jpg"
+          }
+        }
+      },
+      {
+        "id": "zr200",
+        "name": {
+          "_content": "Canon ZR200"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "2.4"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/104/cameras/834_model_small_32d5d5661c.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/104/cameras/834_model_large_0e0c1b4558.jpg"
+          }
+        }
+      },
+      {
+        "id": "optura_200_mc",
+        "name": {
+          "_content": "Canon Optura 200 MC"
+        }
+      },
+      {
+        "id": "optura_xi",
+        "name": {
+          "_content": "Canon Optura Xi"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/113/cameras/2327_model_small_4adaf0cbba.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/113/cameras/2327_model_large_afb3324063.jpg"
+          }
+        }
+      },
+      {
+        "id": "zr70_mc",
+        "name": {
+          "_content": "Canon ZR70 MC"
+        }
+      },
+      {
+        "id": "elura_60",
+        "name": {
+          "_content": "Canon Elura 60"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/113/cameras/3243_model_small_7171eda644.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/113/cameras/3243_model_large_4b80555830.jpg"
+          }
+        }
+      },
+      {
+        "id": "elura_100",
+        "name": {
+          "_content": "Canon Elura 100"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "2.7"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/3454_model_small_c33c5c12df.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/3454_model_large_2c7745a2c9.jpg"
+          }
+        }
+      },
+      {
+        "id": "optura_300",
+        "name": {
+          "_content": "Canon Optura 300"
+        }
+      },
+      {
+        "id": "dc40",
+        "name": {
+          "_content": "Canon DC40"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "2.7"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/101/cameras/2604_model_small_be408cc63c.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/101/cameras/2604_model_large_42c1d7eeed.jpg"
+          }
+        }
+      },
+      {
+        "id": "dc10",
+        "name": {
+          "_content": "Canon DC10"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "2.5"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1147/cameras/1556_model_small_4687e277f0.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1147/cameras/1556_model_large_22f4d11350.jpg"
+          }
+        }
+      },
+      {
+        "id": "elura_85",
+        "name": {
+          "_content": "Canon Elura 85"
+        }
+      },
+      {
+        "id": "elura_40_mc",
+        "name": {
+          "_content": "Canon Elura 40 MC"
+        }
+      },
+      {
+        "id": "optura_40",
+        "name": {
+          "_content": "Canon Optura 40"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "2.5"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1262/cameras/1766_model_small_f8791abed7.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1262/cameras/1766_model_large_dd791c27a3.jpg"
+          }
+        }
+      },
+      {
+        "id": "zr600",
+        "name": {
+          "_content": "Canon ZR600"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "2.7"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/112/cameras/1901_model_small_5e8b8ace02.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/112/cameras/1901_model_large_00bb945fd0.jpg"
+          }
+        }
+      },
+      {
+        "id": "zr700",
+        "name": {
+          "_content": "Canon ZR700"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "2.7"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/113/cameras/6046_model_small_f41b4b4d4e.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/113/cameras/6046_model_large_6c3b8985db.jpg"
+          }
+        }
+      },
+      {
+        "id": "dc100",
+        "name": {
+          "_content": "Canon DC100"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "2.7"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/116/cameras/2732_model_small_36ae667f4a.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/116/cameras/2732_model_large_068d35c572.jpg"
+          }
+        }
+      },
+      {
+        "id": "optura_30",
+        "name": {
+          "_content": "Canon Optura 30"
+        }
+      },
+      {
+        "id": "optura_10",
+        "name": {
+          "_content": "Canon Optura 10"
+        }
+      },
+      {
+        "id": "gl2",
+        "name": {
+          "_content": "Canon GL2"
+        }
+      },
+      {
+        "id": "elura_50",
+        "name": {
+          "_content": "Canon Elura 50"
+        }
+      },
+      {
+        "id": "optura_600",
+        "name": {
+          "_content": "Canon Optura 600"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "2.5"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/116/cameras/2644_model_small_2b31ee6a72.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/116/cameras/2644_model_large_c99852498a.jpg"
+          }
+        }
+      },
+      {
+        "id": "zr400",
+        "name": {
+          "_content": "Canon ZR400"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "2.4"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/118/cameras/2427_model_small_ef31cd0754.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/118/cameras/2427_model_large_8dea31956f.jpg"
+          }
+        }
+      },
+      {
+        "id": "elura_80",
+        "name": {
+          "_content": "Canon Elura 80"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "2.5"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1054/cameras/3699_model_small_44534ffb98.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1054/cameras/3699_model_large_c50d67a3b0.jpg"
+          }
+        }
+      },
+      {
+        "id": "elura_90",
+        "name": {
+          "_content": "Canon Elura 90"
+        }
+      },
+      {
+        "id": "optura_400",
+        "name": {
+          "_content": "Canon Optura 400"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "2.5"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/117/cameras/7708_model_small_6893d5c98d.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/117/cameras/7708_model_large_7046065dd5.jpg"
+          }
+        }
+      },
+      {
+        "id": "elura_65",
+        "name": {
+          "_content": "Canon Elura 65"
+        }
+      },
+      {
+        "id": "zr300",
+        "name": {
+          "_content": "Canon ZR300"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "2.4"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/117/cameras/4573_model_small_cdec1cc747.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/117/cameras/4573_model_large_6603ffbb98.jpg"
+          }
+        }
+      },
+      {
+        "id": "optura_50",
+        "name": {
+          "_content": "Canon Optura 50"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "2.5"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/121/cameras/2715_model_small_dc3a2c41df.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/121/cameras/2715_model_large_dcd9166601.jpg"
+          }
+        }
+      }
+    ]
+  },
+  "stat": "ok"
+}

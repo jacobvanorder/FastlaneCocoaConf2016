@@ -1,0 +1,409 @@
+{
+  "cameras": {
+    "brand": "blackberry",
+    "camera": [
+      {
+        "id": "q10",
+        "name": {
+          "_content": "BlackBerry Q10"
+        }
+      },
+      {
+        "id": "8520",
+        "name": {
+          "_content": "BlackBerry Curve 8520"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "microSD"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4036/cameras/72157616953691070_model_small_bf541f4df4.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4036/cameras/72157616953691070_model_large_d0317e628a.jpg"
+          }
+        }
+      },
+      {
+        "id": "z10",
+        "name": {
+          "_content": "BlackBerry Z10"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/633/cameras/72157632939865811_model_small_8fcfd0bba5.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/633/cameras/72157632939865811_model_large_650a59e91c.jpg"
+          }
+        }
+      },
+      {
+        "id": "9700",
+        "name": {
+          "_content": "BlackBerry Bold 9700"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "3.2"
+          },
+          "memory_type": {
+            "_content": "MicroSD"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4020/cameras/72157621576215677_model_small_8f59fde9d5.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4020/cameras/72157621576215677_model_large_ab6d0a3fb1.jpg"
+          }
+        }
+      },
+      {
+        "id": "passport",
+        "name": {
+          "_content": "BlackBerry Passport"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1464/cameras/72157645906069185_model_small_8aa3eedfa7.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1464/cameras/72157645906069185_model_large_b2b58f78f8.jpg"
+          }
+        }
+      },
+      {
+        "id": "9900",
+        "name": {
+          "_content": "Bold 9900"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7223/cameras/72157626423487821_model_small_36fdfd11b8.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7223/cameras/72157626423487821_model_large_72b0de3ae5.jpg"
+          }
+        }
+      },
+      {
+        "id": "9300",
+        "name": {
+          "_content": "RIM BlackBerry 9300"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8317/cameras/72157623730930449_model_small_4cfa7fb09c.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8317/cameras/72157623730930449_model_large_a8a22ac871.jpg"
+          }
+        }
+      },
+      {
+        "id": "8900",
+        "name": {
+          "_content": "BlackBerry Curve 8900"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "3.2"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2796/cameras/72157606582724491_model_small_e6fe1b09da.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2796/cameras/72157606582724491_model_large_a669b1fa35.jpg"
+          }
+        }
+      },
+      {
+        "id": "torch_9800",
+        "name": {
+          "_content": "BlackBerry Torch 9800"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "3.2"
+          },
+          "memory_type": {
+            "_content": "microSD"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4147/cameras/72157623910717049_model_small_25a0613474.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4147/cameras/72157623910717049_model_large_916828881d.jpg"
+          }
+        }
+      },
+      {
+        "id": "9000",
+        "name": {
+          "_content": "BlackBerry Bold 9000"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3614/cameras/72157603902491056_model_small_1b51ccac11.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3614/cameras/72157603902491056_model_large_8189f0bb2b.jpg"
+          }
+        }
+      },
+      {
+        "id": "8310",
+        "name": {
+          "_content": "BlackBerry Curve 8310"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3078/cameras/72157600293848090_model_small_60c5b62d15.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3078/cameras/72157600293848090_model_large_7cbc754b97.jpg"
+          }
+        }
+      },
+      {
+        "id": "8330",
+        "name": {
+          "_content": "BlackBerry Curve 8330"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "microSD"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4031/cameras/72157600293954386_model_small_aae48e63e1.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4031/cameras/72157600293954386_model_large_cbc12d2261.jpg"
+          }
+        }
+      },
+      {
+        "id": "9530",
+        "name": {
+          "_content": "BlackBerry Storm 9530"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "3.2"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3369/cameras/72157607671964084_model_small_ec64ec4371.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3369/cameras/72157607671964084_model_large_52ecd1c5de.jpg"
+          }
+        }
+      },
+      {
+        "id": "9630",
+        "name": {
+          "_content": "BlackBerry Tour 9630"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "3.2"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4047/cameras/72157616096845621_model_small_08dfe7f654.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4047/cameras/72157616096845621_model_large_944bc80722.jpg"
+          }
+        }
+      },
+      {
+        "id": "bbrim_8530",
+        "name": {
+          "_content": "RIM BlackBerry 8530"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "microSD™"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3356/cameras/72157622224883535_model_small_c9c485ccc8.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3356/cameras/72157622224883535_model_large_92e9fc262a.jpg"
+          }
+        }
+      },
+      {
+        "id": "9550",
+        "name": {
+          "_content": "BlackBerry Storm2 9550"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2631/cameras/72157621906844480_model_small_a1cab9fe59.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2631/cameras/72157621906844480_model_large_b81959f8f2.jpg"
+          }
+        }
+      },
+      {
+        "id": "8130",
+        "name": {
+          "_content": "BlackBerry Pearl 8130"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3164/cameras/72157601490930585_model_small_d7e8082219.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3164/cameras/72157601490930585_model_large_43e3c66f8f.jpg"
+          }
+        }
+      },
+      {
+        "id": "8320",
+        "name": {
+          "_content": "BlackBerry Curve 8320"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3033/cameras/72157600292978257_model_small_81da3bdfab.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3033/cameras/72157600292978257_model_large_93319ca487.jpg"
+          }
+        }
+      },
+      {
+        "id": "9500",
+        "name": {
+          "_content": "BlackBerry Storm 9500"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "3.15"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4047/cameras/72157605805732175_model_small_1e32257482.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4047/cameras/72157605805732175_model_large_92a1113ed7.jpg"
+          }
+        }
+      },
+      {
+        "id": "8300",
+        "name": {
+          "_content": "BlackBerry Curve 8300"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3142/cameras/72157600292706048_model_small_3ecccba7be.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3142/cameras/72157600292706048_model_large_c80a794070.jpg"
+          }
+        }
+      },
+      {
+        "id": "8110",
+        "name": {
+          "_content": "BlackBerry Pearl 8110"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "microSD"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4053/cameras/72157601839521078_model_small_8618740401.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4053/cameras/72157601839521078_model_large_b130644bda.jpg"
+          }
+        }
+      },
+      {
+        "id": "8120",
+        "name": {
+          "_content": "BlackBerry Pearl 8120"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "2"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4048/cameras/72157600453623135_model_small_cb39bce997.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4048/cameras/72157600453623135_model_large_75aede3de4.jpg"
+          }
+        }
+      },
+      {
+        "id": "8100",
+        "name": {
+          "_content": "BlackBerry Pearl 8100"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3088/cameras/72157600292376560_model_small_987626c7b4.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3088/cameras/72157600292376560_model_large_10e266dc89.jpg"
+          }
+        }
+      },
+      {
+        "id": "8220",
+        "name": {
+          "_content": "BlackBerry Pearl Flip 8220"
+        }
+      }
+    ]
+  },
+  "stat": "ok"
+}

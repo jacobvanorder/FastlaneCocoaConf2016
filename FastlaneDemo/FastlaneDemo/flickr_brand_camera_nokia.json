@@ -1,0 +1,1543 @@
+{
+  "cameras": {
+    "brand": "nokia",
+    "camera": [
+      {
+        "id": "lumia_1020",
+        "name": {
+          "_content": "Nokia Lumia 1020"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2858/cameras/72157634428787035_model_small_15ceb1262b.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2858/cameras/72157634428787035_model_large_ba4c3ef3e3.jpg"
+          }
+        }
+      },
+      {
+        "id": "lumia_635",
+        "name": {
+          "_content": "Nokia Lumia 635"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/756/cameras/72157644102164690_model_small_a6edba821b.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/756/cameras/72157644102164690_model_large_5c4e1e4811.jpg"
+          }
+        }
+      },
+      {
+        "id": "lumia_920",
+        "name": {
+          "_content": "Nokia Lumia 920"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3838/cameras/72157631615124435_model_small_d3a0e58acb.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3838/cameras/72157631615124435_model_large_7574038107.jpg"
+          }
+        }
+      },
+      {
+        "id": "lumia_520",
+        "name": {
+          "_content": "Nokia Lumia 520"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2876/cameras/72157633082565324_model_small_f762ea1b2e.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2876/cameras/72157633082565324_model_large_a2a416e79b.jpg"
+          }
+        }
+      },
+      {
+        "id": "n95",
+        "name": {
+          "_content": "Nokia N95"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "memory_type": {
+            "_content": "MicroSD"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1380/cameras/53218_model_small_5de8ab10b5.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1380/cameras/53218_model_large_fa650f11db.jpg"
+          }
+        }
+      },
+      {
+        "id": "lumia_925",
+        "name": {
+          "_content": "Nokia Lumia 925"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3778/cameras/72157633555353715_model_small_3c269da414.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3778/cameras/72157633555353715_model_large_18df3bbd11.jpg"
+          }
+        }
+      },
+      {
+        "id": "n8-00",
+        "name": {
+          "_content": "Nokia N8"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12"
+          },
+          "lcd_screen_size": {
+            "_content": "3.5"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm7.staticflickr.com/6171/cameras/72157624013405932_model_small_7536c1733a.jpg"
+          },
+          "large": {
+            "_content": "https://farm7.staticflickr.com/6171/cameras/72157624013405932_model_large_087e80a6d6.jpg"
+          }
+        }
+      },
+      {
+        "id": "n73",
+        "name": {
+          "_content": "Nokia N73"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "3.2"
+          },
+          "memory_type": {
+            "_content": "MiniSD"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/102/cameras/87_model_small_6578b69357.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/102/cameras/87_model_large_6270075fcb.jpg"
+          }
+        }
+      },
+      {
+        "id": "lumia_1520",
+        "name": {
+          "_content": "Nokia Lumia 1520"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7731/cameras/72157635265116394_model_small_e205a372fa.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7731/cameras/72157635265116394_model_large_933b0eede2.jpg"
+          }
+        }
+      },
+      {
+        "id": "lumia_830",
+        "name": {
+          "_content": "Nokia Lumia 830"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5809/cameras/72157646896255480_model_small_65d905ba8f.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5809/cameras/72157646896255480_model_large_2001c8aa0b.jpg"
+          }
+        }
+      },
+      {
+        "id": "5800_xpressmusic",
+        "name": {
+          "_content": "Nokia 5800 XpressMusic"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4040/cameras/72157608097833601_model_small_e0e33f5ba2.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4040/cameras/72157608097833601_model_large_29bf22446c.jpg"
+          }
+        }
+      },
+      {
+        "id": "6300",
+        "name": {
+          "_content": "Nokia 6300"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1154/cameras/62065_model_small_fc62345728.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1154/cameras/62065_model_large_b669c99349.jpg"
+          }
+        }
+      },
+      {
+        "id": "lumia_630",
+        "name": {
+          "_content": "Nokia Lumia 630"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/625/cameras/72157644275803068_model_small_40c462370f.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/625/cameras/72157644275803068_model_large_79611e4725.jpg"
+          }
+        }
+      },
+      {
+        "id": "n70",
+        "name": {
+          "_content": "Nokia N70"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/100/cameras/188_model_small_2423ce559e.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/100/cameras/188_model_large_5f6a8cca8f.jpg"
+          }
+        }
+      },
+      {
+        "id": "lumia_625",
+        "name": {
+          "_content": "Nokia Lumia 625"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/678/cameras/72157635069922771_model_small_6854c2e0a7.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/678/cameras/72157635069922771_model_large_be62227687.jpg"
+          }
+        }
+      },
+      {
+        "id": "lumia_735",
+        "name": {
+          "_content": "Nokia Lumia 735"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/627/cameras/72157647550687826_model_small_69e93b5070.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/627/cameras/72157647550687826_model_large_e6b76d0a80.jpg"
+          }
+        }
+      },
+      {
+        "id": "x6-00",
+        "name": {
+          "_content": "Nokia X6"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "3.2"
+          },
+          "memory_type": {
+            "_content": "microSD"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm7.staticflickr.com/6086/cameras/72157622028187151_model_small_c2a1c842ed.jpg"
+          },
+          "large": {
+            "_content": "https://farm7.staticflickr.com/6086/cameras/72157622028187151_model_large_d91e656451.jpg"
+          }
+        }
+      },
+      {
+        "id": "c3-00",
+        "name": {
+          "_content": "Nokia C3"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.4"
+          },
+          "memory_type": {
+            "_content": "microSD"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm7.staticflickr.com/6089/cameras/72157623227400843_model_small_88a42ed353.jpg"
+          },
+          "large": {
+            "_content": "https://farm7.staticflickr.com/6089/cameras/72157623227400843_model_large_1fb4bbddae.jpg"
+          }
+        }
+      },
+      {
+        "id": "lumia_820",
+        "name": {
+          "_content": "Nokia Lumia 820"
+        }
+      },
+      {
+        "id": "6630",
+        "name": {
+          "_content": "Nokia 6630"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/114/cameras/242_model_small_0ef4e845c0.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/114/cameras/242_model_large_a7f87c8e08.jpg"
+          }
+        }
+      },
+      {
+        "id": "e71",
+        "name": {
+          "_content": "Nokia E71"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3128/cameras/72157604507279486_model_small_cd5549209d.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3128/cameras/72157604507279486_model_large_200d56afb9.jpg"
+          }
+        }
+      },
+      {
+        "id": "5130xpressmusic",
+        "name": {
+          "_content": "Nokia 5130 XpressMusic"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "2"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4023/cameras/72157612902179219_model_small_bbfd39993e.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4023/cameras/72157612902179219_model_large_c115e097cc.jpg"
+          }
+        }
+      },
+      {
+        "id": "6303_classic",
+        "name": {
+          "_content": "Nokia 6303 classic"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "3.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.2"
+          },
+          "memory_type": {
+            "_content": "microSD"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2685/cameras/72157614163718274_model_small_410414c34b.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2685/cameras/72157614163718274_model_large_30cb2eb989.jpg"
+          }
+        }
+      },
+      {
+        "id": "lumia_620",
+        "name": {
+          "_content": "Nokia Lumia 620"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5454/cameras/72157632248951610_model_small_181cefc028.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5454/cameras/72157632248951610_model_large_449c75b992.jpg"
+          }
+        }
+      },
+      {
+        "id": "808_pureview",
+        "name": {
+          "_content": "Nokia 808 PureView"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8169/cameras/72157629112309640_model_small_8660a823b4.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8169/cameras/72157629112309640_model_large_e4aa256683.jpg"
+          }
+        }
+      },
+      {
+        "id": "6120c",
+        "name": {
+          "_content": "Nokia 6120 classic"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "2"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4003/cameras/72157600292999595_model_small_d9934ba7a8.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4003/cameras/72157600292999595_model_large_e773debac4.jpg"
+          }
+        }
+      },
+      {
+        "id": "5310_xpressmusic",
+        "name": {
+          "_content": "Nokia 5310 XpressMusic"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "MicroSD"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2802/cameras/72157602177292280_model_small_321a30dff6.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2802/cameras/72157602177292280_model_large_8cdb549119.jpg"
+          }
+        }
+      },
+      {
+        "id": "6233",
+        "name": {
+          "_content": "Nokia 6233"
+        }
+      },
+      {
+        "id": "6131",
+        "name": {
+          "_content": "Nokia 6131"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "1.3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/108/cameras/2154_model_small_244743202e.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/108/cameras/2154_model_large_c669a7f839.jpg"
+          }
+        }
+      },
+      {
+        "id": "n82",
+        "name": {
+          "_content": "Nokia N82"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2283/cameras/72157601784938436_model_small_07ff603f60.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2283/cameras/72157601784938436_model_large_db414698c5.jpg"
+          }
+        }
+      },
+      {
+        "id": "e51",
+        "name": {
+          "_content": "Nokia E51"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2186/cameras/72157600986164638_model_small_90c4e70d0c.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2186/cameras/72157600986164638_model_large_62eecf9a1e.jpg"
+          }
+        }
+      },
+      {
+        "id": "6500s",
+        "name": {
+          "_content": "Nokia 6500 slide"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "3.2"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4015/cameras/72157600383776875_model_small_429a4f0c42.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4015/cameras/72157600383776875_model_large_2e893852fb.jpg"
+          }
+        }
+      },
+      {
+        "id": "lumia_710",
+        "name": {
+          "_content": "Nokia Lumia 710"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "3.7"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8026/cameras/72157628029041825_model_small_b17c454731.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8026/cameras/72157628029041825_model_large_509b8b9bf4.jpg"
+          }
+        }
+      },
+      {
+        "id": "2700_classic",
+        "name": {
+          "_content": "Nokia 2700 classic"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "2"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "microSD"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2804/cameras/72157618879040292_model_small_b7a609150d.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2804/cameras/72157618879040292_model_large_56d03b2b76.jpg"
+          }
+        }
+      },
+      {
+        "id": "6680",
+        "name": {
+          "_content": "Nokia 6680"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "1.3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/114/cameras/398_model_small_cc55e74886.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/114/cameras/398_model_large_484ec1210e.jpg"
+          }
+        }
+      },
+      {
+        "id": "n97mini",
+        "name": {
+          "_content": "Nokia N97 mini"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2735/cameras/72157621965483394_model_small_bea8606139.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2735/cameras/72157621965483394_model_large_129b36c140.jpg"
+          }
+        }
+      },
+      {
+        "id": "e65",
+        "name": {
+          "_content": "Nokia E65"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/224/cameras/58184_model_small_2e86bb3aae.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/224/cameras/58184_model_large_52731a4b56.jpg"
+          }
+        }
+      },
+      {
+        "id": "e66",
+        "name": {
+          "_content": "Nokia E66"
+        }
+      },
+      {
+        "id": "5530xpress",
+        "name": {
+          "_content": "Nokia 5530 XpressMusic"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "3.2"
+          },
+          "memory_type": {
+            "_content": "microSDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2699/cameras/72157618404616113_model_small_abf1f57cb1.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2699/cameras/72157618404616113_model_large_d2283fdbc4.jpg"
+          }
+        }
+      },
+      {
+        "id": "e63",
+        "name": {
+          "_content": "Nokia E63"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "MicroSD"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4028/cameras/72157607268909284_model_small_9ca84b7af9.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4028/cameras/72157607268909284_model_large_9564b72fc8.jpg"
+          }
+        }
+      },
+      {
+        "id": "6280",
+        "name": {
+          "_content": "Nokia 6280"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1180/cameras/1114_model_small_49da06d34a.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1180/cameras/1114_model_large_d1569ec5e6.jpg"
+          }
+        }
+      },
+      {
+        "id": "n72",
+        "name": {
+          "_content": "Nokia N72"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "2"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/107/cameras/330_model_small_628e481399.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/107/cameras/330_model_large_4ac6a3f879.jpg"
+          }
+        }
+      },
+      {
+        "id": "c6-00",
+        "name": {
+          "_content": "Nokia C6"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "3.2"
+          },
+          "memory_type": {
+            "_content": "microSD"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm7.staticflickr.com/6074/cameras/72157623469952115_model_small_888b8cc288.jpg"
+          },
+          "large": {
+            "_content": "https://farm7.staticflickr.com/6074/cameras/72157623469952115_model_large_fc3ec22b31.jpg"
+          }
+        }
+      },
+      {
+        "id": "n97",
+        "name": {
+          "_content": "Nokia N97"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "memory_type": {
+            "_content": "MicroSD"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2703/cameras/72157612865256083_model_small_ce6843e5c5.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2703/cameras/72157612865256083_model_large_a0d5513a6c.jpg"
+          }
+        }
+      },
+      {
+        "id": "5610d",
+        "name": {
+          "_content": "Nokia 5610d"
+        }
+      },
+      {
+        "id": "3120_classic",
+        "name": {
+          "_content": "Nokia 3120 classic"
+        }
+      },
+      {
+        "id": "n80",
+        "name": {
+          "_content": "Nokia N80"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/99/cameras/508_model_small_446f10dfd0.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/99/cameras/508_model_large_984c5eb724.jpg"
+          }
+        }
+      },
+      {
+        "id": "n900",
+        "name": {
+          "_content": "Nokia N900"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "3.5"
+          },
+          "memory_type": {
+            "_content": "microSD™"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4040/cameras/72157622207392889_model_small_62a6188b44.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4040/cameras/72157622207392889_model_large_7902074885.jpg"
+          }
+        }
+      },
+      {
+        "id": "lumia_900",
+        "name": {
+          "_content": "Nokia Lumia 900"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "4.3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7074/cameras/72157629348324157_model_small_54bdb40aba.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7074/cameras/72157629348324157_model_large_ddbe152834.jpg"
+          }
+        }
+      },
+      {
+        "id": "n96",
+        "name": {
+          "_content": "Nokia N96"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3017/cameras/72157605552480635_model_small_b906350ec6.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3017/cameras/72157605552480635_model_large_4c60d63709.jpg"
+          }
+        }
+      },
+      {
+        "id": "3110c",
+        "name": {
+          "_content": "Nokia 3110c"
+        }
+      },
+      {
+        "id": "lumia_800",
+        "name": {
+          "_content": "Nokia Lumia 800"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "3.7"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7093/cameras/72157627740135087_model_small_0869b12199.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7093/cameras/72157627740135087_model_large_25990e775e.jpg"
+          }
+        }
+      },
+      {
+        "id": "n3600_slide",
+        "name": {
+          "_content": "Nokia 3600 slide"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "3.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "microSD"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4016/cameras/72157604924381388_model_small_f97c2c632c.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4016/cameras/72157604924381388_model_large_b68f76565a.jpg"
+          }
+        }
+      },
+      {
+        "id": "6288",
+        "name": {
+          "_content": "Nokia 6288"
+        }
+      },
+      {
+        "id": "lumia_610",
+        "name": {
+          "_content": "Nokia Lumia 610"
+        }
+      },
+      {
+        "id": "n85",
+        "name": {
+          "_content": "Nokia N85"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3424/cameras/72157606338473173_model_small_0bf4895f90.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3424/cameras/72157606338473173_model_large_1452afd854.jpg"
+          }
+        }
+      },
+      {
+        "id": "n81",
+        "name": {
+          "_content": "Nokia N81"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2252/cameras/72157600292055871_model_small_fefa942825.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2252/cameras/72157600292055871_model_large_aaa4d46ba5.jpg"
+          }
+        }
+      },
+      {
+        "id": "6234",
+        "name": {
+          "_content": "Nokia 6234"
+        }
+      },
+      {
+        "id": "n9",
+        "name": {
+          "_content": "Nokia N9"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "3.9"
+          },
+          "memory_type": {
+            "_content": "microSD"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm7.staticflickr.com/6167/cameras/72157626891784279_model_small_e704cc0d75.jpg"
+          },
+          "large": {
+            "_content": "https://farm7.staticflickr.com/6167/cameras/72157626891784279_model_large_64fe7de591.jpg"
+          }
+        }
+      },
+      {
+        "id": "5200",
+        "name": {
+          "_content": "Nokia 5200"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "0.3"
+          },
+          "memory_type": {
+            "_content": "MicroSD"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4058/cameras/53841_model_small_7f9cf0e5cd.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4058/cameras/53841_model_large_296df19b09.jpg"
+          }
+        }
+      },
+      {
+        "id": "n86_8mp",
+        "name": {
+          "_content": "Nokia N86 8MP"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "2.6"
+          },
+          "memory_type": {
+            "_content": "microSD"
+          }
+        }
+      },
+      {
+        "id": "n78",
+        "name": {
+          "_content": "Nokia N78"
+        }
+      },
+      {
+        "id": "n79",
+        "name": {
+          "_content": "Nokia N79"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "2.4"
+          },
+          "memory_type": {
+            "_content": "microSD card"
+          }
+        }
+      },
+      {
+        "id": "5220_xpressmusic",
+        "name": {
+          "_content": "Nokia 5220 XpressMusic"
+        }
+      },
+      {
+        "id": "5300",
+        "name": {
+          "_content": "Nokia 5300"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1168/cameras/49614_model_small_172838983c.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1168/cameras/49614_model_large_4515dc4b92.jpg"
+          }
+        }
+      },
+      {
+        "id": "lumia_822",
+        "name": {
+          "_content": "Nokia Lumia 822"
+        }
+      },
+      {
+        "id": "6220c",
+        "name": {
+          "_content": "Nokia 6220c"
+        }
+      },
+      {
+        "id": "6500c",
+        "name": {
+          "_content": "Nokia 6500c"
+        }
+      },
+      {
+        "id": "e90",
+        "name": {
+          "_content": "Nokia E90"
+        }
+      },
+      {
+        "id": "3250",
+        "name": {
+          "_content": "Nokia 3250"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "2"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/106/cameras/366_model_small_b3054cac3d.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/106/cameras/366_model_large_d9d8edb36d.jpg"
+          }
+        }
+      },
+      {
+        "id": "7610_supernova",
+        "name": {
+          "_content": "Nokia 7610 Supernova"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3503/cameras/72157605311377756_model_small_268c288789.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3503/cameras/72157605311377756_model_large_28eb04cf05.jpg"
+          }
+        }
+      },
+      {
+        "id": "7210_supernova",
+        "name": {
+          "_content": "Nokia 7210 Supernova"
+        }
+      },
+      {
+        "id": "e50",
+        "name": {
+          "_content": "Nokia E50"
+        }
+      },
+      {
+        "id": "7373",
+        "name": {
+          "_content": "Nokia 7373"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1198/cameras/53908_model_small_ae4e57f1f7.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1198/cameras/53908_model_large_9c2117197f.jpg"
+          }
+        }
+      },
+      {
+        "id": "7390",
+        "name": {
+          "_content": "Nokia 7390"
+        }
+      },
+      {
+        "id": "5610_xpressmusic",
+        "name": {
+          "_content": "Nokia 5610 XpressMusic"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3289/cameras/72157603020417505_model_small_e5157589f5.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3289/cameras/72157603020417505_model_large_6e71effa1d.jpg"
+          }
+        }
+      },
+      {
+        "id": "n76",
+        "name": {
+          "_content": "Nokia N76"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1200/cameras/72157600289424426_model_small_42f234adb4.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1200/cameras/72157600289424426_model_large_2a8488f301.jpg"
+          }
+        }
+      },
+      {
+        "id": "6125",
+        "name": {
+          "_content": "Nokia 6125"
+        }
+      },
+      {
+        "id": "6210_navig",
+        "name": {
+          "_content": "Nokia 6210 Navigator"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "3.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.4"
+          },
+          "memory_type": {
+            "_content": "microSD"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4069/cameras/72157603514133252_model_small_26524d1db7.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4069/cameras/72157603514133252_model_large_a98fc495b9.jpg"
+          }
+        }
+      },
+      {
+        "id": "3500c",
+        "name": {
+          "_content": "Nokia 3500c"
+        }
+      },
+      {
+        "id": "6110",
+        "name": {
+          "_content": "Nokia 6110"
+        }
+      },
+      {
+        "id": "5700",
+        "name": {
+          "_content": "Nokia 5700"
+        }
+      },
+      {
+        "id": "6151",
+        "name": {
+          "_content": "Nokia 6151"
+        }
+      },
+      {
+        "id": "n93",
+        "name": {
+          "_content": "Nokia N93"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "3.2"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/99/cameras/574_model_small_8b60d7969a.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/99/cameras/574_model_large_ee4083c9e7.jpg"
+          }
+        }
+      },
+      {
+        "id": "n90",
+        "name": {
+          "_content": "Nokia N90"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "2"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/332_model_small_541690687c.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/332_model_large_7bd9174f5a.jpg"
+          }
+        }
+      },
+      {
+        "id": "6133",
+        "name": {
+          "_content": "Nokia 6133"
+        }
+      },
+      {
+        "id": "6555b",
+        "name": {
+          "_content": "Nokia 6555b"
+        }
+      },
+      {
+        "id": "n91",
+        "name": {
+          "_content": "Nokia N91"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "2"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/109/cameras/447_model_small_2dafb9fcb3.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/109/cameras/447_model_large_30a0439d59.jpg"
+          }
+        }
+      },
+      {
+        "id": "e70",
+        "name": {
+          "_content": "Nokia E70"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "2"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/117/cameras/325_model_small_5ad94412ca.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/117/cameras/325_model_large_574972419b.jpg"
+          }
+        }
+      },
+      {
+        "id": "n5320",
+        "name": {
+          "_content": "Nokia 5320"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "2"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "microSD"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2715/cameras/72157604105333888_model_small_d6b7e446de.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2715/cameras/72157604105333888_model_large_d1e306daaa.jpg"
+          }
+        }
+      },
+      {
+        "id": "6681",
+        "name": {
+          "_content": "Nokia 6681"
+        }
+      },
+      {
+        "id": "e61i",
+        "name": {
+          "_content": "Nokia E61i"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1083/cameras/62072_model_small_085cd2e96d.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1083/cameras/62072_model_large_b924066d85.jpg"
+          }
+        }
+      },
+      {
+        "id": "6111",
+        "name": {
+          "_content": "Nokia 6111"
+        }
+      },
+      {
+        "id": "5678",
+        "name": {
+          "_content": "Nokia 5678"
+        }
+      },
+      {
+        "id": "5500",
+        "name": {
+          "_content": "Nokia 5500"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "2"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/112/cameras/2192_model_small_4fbda4af15.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/112/cameras/2192_model_large_1fd307f187.jpg"
+          }
+        }
+      },
+      {
+        "id": "7500",
+        "name": {
+          "_content": "Nokia 7500"
+        }
+      },
+      {
+        "id": "n7310",
+        "name": {
+          "_content": "Nokia 7310"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "2"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "microSD"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4048/cameras/72157605350604081_model_small_92b9431333.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4048/cameras/72157605350604081_model_large_cb00c574a0.jpg"
+          }
+        }
+      },
+      {
+        "id": "n71",
+        "name": {
+          "_content": "Nokia N71"
+        }
+      },
+      {
+        "id": "6275i",
+        "name": {
+          "_content": "Nokia 6275i"
+        }
+      },
+      {
+        "id": "n75",
+        "name": {
+          "_content": "Nokia N75"
+        }
+      },
+      {
+        "id": "6126",
+        "name": {
+          "_content": "Nokia 6126"
+        }
+      },
+      {
+        "id": "6275",
+        "name": {
+          "_content": "Nokia 6275"
+        }
+      },
+      {
+        "id": "6682",
+        "name": {
+          "_content": "Nokia 6682"
+        }
+      },
+      {
+        "id": "6315i",
+        "name": {
+          "_content": "Nokia 6315i"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/214/cameras/49291_model_small_29e3ad9929.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/214/cameras/49291_model_large_038f243eaa.jpg"
+          }
+        }
+      },
+      {
+        "id": "7370",
+        "name": {
+          "_content": "Nokia 7370"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "1.3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/137/cameras/4280_model_small_176851840f.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/137/cameras/4280_model_large_fc3d2c1c6a.jpg"
+          }
+        }
+      },
+      {
+        "id": "8800",
+        "name": {
+          "_content": "Nokia 8800"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "0.5"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/112/cameras/6618_model_small_bd4ec01663.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/112/cameras/6618_model_large_7574727139.jpg"
+          }
+        }
+      },
+      {
+        "id": "n77",
+        "name": {
+          "_content": "Nokia N77"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.4"
+          },
+          "memory_type": {
+            "_content": "microSD"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2775/cameras/58207_model_small_2dba755ca5.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2775/cameras/58207_model_large_16ed0c11b6.jpg"
+          }
+        }
+      },
+      {
+        "id": "3610a",
+        "name": {
+          "_content": "Nokia 3610a"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "1.3"
+          }
+        }
+      }
+    ]
+  },
+  "stat": "ok"
+}

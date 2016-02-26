@@ -1,0 +1,888 @@
+{
+  "cameras": {
+    "brand": "hp",
+    "camera": [
+      {
+        "id": "photosmart_735",
+        "name": {
+          "_content": "HP PhotoSmart 735"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/113/cameras/177_model_small_c83143a51f.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/113/cameras/177_model_large_5a9875cea7.jpg"
+          }
+        }
+      },
+      {
+        "id": "photosmart_c935",
+        "name": {
+          "_content": "HP PhotoSmart C935"
+        }
+      },
+      {
+        "id": "photosmart_320",
+        "name": {
+          "_content": "HP PhotoSmart 320"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1125/cameras/876_model_small_803e55fca6.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1125/cameras/876_model_large_b599d289b0.jpg"
+          }
+        }
+      },
+      {
+        "id": "photosmart_315",
+        "name": {
+          "_content": "HP PhotoSmart 315"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1054/cameras/1095_model_small_e1ae08c780.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1054/cameras/1095_model_large_7f058990d3.jpg"
+          }
+        }
+      },
+      {
+        "id": "photosmart_r707",
+        "name": {
+          "_content": "HP PhotoSmart R707"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5.1"
+          },
+          "lcd_screen_size": {
+            "_content": "1.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/111/cameras/43_model_small_14781e8e9f.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/111/cameras/43_model_large_e6741d8997.jpg"
+          }
+        }
+      },
+      {
+        "id": "photosmart_e317",
+        "name": {
+          "_content": "HP PhotoSmart E317"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4.9"
+          },
+          "lcd_screen_size": {
+            "_content": "1.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/111/cameras/955_model_small_34049c5240.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/111/cameras/955_model_large_e1b8b4ce44.jpg"
+          }
+        }
+      },
+      {
+        "id": "photosmart_m425",
+        "name": {
+          "_content": "HP PhotoSmart M425"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4.9"
+          },
+          "lcd_screen_size": {
+            "_content": "1.7"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/114/cameras/846_model_small_89e99fe0a7.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/114/cameras/846_model_large_125740ec2d.jpg"
+          }
+        }
+      },
+      {
+        "id": "photosmart_318",
+        "name": {
+          "_content": "HP PhotoSmart 318"
+        }
+      },
+      {
+        "id": "photosmart_r607",
+        "name": {
+          "_content": "HP PhotoSmart R607"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4.1"
+          },
+          "lcd_screen_size": {
+            "_content": "1.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/250_model_small_65277dc6d4.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/250_model_large_0f43ea3cf4.jpg"
+          }
+        }
+      },
+      {
+        "id": "photosmart_c812",
+        "name": {
+          "_content": "HP PhotoSmart C812"
+        }
+      },
+      {
+        "id": "photosmart_m307",
+        "name": {
+          "_content": "HP PhotoSmart M307"
+        }
+      },
+      {
+        "id": "photosmart_r717",
+        "name": {
+          "_content": "HP PhotoSmart R717"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6.2"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/101/cameras/529_model_small_16d00b4bc4.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/101/cameras/529_model_large_9d42ab50e7.jpg"
+          }
+        }
+      },
+      {
+        "id": "photosmart_720",
+        "name": {
+          "_content": "HP PhotoSmart 720"
+        }
+      },
+      {
+        "id": "photosmart_r507",
+        "name": {
+          "_content": "HP PhotoSmart R507"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4.1"
+          },
+          "lcd_screen_size": {
+            "_content": "1.5"
+          },
+          "memory_type": {
+            "_content": "MultiMediaCard, Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/104/cameras/719_model_small_d64d4a90dd.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/104/cameras/719_model_large_ad2905c13e.jpg"
+          }
+        }
+      },
+      {
+        "id": "photosmart_635",
+        "name": {
+          "_content": "HP PhotoSmart 635"
+        }
+      },
+      {
+        "id": "photosmart_r740",
+        "name": {
+          "_content": "HP PhotoSmart R740"
+        }
+      },
+      {
+        "id": "photosmart_c945",
+        "name": {
+          "_content": "HP PhotoSmart C945"
+        }
+      },
+      {
+        "id": "photosmart_c850",
+        "name": {
+          "_content": "HP PhotoSmart C850"
+        }
+      },
+      {
+        "id": "photosmart_m525",
+        "name": {
+          "_content": "HP PhotoSmart M525"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/111/cameras/1977_model_small_1d8a344784.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/111/cameras/1977_model_large_2c8eab4aae.jpg"
+          }
+        }
+      },
+      {
+        "id": "photosmart_e427",
+        "name": {
+          "_content": "HP PhotoSmart E427"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/102/cameras/2073_model_small_30ce4ca838.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/102/cameras/2073_model_large_7c272dc857.jpg"
+          }
+        }
+      },
+      {
+        "id": "photosmart_m417",
+        "name": {
+          "_content": "HP PhotoSmart M417"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5.2"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/119/cameras/616_model_small_180219f41b.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/119/cameras/616_model_large_a7afd998c7.jpg"
+          }
+        }
+      },
+      {
+        "id": "photosmart_e327",
+        "name": {
+          "_content": "HP PhotoSmart E327"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4.9"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/99/cameras/1092_model_small_1f9dd5bf64.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/99/cameras/1092_model_large_48def54e5e.jpg"
+          }
+        }
+      },
+      {
+        "id": "photosmart_r817",
+        "name": {
+          "_content": "HP PhotoSmart R817"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/99/cameras/167_model_small_38283a0c64.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/99/cameras/167_model_large_1d005d4ee2.jpg"
+          }
+        }
+      },
+      {
+        "id": "photosmart_618",
+        "name": {
+          "_content": "HP PhotoSmart 618"
+        }
+      },
+      {
+        "id": "photosmart_m540",
+        "name": {
+          "_content": "HP PhotoSmart M540"
+        }
+      },
+      {
+        "id": "photosmart_m517",
+        "name": {
+          "_content": "HP PhotoSmart M517"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/112/cameras/1106_model_small_3b4c83c805.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/112/cameras/1106_model_large_db68490b21.jpg"
+          }
+        }
+      },
+      {
+        "id": "photosmart_r837",
+        "name": {
+          "_content": "HP PhotoSmart R837"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.2"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1126/cameras/72157600292563772_model_small_d9498583e9.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1126/cameras/72157600292563772_model_large_334f4153c6.jpg"
+          }
+        }
+      },
+      {
+        "id": "photosmart_r927",
+        "name": {
+          "_content": "HP PhotoSmart R927"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8.2"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/104/cameras/1401_model_small_86f0c36c47.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/104/cameras/1401_model_large_6bb8fef569.jpg"
+          }
+        }
+      },
+      {
+        "id": "photosmart_715",
+        "name": {
+          "_content": "HP PhotoSmart 715"
+        }
+      },
+      {
+        "id": "photosmart_m437",
+        "name": {
+          "_content": "HP PhotoSmart M437"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1200/cameras/65934_model_small_d382617675.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1200/cameras/65934_model_large_1aee6aa748.jpg"
+          }
+        }
+      },
+      {
+        "id": "photosmart_c200",
+        "name": {
+          "_content": "HP PhotoSmart C200"
+        }
+      },
+      {
+        "id": "photosmart_r725",
+        "name": {
+          "_content": "HP PhotoSmart R725"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/122/cameras/2641_model_small_0734d17cf3.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/122/cameras/2641_model_large_ddeda4ecc6.jpg"
+          }
+        }
+      },
+      {
+        "id": "photosmart_r840",
+        "name": {
+          "_content": "HP PhotoSmart R840"
+        }
+      },
+      {
+        "id": "photosmart_m407",
+        "name": {
+          "_content": "HP PhotoSmart M407"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/105/cameras/1063_model_small_7a38d84993.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/105/cameras/1063_model_large_5b81a8d222.jpg"
+          }
+        }
+      },
+      {
+        "id": "photosmart_m627",
+        "name": {
+          "_content": "HP PhotoSmart M627"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1267/cameras/6083_model_small_ca0a8c1e74.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1267/cameras/6083_model_large_afe8f28959.jpg"
+          }
+        }
+      },
+      {
+        "id": "photosmart_m415",
+        "name": {
+          "_content": "HP PhotoSmart M415"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5.2"
+          },
+          "memory_type": {
+            "_content": "MultiMediaCard, Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/118/cameras/198_model_small_ffcaee54d9.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/118/cameras/198_model_large_cdb9903971.jpg"
+          }
+        }
+      },
+      {
+        "id": "photosmart_m537",
+        "name": {
+          "_content": "HP PhotoSmart M537"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1428/cameras/72157600292654734_model_small_dee203f0d3.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1428/cameras/72157600292654734_model_large_f6b267af19.jpg"
+          }
+        }
+      },
+      {
+        "id": "photosmart_e330",
+        "name": {
+          "_content": "HP PhotoSmart E330"
+        }
+      },
+      {
+        "id": "photosmart_m527",
+        "name": {
+          "_content": "HP PhotoSmart M527"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/2420_model_small_aa8008fa6a.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/2420_model_large_d8ab69a1cf.jpg"
+          }
+        }
+      },
+      {
+        "id": "photosmart_m305",
+        "name": {
+          "_content": "HP PhotoSmart M305"
+        }
+      },
+      {
+        "id": "photosmart_733",
+        "name": {
+          "_content": "HP PhotoSmart 733"
+        }
+      },
+      {
+        "id": "ipaq_rx3000",
+        "name": {
+          "_content": "HP iPAQ rx3000"
+        }
+      },
+      {
+        "id": "photosmart_r727",
+        "name": {
+          "_content": "HP PhotoSmart R727"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/106/cameras/1589_model_small_1e7e2ff278.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/106/cameras/1589_model_large_2a555e8dce.jpg"
+          }
+        }
+      },
+      {
+        "id": "photosmart_m22",
+        "name": {
+          "_content": "HP PhotoSmart M22"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4.1"
+          },
+          "lcd_screen_size": {
+            "_content": "1.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/100/cameras/1693_model_small_e1cf4a1d46.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/100/cameras/1693_model_large_a2a87f0fb7.jpg"
+          }
+        }
+      },
+      {
+        "id": "photosmart_m440",
+        "name": {
+          "_content": "HP PhotoSmart M440"
+        }
+      },
+      {
+        "id": "photosmart_612",
+        "name": {
+          "_content": "HP PhotoSmart 612"
+        }
+      },
+      {
+        "id": "photosmart_215",
+        "name": {
+          "_content": "HP PhotoSmart 215"
+        }
+      },
+      {
+        "id": "photosmart_mz60",
+        "name": {
+          "_content": "HP PhotoSmart Mz60"
+        }
+      },
+      {
+        "id": "photosmart_r930",
+        "name": {
+          "_content": "HP PhotoSmart R930"
+        }
+      },
+      {
+        "id": "photosmart_e217",
+        "name": {
+          "_content": "HP PhotoSmart E217"
+        }
+      },
+      {
+        "id": "photosmart_m23",
+        "name": {
+          "_content": "HP PhotoSmart M23"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4.1"
+          },
+          "lcd_screen_size": {
+            "_content": "1.5"
+          },
+          "memory_type": {
+            "_content": "MultiMediaCard, Secure Digital"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/101/cameras/1325_model_small_0c032997b4.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/101/cameras/1325_model_large_5c4170f5e1.jpg"
+          }
+        }
+      },
+      {
+        "id": "photosmart_r960",
+        "name": {
+          "_content": "HP PhotoSmart R960"
+        }
+      },
+      {
+        "id": "photosmart_c912",
+        "name": {
+          "_content": "HP PhotoSmart C912"
+        }
+      },
+      {
+        "id": "photosmart_620",
+        "name": {
+          "_content": "HP PhotoSmart 620"
+        }
+      },
+      {
+        "id": "photosmart_m630",
+        "name": {
+          "_content": "HP PhotoSmart M630"
+        }
+      },
+      {
+        "id": "ipaq_hw6515",
+        "name": {
+          "_content": "HP iPAQ hw6515"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "1.3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/115/cameras/594_model_small_35c8db0712.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/115/cameras/594_model_large_81b9c7ec4b.jpg"
+          }
+        }
+      },
+      {
+        "id": "photosmart_r818",
+        "name": {
+          "_content": "HP PhotoSmart R818"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/582_model_small_0c4bd1eec5.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/582_model_large_bd9a3bd6e3.jpg"
+          }
+        }
+      },
+      {
+        "id": "photosmart_c30",
+        "name": {
+          "_content": "HP PhotoSmart C30"
+        }
+      },
+      {
+        "id": "photosmart_r827",
+        "name": {
+          "_content": "HP PhotoSmart R827"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/117/cameras/7691_model_small_fba6b1c99f.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/117/cameras/7691_model_large_58af94b452.jpg"
+          }
+        }
+      },
+      {
+        "id": "photosmart_c20",
+        "name": {
+          "_content": "HP PhotoSmart C20"
+        }
+      },
+      {
+        "id": "photosmart_120",
+        "name": {
+          "_content": "HP PhotoSmart 120"
+        }
+      }
+    ]
+  },
+  "stat": "ok"
+}

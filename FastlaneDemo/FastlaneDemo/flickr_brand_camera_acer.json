@@ -1,0 +1,150 @@
+{
+  "cameras": {
+    "brand": "acer",
+    "camera": [
+      {
+        "id": "cr-8530",
+        "name": {
+          "_content": "Acer CR-8530"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2047/cameras/1970_model_small_172fba2c79.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2047/cameras/1970_model_large_63cf67cf4a.jpg"
+          }
+        }
+      },
+      {
+        "id": "ce-5330",
+        "name": {
+          "_content": "Acer CE-5330"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2396/cameras/1741_model_small_47ce10738e.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2396/cameras/1741_model_large_543a592e4b.jpg"
+          }
+        }
+      },
+      {
+        "id": "ci-6330",
+        "name": {
+          "_content": "Acer CI-6330"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2210/cameras/1453_model_small_6de186e2f0.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2210/cameras/1453_model_large_de9c42d36e.jpg"
+          }
+        }
+      },
+      {
+        "id": "cu-6530",
+        "name": {
+          "_content": "Acer CU-6530"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2015/cameras/1596_model_small_26ca2be135.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2015/cameras/1596_model_large_3c5198981a.jpg"
+          }
+        }
+      },
+      {
+        "id": "cs-5531",
+        "name": {
+          "_content": "Acer CS-5531"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2384/cameras/4082_model_small_65ff7292d3.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2384/cameras/4082_model_large_77f712e74d.jpg"
+          }
+        }
+      },
+      {
+        "id": "ce-6430",
+        "name": {
+          "_content": "Acer CE-6430"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2333/cameras/3933_model_small_cd080ec28a.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2333/cameras/3933_model_large_a80685da33.jpg"
+          }
+        }
+      },
+      {
+        "id": "cs-6531",
+        "name": {
+          "_content": "Acer CS-6531"
+        }
+      },
+      {
+        "id": "ci-8330",
+        "name": {
+          "_content": "Acer CI-8330"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2231/cameras/6011_model_small_a7415f275b.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2231/cameras/6011_model_large_fdfe52aabd.jpg"
+          }
+        }
+      },
+      {
+        "id": "cp-8531",
+        "name": {
+          "_content": "Acer CP-8531"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2136/cameras/2444_model_small_52965c02c2.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2136/cameras/2444_model_large_a628c28072.jpg"
+          }
+        }
+      },
+      {
+        "id": "cl-6300",
+        "name": {
+          "_content": "Acer CL-6300"
+        }
+      },
+      {
+        "id": "cp-x530",
+        "name": {
+          "_content": "Acer CP-X530"
+        }
+      },
+      {
+        "id": "cp-8660",
+        "name": {
+          "_content": "Acer CP-8660"
+        }
+      },
+      {
+        "id": "cs-6530",
+        "name": {
+          "_content": "Acer CS-6530"
+        }
+      }
+    ]
+  },
+  "stat": "ok"
+}

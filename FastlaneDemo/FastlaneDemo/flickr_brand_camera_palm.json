@@ -1,0 +1,114 @@
+{
+  "cameras": {
+    "brand": "palm",
+    "camera": [
+      {
+        "id": "pre",
+        "name": {
+          "_content": "Palm Pre"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "3"
+          },
+          "lcd_screen_size": {
+            "_content": "3.1"
+          },
+          "memory_type": {
+            "_content": "Built in flash memory"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3379/cameras/72157612762969784_model_small_a55b20fd35.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3379/cameras/72157612762969784_model_large_699001a191.jpg"
+          }
+        }
+      },
+      {
+        "id": "700p",
+        "name": {
+          "_content": "Palm Treo 700p"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3005/cameras/48890_model_small_7b1d2df6af.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3005/cameras/48890_model_large_d8c5c27d0d.jpg"
+          }
+        }
+      },
+      {
+        "id": "755p",
+        "name": {
+          "_content": "Palm Treo 755p"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "1.3"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3591/cameras/56669_model_small_ea72eb1648.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3591/cameras/56669_model_large_0a1a8964d2.jpg"
+          }
+        }
+      },
+      {
+        "id": "centro",
+        "name": {
+          "_content": "Palm Centro"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3135/cameras/72157601755276601_model_small_8e1a387ea9.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3135/cameras/72157601755276601_model_large_8e328dcd6d.jpg"
+          }
+        }
+      },
+      {
+        "id": "680",
+        "name": {
+          "_content": "Palm Treo 680"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3159/cameras/7751_model_small_6ebceaef94.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3159/cameras/7751_model_large_9d6589bd61.jpg"
+          }
+        }
+      },
+      {
+        "id": "850",
+        "name": {
+          "_content": "Palm Treo 850"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3661/cameras/72157606931694401_model_small_c04ab3cb9e.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3661/cameras/72157606931694401_model_large_73c449750d.jpg"
+          }
+        }
+      },
+      {
+        "id": "755",
+        "name": {
+          "_content": "Palm Treo 755"
+        }
+      }
+    ]
+  },
+  "stat": "ok"
+}

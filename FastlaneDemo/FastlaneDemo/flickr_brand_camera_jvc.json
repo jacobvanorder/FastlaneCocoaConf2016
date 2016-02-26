@@ -1,0 +1,381 @@
+{
+  "cameras": {
+    "brand": "jvc",
+    "camera": [
+      {
+        "id": "gz-mg21",
+        "name": {
+          "_content": "JVC GZ-MG21"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "2.5"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/102/cameras/3021_model_small_1fcf946c6f.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/102/cameras/3021_model_large_bb668b9fdf.jpg"
+          }
+        }
+      },
+      {
+        "id": "gz-mg20",
+        "name": {
+          "_content": "JVC GZ-MG20"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "2.5"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/99/cameras/3366_model_small_c376f6a830.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/99/cameras/3366_model_large_331c65cd34.jpg"
+          }
+        }
+      },
+      {
+        "id": "gc-qx3",
+        "name": {
+          "_content": "JVC GC-QX3"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1174/cameras/4122_model_small_b1f976d1d5.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1174/cameras/4122_model_large_dbcca6e5cf.jpg"
+          }
+        }
+      },
+      {
+        "id": "gz-mg37",
+        "name": {
+          "_content": "JVC GZ-MG37"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "2.7"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1408/cameras/4581_model_small_b6f6939c43.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1408/cameras/4581_model_large_cb8f97eb96.jpg"
+          }
+        }
+      },
+      {
+        "id": "gz-mg27",
+        "name": {
+          "_content": "JVC GZ-MG27"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "2.7"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/101/cameras/2628_model_small_1ed7ec0e1d.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/101/cameras/2628_model_large_eae24cdacf.jpg"
+          }
+        }
+      },
+      {
+        "id": "gz-mg77",
+        "name": {
+          "_content": "JVC GZ-MG77"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "2.7"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/104/cameras/2652_model_small_ccd146919b.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/104/cameras/2652_model_large_2bba4cced0.jpg"
+          }
+        }
+      },
+      {
+        "id": "gz-mc500",
+        "name": {
+          "_content": "JVC GZ-MC500"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "1.8"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/104/cameras/1251_model_small_07eae9ebf5.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/104/cameras/1251_model_large_6364c0f275.jpg"
+          }
+        }
+      },
+      {
+        "id": "gz-mg505",
+        "name": {
+          "_content": "JVC GZ-MG505"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "2.7"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/109/cameras/2675_model_small_a18084bc2c.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/109/cameras/2675_model_large_73f6ba3c1c.jpg"
+          }
+        }
+      },
+      {
+        "id": "gr-dvp3",
+        "name": {
+          "_content": "JVC GR-DVP3"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/117/cameras/3664_model_small_d1b1ef9fa0.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/117/cameras/3664_model_large_fd7edc0a83.jpg"
+          }
+        }
+      },
+      {
+        "id": "gz-mg50",
+        "name": {
+          "_content": "JVC GZ-MG50"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "2.5"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/113/cameras/4364_model_small_2b9fbd4f83.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/113/cameras/4364_model_large_42d4fb9883.jpg"
+          }
+        }
+      },
+      {
+        "id": "gz-mc200",
+        "name": {
+          "_content": "JVC GZ-MC200"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "1.8"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/111/cameras/1724_model_small_a2afe1f1dc.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/111/cameras/1724_model_large_9f5d575a23.jpg"
+          }
+        }
+      },
+      {
+        "id": "gr-dvp7",
+        "name": {
+          "_content": "JVC GR-DVP7"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "2"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2201/cameras/1684_model_small_8a3cd129c0.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2201/cameras/1684_model_large_5b4cf75039.jpg"
+          }
+        }
+      },
+      {
+        "id": "gr-dvl520",
+        "name": {
+          "_content": "JVC GR-DVL520"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1054/cameras/1591_model_small_d514c2df0c.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1054/cameras/1591_model_large_6e6cc979db.jpg"
+          }
+        }
+      },
+      {
+        "id": "gr-d70",
+        "name": {
+          "_content": "JVC GR-D70"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "2.5"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1360/cameras/3381_model_small_0a153cb22c.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1360/cameras/3381_model_large_d7bf0e227a.jpg"
+          }
+        }
+      },
+      {
+        "id": "gc-a70",
+        "name": {
+          "_content": "JVC GC-A70"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1026/cameras/3323_model_small_cbaf4457e7.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1026/cameras/3323_model_large_851f35e42f.jpg"
+          }
+        }
+      },
+      {
+        "id": "gr-d270",
+        "name": {
+          "_content": "JVC GR-D270"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "2.5"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/103/cameras/2016_model_small_0aff431ef4.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/103/cameras/2016_model_large_c74aaaffde.jpg"
+          }
+        }
+      },
+      {
+        "id": "gr-dvl820",
+        "name": {
+          "_content": "JVC GR-DVL820"
+        }
+      },
+      {
+        "id": "gr-d73",
+        "name": {
+          "_content": "JVC GR-D73"
+        }
+      },
+      {
+        "id": "gc-qx5",
+        "name": {
+          "_content": "JVC GC-QX5"
+        }
+      },
+      {
+        "id": "gr-d370",
+        "name": {
+          "_content": "JVC GR-D370"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "2.5"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/104/cameras/5022_model_small_ba04f8abed.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/104/cameras/5022_model_large_287267e0d2.jpg"
+          }
+        }
+      },
+      {
+        "id": "gr-dz7",
+        "name": {
+          "_content": "JVC GR-DZ7"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/122/cameras/4560_model_small_4ed6b82afd.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/122/cameras/4560_model_large_19f5ef7435.jpg"
+          }
+        }
+      },
+      {
+        "id": "gr-dvm76",
+        "name": {
+          "_content": "JVC GR-DVM76"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "2.5"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/100/cameras/924_model_small_70832833b8.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/100/cameras/924_model_large_5da9eec5a3.jpg"
+          }
+        }
+      },
+      {
+        "id": "gr-d396",
+        "name": {
+          "_content": "JVC GR-D396"
+        },
+        "details": {
+          "lcd_screen_size": {
+            "_content": "2.5"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/108/cameras/27373_model_small_3b19d8643c.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/108/cameras/27373_model_large_977f3f3e12.jpg"
+          }
+        }
+      }
+    ]
+  },
+  "stat": "ok"
+}

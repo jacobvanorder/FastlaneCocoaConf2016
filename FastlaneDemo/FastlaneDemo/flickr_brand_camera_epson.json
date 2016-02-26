@@ -1,0 +1,182 @@
+{
+  "cameras": {
+    "brand": "epson",
+    "camera": [
+      {
+        "id": "3000z",
+        "name": {
+          "_content": "Epson PhotoPC 3000Z"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2100/cameras/1198_model_small_57c1acb353.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2100/cameras/1198_model_large_1d1be61502.jpg"
+          }
+        }
+      },
+      {
+        "id": "850z",
+        "name": {
+          "_content": "Epson PhotoPC 850Z"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2398/cameras/943_model_small_1b089b35d8.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2398/cameras/943_model_large_875ce3d8db.jpg"
+          }
+        }
+      },
+      {
+        "id": "3100z",
+        "name": {
+          "_content": "Epson PhotoPC 3100Z"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2369/cameras/1166_model_small_758c8e9384.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2369/cameras/1166_model_large_94d84481c5.jpg"
+          }
+        }
+      },
+      {
+        "id": "r-d1s",
+        "name": {
+          "_content": "Epson R-D1s"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2018/cameras/21776_model_small_3f007faba1.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2018/cameras/21776_model_large_19daf26ab0.jpg"
+          }
+        }
+      },
+      {
+        "id": "r-d1",
+        "name": {
+          "_content": "Epson R-D1"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/121/cameras/1172_model_small_13b4411c23.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/121/cameras/1172_model_large_ccefc512d8.jpg"
+          }
+        }
+      },
+      {
+        "id": "2100z",
+        "name": {
+          "_content": "Epson PhotoPC 2100Z"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2177/cameras/2257_model_small_04543a684c.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2177/cameras/2257_model_large_889616a25f.jpg"
+          }
+        }
+      },
+      {
+        "id": "800",
+        "name": {
+          "_content": "Epson PhotoPC 800"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2094/cameras/4255_model_small_4de3ad4c54.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2094/cameras/4255_model_large_3499c848c7.jpg"
+          }
+        }
+      },
+      {
+        "id": "l-400",
+        "name": {
+          "_content": "Epson PhotoPC L-400"
+        }
+      },
+      {
+        "id": "l-300",
+        "name": {
+          "_content": "Epson PhotoPC L-300"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2305/cameras/2054_model_small_b353a89b27.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2305/cameras/2054_model_large_e1d07cd2e9.jpg"
+          }
+        }
+      },
+      {
+        "id": "l-500v",
+        "name": {
+          "_content": "Epson PhotoPC L-500V"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2258/cameras/1682_model_small_b5434555c0.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2258/cameras/1682_model_large_8a29483f42.jpg"
+          }
+        }
+      },
+      {
+        "id": "l-410",
+        "name": {
+          "_content": "Epson PhotoPC L-410"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4.1"
+          },
+          "lcd_screen_size": {
+            "_content": "1.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/104/cameras/1618_model_small_5ee5882cd7.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/104/cameras/1618_model_large_ed061ff4e9.jpg"
+          }
+        }
+      },
+      {
+        "id": "800s",
+        "name": {
+          "_content": "Epson PhotoPC 800S"
+        }
+      }
+    ]
+  },
+  "stat": "ok"
+}

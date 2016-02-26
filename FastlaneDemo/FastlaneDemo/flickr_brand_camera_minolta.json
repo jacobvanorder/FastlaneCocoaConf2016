@@ -1,0 +1,736 @@
+{
+  "cameras": {
+    "brand": "minolta",
+    "camera": [
+      {
+        "id": "dimage_z1",
+        "name": {
+          "_content": "Konica Minolta DiMAGE Z1"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "3.2"
+          },
+          "lcd_screen_size": {
+            "_content": "1.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/54_model_small_2a7ee88c2c.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/54_model_large_8b674700b3.jpg"
+          }
+        }
+      },
+      {
+        "id": "maxxum_5d",
+        "name": {
+          "_content": "Konica Minolta Maxxum 5D"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "CompactFlash, Microdrive, Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/119/cameras/1232_model_small_4a774bfac0.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/119/cameras/1232_model_large_6dd9d3519b.jpg"
+          }
+        }
+      },
+      {
+        "id": "maxxum_7d",
+        "name": {
+          "_content": "Konica Minolta Maxxum 7D"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "CompactFlash, Microdrive, Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/1131_model_small_34a381b21b.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/1131_model_large_0b9ee611cd.jpg"
+          }
+        }
+      },
+      {
+        "id": "dimage_xt",
+        "name": {
+          "_content": "Konica Minolta DiMAGE Xt"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/105/cameras/342_model_small_2f976dbf95.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/105/cameras/342_model_large_d1f618d5f0.jpg"
+          }
+        }
+      },
+      {
+        "id": "dimage_z3",
+        "name": {
+          "_content": "Konica Minolta DiMAGE Z3"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4"
+          },
+          "lcd_screen_size": {
+            "_content": "1.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/107/cameras/830_model_small_44e51ccb94.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/107/cameras/830_model_large_0f4fac490f.jpg"
+          }
+        }
+      },
+      {
+        "id": "dimage_z2",
+        "name": {
+          "_content": "Konica Minolta DiMAGE Z2"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1370/cameras/144_model_small_e29b74a4dd.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1370/cameras/144_model_large_e3773aabf5.jpg"
+          }
+        }
+      },
+      {
+        "id": "dimage_x",
+        "name": {
+          "_content": "Konica Minolta DiMAGE X"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1137/cameras/467_model_small_5ebbac3887.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1137/cameras/467_model_large_30e2c0a50e.jpg"
+          }
+        }
+      },
+      {
+        "id": "dimage_a2",
+        "name": {
+          "_content": "Konica Minolta DiMAGE A2"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "CompactFlash, Secure Digital, Microdrive"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/110/cameras/554_model_small_762babf5b0.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/110/cameras/554_model_large_90cc95e80e.jpg"
+          }
+        }
+      },
+      {
+        "id": "dimage_z10",
+        "name": {
+          "_content": "Konica Minolta DiMAGE Z10"
+        }
+      },
+      {
+        "id": "dimage_xg",
+        "name": {
+          "_content": "Konica Minolta DiMAGE Xg"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1344/cameras/346_model_small_250a37495c.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1344/cameras/346_model_large_70b620fa66.jpg"
+          }
+        }
+      },
+      {
+        "id": "dimage_7",
+        "name": {
+          "_content": "Konica Minolta DiMAGE 7"
+        }
+      },
+      {
+        "id": "dimage_x50",
+        "name": {
+          "_content": "Konica Minolta DiMAGE X50"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/111/cameras/603_model_small_75a5b827d3.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/111/cameras/603_model_large_8311f7ff81.jpg"
+          }
+        }
+      },
+      {
+        "id": "dimage_a200",
+        "name": {
+          "_content": "Konica Minolta DiMAGE A200"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "CompactFlash, Microdrive"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/102/cameras/65_model_small_18decaea4d.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/102/cameras/65_model_large_6cce3d0879.jpg"
+          }
+        }
+      },
+      {
+        "id": "revio_kd-400z",
+        "name": {
+          "_content": "Konica Minolta Revio KD-400Z"
+        }
+      },
+      {
+        "id": "dimage_7i",
+        "name": {
+          "_content": "Konica Minolta DiMAGE 7i"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "CompactFlash (CF) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/118/cameras/641_model_small_0f9d6477d0.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/118/cameras/641_model_large_32be6d9cbd.jpg"
+          }
+        }
+      },
+      {
+        "id": "dimage_s414",
+        "name": {
+          "_content": "Konica Minolta DiMAGE S414"
+        }
+      },
+      {
+        "id": "dimage_z5",
+        "name": {
+          "_content": "Konica Minolta DiMAGE Z5"
+        }
+      },
+      {
+        "id": "dimage_a1",
+        "name": {
+          "_content": "Konica Minolta DiMAGE A1"
+        }
+      },
+      {
+        "id": "dimage_z6",
+        "name": {
+          "_content": "Konica Minolta DiMAGE Z6"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/122/cameras/312_model_small_08dde928c9.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/122/cameras/312_model_large_219da803f6.jpg"
+          }
+        }
+      },
+      {
+        "id": "dimage_g400",
+        "name": {
+          "_content": "Konica Minolta DiMAGE G400"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4"
+          },
+          "lcd_screen_size": {
+            "_content": "1.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard, Memory Stick"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2290/cameras/708_model_small_9cde48c807.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2290/cameras/708_model_large_988eef9d63.jpg"
+          }
+        }
+      },
+      {
+        "id": "dimage_7hi",
+        "name": {
+          "_content": "Konica Minolta DiMAGE 7Hi"
+        }
+      },
+      {
+        "id": "dimage_g600",
+        "name": {
+          "_content": "Konica Minolta DiMAGE G600"
+        }
+      },
+      {
+        "id": "dimage_f100",
+        "name": {
+          "_content": "Konica Minolta DiMAGE F100"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1311/cameras/171_model_small_beefc967da.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1311/cameras/171_model_large_4b0620c6b6.jpg"
+          }
+        }
+      },
+      {
+        "id": "dimage_x1",
+        "name": {
+          "_content": "Konica Minolta DiMAGE X1"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/113/cameras/199_model_small_f003d42ae9.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/113/cameras/199_model_large_73cbf07339.jpg"
+          }
+        }
+      },
+      {
+        "id": "dimage_z20",
+        "name": {
+          "_content": "Konica Minolta DiMAGE Z20"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "1.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/117/cameras/333_model_small_53da84beaf.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/117/cameras/333_model_large_198abf3c09.jpg"
+          }
+        }
+      },
+      {
+        "id": "dimage_g500",
+        "name": {
+          "_content": "Konica Minolta DiMAGE G500"
+        }
+      },
+      {
+        "id": "revio_kd-500z",
+        "name": {
+          "_content": "Konica Minolta Revio KD-500Z"
+        }
+      },
+      {
+        "id": "dimage_xi",
+        "name": {
+          "_content": "Konica Minolta DiMAGE Xi"
+        }
+      },
+      {
+        "id": "dimage_x20",
+        "name": {
+          "_content": "Konica Minolta DiMAGE X20"
+        }
+      },
+      {
+        "id": "dimage_e323",
+        "name": {
+          "_content": "Konica Minolta DiMAGE E323"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "3.2"
+          },
+          "lcd_screen_size": {
+            "_content": "1.6"
+          },
+          "memory_type": {
+            "_content": "MultiMediaCard, Secure Digital"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/114/cameras/521_model_small_6240099566.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/114/cameras/521_model_large_1f37815671.jpg"
+          }
+        }
+      },
+      {
+        "id": "dimage_f200",
+        "name": {
+          "_content": "Konica Minolta DiMAGE F200"
+        }
+      },
+      {
+        "id": "dimage_x60",
+        "name": {
+          "_content": "Konica Minolta DiMAGE X60"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/105/cameras/477_model_small_d32662a7e0.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/105/cameras/477_model_large_90637db20f.jpg"
+          }
+        }
+      },
+      {
+        "id": "dimage_f300",
+        "name": {
+          "_content": "Konica Minolta DiMAGE F300"
+        }
+      },
+      {
+        "id": "revio_kd-310z",
+        "name": {
+          "_content": "Konica Minolta Revio KD-310Z"
+        }
+      },
+      {
+        "id": "dimage_s304",
+        "name": {
+          "_content": "Konica Minolta DiMAGE S304"
+        }
+      },
+      {
+        "id": "dimage_5",
+        "name": {
+          "_content": "Konica Minolta DiMAGE 5"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "3.34"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "CompactFlash"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/108/cameras/2184_model_small_85c2a49568.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/108/cameras/2184_model_large_706d52a9d9.jpg"
+          }
+        }
+      },
+      {
+        "id": "dimage_s404",
+        "name": {
+          "_content": "Konica Minolta DiMAGE S404"
+        }
+      },
+      {
+        "id": "dimage_x31",
+        "name": {
+          "_content": "Konica Minolta DiMAGE X31"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "3.2"
+          },
+          "lcd_screen_size": {
+            "_content": "1.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/112/cameras/950_model_small_84b0f2f9f2.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/112/cameras/950_model_large_4a76813e9a.jpg"
+          }
+        }
+      },
+      {
+        "id": "dimage_e223",
+        "name": {
+          "_content": "Konica Minolta DiMAGE E223"
+        }
+      },
+      {
+        "id": "revio_kd-200z",
+        "name": {
+          "_content": "Konica Minolta Revio KD-200Z"
+        }
+      },
+      {
+        "id": "alpha_sweet_digital",
+        "name": {
+          "_content": "Konica Minolta Alpha Sweet Digital"
+        }
+      },
+      {
+        "id": "dimage_g530",
+        "name": {
+          "_content": "Konica Minolta DiMAGE G530"
+        }
+      },
+      {
+        "id": "dimage_e500",
+        "name": {
+          "_content": "Konica Minolta DiMAGE E500"
+        }
+      },
+      {
+        "id": "revio_kd-420z",
+        "name": {
+          "_content": "Konica Minolta Revio KD-420Z"
+        }
+      },
+      {
+        "id": "revio_kd-410z",
+        "name": {
+          "_content": "Konica Minolta Revio KD-410Z"
+        }
+      },
+      {
+        "id": "revio_kd-510z",
+        "name": {
+          "_content": "Konica Minolta Revio KD-510Z"
+        }
+      },
+      {
+        "id": "dimage_2300",
+        "name": {
+          "_content": "Konica Minolta DiMAGE 2300"
+        }
+      },
+      {
+        "id": "dimage_e201",
+        "name": {
+          "_content": "Konica Minolta DiMAGE E201"
+        }
+      },
+      {
+        "id": "dimage_e40",
+        "name": {
+          "_content": "Konica Minolta DiMAGE E40"
+        }
+      },
+      {
+        "id": "kd-300z",
+        "name": {
+          "_content": "Konica Minolta KD-300Z"
+        }
+      },
+      {
+        "id": "alpha-7_digital",
+        "name": {
+          "_content": "Konica Minolta Alpha-7 Digital"
+        }
+      },
+      {
+        "id": "dimage_2330_zoom",
+        "name": {
+          "_content": "Konica Minolta DiMAGE 2330 Zoom"
+        }
+      },
+      {
+        "id": "dimage_x21",
+        "name": {
+          "_content": "Konica Minolta DiMAGE X21"
+        }
+      },
+      {
+        "id": "dimage_e50",
+        "name": {
+          "_content": "Konica Minolta DiMAGE E50"
+        }
+      },
+      {
+        "id": "dimage_e203",
+        "name": {
+          "_content": "Konica Minolta DiMAGE E203"
+        }
+      },
+      {
+        "id": "revio_c2",
+        "name": {
+          "_content": "Konica Minolta Revio C2"
+        }
+      },
+      {
+        "id": "kd-3300",
+        "name": {
+          "_content": "Konica Minolta KD-3300"
+        }
+      },
+      {
+        "id": "dimage_v",
+        "name": {
+          "_content": "Konica Minolta DiMAGE V"
+        }
+      },
+      {
+        "id": "revio_kd-220z",
+        "name": {
+          "_content": "Konica Minolta Revio KD-220Z"
+        }
+      },
+      {
+        "id": "revio_kd-20",
+        "name": {
+          "_content": "Konica Minolta Revio KD-20"
+        }
+      },
+      {
+        "id": "kd-20m",
+        "name": {
+          "_content": "Konica Minolta KD-20M"
+        }
+      },
+      {
+        "id": "revio_kd-100",
+        "name": {
+          "_content": "Konica Minolta Revio KD-100"
+        }
+      },
+      {
+        "id": "kd-220z",
+        "name": {
+          "_content": "Konica Minolta KD-220Z"
+        }
+      },
+      {
+        "id": "kd-30m",
+        "name": {
+          "_content": "Konica Minolta KD-30M"
+        }
+      }
+    ]
+  },
+  "stat": "ok"
+}

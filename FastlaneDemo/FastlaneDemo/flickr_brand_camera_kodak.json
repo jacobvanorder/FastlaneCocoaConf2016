@@ -1,0 +1,2391 @@
+{
+  "cameras": {
+    "brand": "kodak",
+    "camera": [
+      {
+        "id": "dx6490_zoom",
+        "name": {
+          "_content": "Kodak EasyShare DX6490 Zoom"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/105/cameras/471_model_small_6fe6f385c2.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/105/cameras/471_model_large_5325bd4876.jpg"
+          }
+        }
+      },
+      {
+        "id": "c813_zoom",
+        "name": {
+          "_content": "Kodak EasyShare C813 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.4"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2336/cameras/72157602854889068_model_small_a06d6b3b93.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2336/cameras/72157602854889068_model_large_b1021384ed.jpg"
+          }
+        }
+      },
+      {
+        "id": "cx6330_zoom",
+        "name": {
+          "_content": "Kodak EasyShare CX6330 Zoom"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1395/cameras/2_model_small_4648285755.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1395/cameras/2_model_large_efd9d7fef3.jpg"
+          }
+        }
+      },
+      {
+        "id": "z740_zoom",
+        "name": {
+          "_content": "Kodak EasyShare Z740 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/114/cameras/537_model_small_d8eac91f76.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/114/cameras/537_model_large_c0a4e92d34.jpg"
+          }
+        }
+      },
+      {
+        "id": "dx6340_zoom",
+        "name": {
+          "_content": "Kodak EasyShare DX6340 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "3.1"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/116/cameras/923_model_small_92ab43b4cf.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/116/cameras/923_model_large_7dd826bb9a.jpg"
+          }
+        }
+      },
+      {
+        "id": "c713_zoom",
+        "name": {
+          "_content": "Kodak EasyShare C713 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7"
+          },
+          "lcd_screen_size": {
+            "_content": "2.4"
+          },
+          "memory_type": {
+            "_content": "SDHC Memory Card, MultiMediaCard, Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2291/cameras/72157602147449433_model_small_8aa6f60a0e.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2291/cameras/72157602147449433_model_large_7bbd6d1824.jpg"
+          }
+        }
+      },
+      {
+        "id": "dc210_zoom",
+        "name": {
+          "_content": "Kodak EasyShare DC210 Zoom"
+        }
+      },
+      {
+        "id": "dx7590_zoom",
+        "name": {
+          "_content": "Kodak EasyShare DX7590 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "2.2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/111/cameras/255_model_small_62b8c02a92.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/111/cameras/255_model_large_4cb1def3de.jpg"
+          }
+        }
+      },
+      {
+        "id": "cx7430_zoom",
+        "name": {
+          "_content": "Kodak EasyShare CX7430 Zoom"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/99/cameras/140_model_small_0c430b8b82.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/99/cameras/140_model_large_62d8e24215.jpg"
+          }
+        }
+      },
+      {
+        "id": "dx6440_zoom",
+        "name": {
+          "_content": "Kodak EasyShare DX6440 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/100/cameras/602_model_small_54594684fa.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/100/cameras/602_model_large_052297d9af.jpg"
+          }
+        }
+      },
+      {
+        "id": "dx4530_zoom",
+        "name": {
+          "_content": "Kodak EasyShare DX4530 Zoom"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1053/cameras/589_model_small_e9419e9dc4.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1053/cameras/589_model_large_2ff5d463fd.jpg"
+          }
+        }
+      },
+      {
+        "id": "c330_zoom",
+        "name": {
+          "_content": "Kodak EasyShare C330 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4"
+          },
+          "lcd_screen_size": {
+            "_content": "1.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/122/cameras/37_model_small_8aaf0b24a8.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/122/cameras/37_model_large_e316253211.jpg"
+          }
+        }
+      },
+      {
+        "id": "c340_zoom",
+        "name": {
+          "_content": "Kodak EasyShare C340 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "1.6"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/104/cameras/200_model_small_ddfc765676.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/104/cameras/200_model_large_ca0dbdae16.jpg"
+          }
+        }
+      },
+      {
+        "id": "dx7630_zoom",
+        "name": {
+          "_content": "Kodak EasyShare DX7630 Zoom"
+        }
+      },
+      {
+        "id": "z710_zoom",
+        "name": {
+          "_content": "Kodak EasyShare Z710 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/119/cameras/2179_model_small_741b3a3dc9.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/119/cameras/2179_model_large_c3546263bb.jpg"
+          }
+        }
+      },
+      {
+        "id": "z612_zoom",
+        "name": {
+          "_content": "Kodak EasyShare Z612 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/117/cameras/1362_model_small_e731f2955c.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/117/cameras/1362_model_large_f1f5929dbb.jpg"
+          }
+        }
+      },
+      {
+        "id": "c613_zoom",
+        "name": {
+          "_content": "Kodak EasyShare C613 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.4"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1241/cameras/72157600288611041_model_small_354488fccf.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1241/cameras/72157600288611041_model_large_7e99689199.jpg"
+          }
+        }
+      },
+      {
+        "id": "cx7300",
+        "name": {
+          "_content": "Kodak EasyShare CX7300"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "3.2"
+          },
+          "lcd_screen_size": {
+            "_content": "1.6"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/107/cameras/383_model_small_de660658d3.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/107/cameras/383_model_large_d2191bb873.jpg"
+          }
+        }
+      },
+      {
+        "id": "easyshare_m1063",
+        "name": {
+          "_content": "Kodak EasyShare M1063"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10.3"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3537/cameras/72157605952444117_model_small_7efcd47ae7.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3537/cameras/72157605952444117_model_large_5a2d9ab3ff.jpg"
+          }
+        }
+      },
+      {
+        "id": "z812_is_zoom",
+        "name": {
+          "_content": "Kodak EasyShare Z812 IS Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2242/cameras/72157601845744901_model_small_5d898e9e72.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2242/cameras/72157601845744901_model_large_61df0cf52d.jpg"
+          }
+        }
+      },
+      {
+        "id": "z650_zoom",
+        "name": {
+          "_content": "Kodak EasyShare Z650 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6.4"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/99/cameras/605_model_small_7fa9fce75b.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/99/cameras/605_model_large_665cc67866.jpg"
+          }
+        }
+      },
+      {
+        "id": "c182",
+        "name": {
+          "_content": "Kodak EasyShare C182"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.4"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4052/cameras/72157622586425570_model_small_148bf589ce.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4052/cameras/72157622586425570_model_large_817137b982.jpg"
+          }
+        }
+      },
+      {
+        "id": "cx7530_zoom",
+        "name": {
+          "_content": "Kodak EasyShare CX7530 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/114/cameras/225_model_small_ccc5a0aa1a.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/114/cameras/225_model_large_3fff167304.jpg"
+          }
+        }
+      },
+      {
+        "id": "z915",
+        "name": {
+          "_content": "Kodak EasyShare Z915"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2777/cameras/72157618788832920_model_small_dd79be2f69.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2777/cameras/72157618788832920_model_large_61e347ac23.jpg"
+          }
+        }
+      },
+      {
+        "id": "p850_zoom",
+        "name": {
+          "_content": "Kodak EasyShare P850 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/122/cameras/887_model_small_7303887335.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/122/cameras/887_model_large_da710bc45d.jpg"
+          }
+        }
+      },
+      {
+        "id": "dx3600",
+        "name": {
+          "_content": "Kodak EasyShare DX3600"
+        }
+      },
+      {
+        "id": "v1003_zoom",
+        "name": {
+          "_content": "Kodak EasyShare V1003 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1401/cameras/72157600292921230_model_small_55b838864a.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1401/cameras/72157600292921230_model_large_f66673737f.jpg"
+          }
+        }
+      },
+      {
+        "id": "dx4330",
+        "name": {
+          "_content": "Kodak EasyShare DX4330"
+        }
+      },
+      {
+        "id": "m863",
+        "name": {
+          "_content": "Kodak EasyShare M863"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2359/cameras/72157603826859272_model_small_d97a5258b5.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2359/cameras/72157603826859272_model_large_5c45672593.jpg"
+          }
+        }
+      },
+      {
+        "id": "cx7330_zoom",
+        "name": {
+          "_content": "Kodak EasyShare CX7330 Zoom"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2124/cameras/362_model_small_dd092688b5.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2124/cameras/362_model_large_26ee367d13.jpg"
+          }
+        }
+      },
+      {
+        "id": "easyshare_c913",
+        "name": {
+          "_content": "Kodak EasyShare C913"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "9.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.4"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3413/cameras/72157606000014608_model_small_f360e8e4a8.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3413/cameras/72157606000014608_model_large_c5e547b050.jpg"
+          }
+        }
+      },
+      {
+        "id": "c643_zoom",
+        "name": {
+          "_content": "Kodak EasyShare C643 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.4"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/110/cameras/66_model_small_87a4976937.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/110/cameras/66_model_large_c89ae08f35.jpg"
+          }
+        }
+      },
+      {
+        "id": "cx6200",
+        "name": {
+          "_content": "Kodak EasyShare CX6200"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2192/cameras/334_model_small_2479f06cbe.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2192/cameras/334_model_large_7d83fdcc53.jpg"
+          }
+        }
+      },
+      {
+        "id": "c533_zoom",
+        "name": {
+          "_content": "Kodak EasyShare C533 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/119/cameras/91_model_small_ce657c4fd2.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/119/cameras/91_model_large_3709fa3c3f.jpg"
+          }
+        }
+      },
+      {
+        "id": "dx3900_zoom",
+        "name": {
+          "_content": "Kodak EasyShare DX3900 Zoom"
+        }
+      },
+      {
+        "id": "v550_zoom",
+        "name": {
+          "_content": "Kodak EasyShare V550 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/114/cameras/542_model_small_d2f91a51cf.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/114/cameras/542_model_large_7f4d23c928.jpg"
+          }
+        }
+      },
+      {
+        "id": "c743_zoom",
+        "name": {
+          "_content": "Kodak EasyShare C743 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.4"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/115/cameras/2450_model_small_ccb0c3caaf.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/115/cameras/2450_model_large_c21311ac54.jpg"
+          }
+        }
+      },
+      {
+        "id": "c310",
+        "name": {
+          "_content": "Kodak EasyShare C310"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4"
+          },
+          "lcd_screen_size": {
+            "_content": "1.6"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/107/cameras/165_model_small_0daa92dc1e.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/107/cameras/165_model_large_f0ebaa62b8.jpg"
+          }
+        }
+      },
+      {
+        "id": "dx7440_zoom",
+        "name": {
+          "_content": "Kodak EasyShare DX7440 Zoom"
+        }
+      },
+      {
+        "id": "c180",
+        "name": {
+          "_content": "Kodak EasyShare C180"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.4"
+          },
+          "memory_type": {
+            "_content": "Internal, Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2683/cameras/72157617917794183_model_small_44d02256fa.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2683/cameras/72157617917794183_model_large_8799a6bcbc.jpg"
+          }
+        }
+      },
+      {
+        "id": "c653_zoom",
+        "name": {
+          "_content": "Kodak EasyShare C653 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.4"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/158/cameras/60314_model_small_1ff1e2119d.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/158/cameras/60314_model_large_87ee1eec06.jpg"
+          }
+        }
+      },
+      {
+        "id": "z712_is_zoom",
+        "name": {
+          "_content": "Kodak EasyShare Z712 IS Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1379/cameras/72157600292703253_model_small_95b31d9ce8.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1379/cameras/72157600292703253_model_large_4112be0262.jpg"
+          }
+        }
+      },
+      {
+        "id": "cx4230_zoom",
+        "name": {
+          "_content": "Kodak EasyShare CX4230 Zoom"
+        }
+      },
+      {
+        "id": "m1033",
+        "name": {
+          "_content": "Kodak EasyShare M1033"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3199/cameras/72157604418324904_model_small_72a558cb42.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3199/cameras/72157604418324904_model_large_07c9347ddf.jpg"
+          }
+        }
+      },
+      {
+        "id": "m853_zoom",
+        "name": {
+          "_content": "Kodak EasyShare M853 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2052/cameras/72157601614304448_model_small_a408ee5cf8.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2052/cameras/72157601614304448_model_large_c7dd126de5.jpg"
+          }
+        }
+      },
+      {
+        "id": "dc280_zoom",
+        "name": {
+          "_content": "Kodak EasyShare DC280 Zoom"
+        }
+      },
+      {
+        "id": "z981",
+        "name": {
+          "_content": "Kodak EasyShare Z981"
+        }
+      },
+      {
+        "id": "dx4900_zoom",
+        "name": {
+          "_content": "Kodak EasyShare DX4900 Zoom"
+        }
+      },
+      {
+        "id": "zd710_zoom",
+        "name": {
+          "_content": "Kodak EasyShare ZD710 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2218/cameras/72157601791465281_model_small_fe9af7c3e4.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2218/cameras/72157601791465281_model_large_edd3af935a.jpg"
+          }
+        }
+      },
+      {
+        "id": "c300",
+        "name": {
+          "_content": "Kodak EasyShare C300"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "3.2"
+          },
+          "lcd_screen_size": {
+            "_content": "1.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/107/cameras/826_model_small_4c1cafc3c9.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/107/cameras/826_model_large_9f52ca39a0.jpg"
+          }
+        }
+      },
+      {
+        "id": "cx6230_zoom",
+        "name": {
+          "_content": "Kodak EasyShare CX6230 Zoom"
+        }
+      },
+      {
+        "id": "v803_zoom",
+        "name": {
+          "_content": "Kodak EasyShare V803 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1388/cameras/63689_model_small_921eca9286.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1388/cameras/63689_model_large_0cf6758b71.jpg"
+          }
+        }
+      },
+      {
+        "id": "z700_zoom",
+        "name": {
+          "_content": "Kodak EasyShare Z700 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4"
+          },
+          "lcd_screen_size": {
+            "_content": "1.6"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/106/cameras/459_model_small_08c08cae97.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/106/cameras/459_model_large_841fb838d1.jpg"
+          }
+        }
+      },
+      {
+        "id": "easyshare_c1013",
+        "name": {
+          "_content": "Kodak EasyShare C1013"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10.3"
+          },
+          "lcd_screen_size": {
+            "_content": "2.4"
+          },
+          "memory_type": {
+            "_content": "SD, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3624/cameras/72157607076224006_model_small_fd7e951ba0.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3624/cameras/72157607076224006_model_large_d2c2163d86.jpg"
+          }
+        }
+      },
+      {
+        "id": "ls743_zoom",
+        "name": {
+          "_content": "Kodak EasyShare LS743 Zoom"
+        }
+      },
+      {
+        "id": "ls753_zoom",
+        "name": {
+          "_content": "Kodak EasyShare LS753 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5.4"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/112/cameras/190_model_small_2a5626fabe.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/112/cameras/190_model_large_fdec7f2210.jpg"
+          }
+        }
+      },
+      {
+        "id": "m753_zoom",
+        "name": {
+          "_content": "Kodak EasyShare M753 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "SDHC Memory Card, MultiMediaCard, Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2338/cameras/72157600734657310_model_small_f5acc223fe.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2338/cameras/72157600734657310_model_large_ef2c901f57.jpg"
+          }
+        }
+      },
+      {
+        "id": "dc4800_zoom",
+        "name": {
+          "_content": "Kodak EasyShare DC4800 Zoom"
+        }
+      },
+      {
+        "id": "dc3400_zoom",
+        "name": {
+          "_content": "Kodak EasyShare DC3400 Zoom"
+        }
+      },
+      {
+        "id": "dc3200",
+        "name": {
+          "_content": "Kodak EasyShare DC3200"
+        }
+      },
+      {
+        "id": "c315",
+        "name": {
+          "_content": "Kodak EasyShare C315"
+        }
+      },
+      {
+        "id": "m340",
+        "name": {
+          "_content": "Kodak EasyShare M340"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4016/cameras/72157610853457695_model_small_67aa2e02d9.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4016/cameras/72157610853457695_model_large_b290a0406d.jpg"
+          }
+        }
+      },
+      {
+        "id": "ls443_zoom",
+        "name": {
+          "_content": "Kodak EasyShare LS443 Zoom"
+        }
+      },
+      {
+        "id": "m341",
+        "name": {
+          "_content": "Kodak EasyShare M341"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2719/cameras/72157622028142817_model_small_7fea462c98.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2719/cameras/72157622028142817_model_large_b76f1050d8.jpg"
+          }
+        }
+      },
+      {
+        "id": "v530_zoom",
+        "name": {
+          "_content": "Kodak EasyShare V530 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/118/cameras/696_model_small_2fb9dfd15e.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/118/cameras/696_model_large_9619c0f2fc.jpg"
+          }
+        }
+      },
+      {
+        "id": "m763",
+        "name": {
+          "_content": "Kodak EasyShare M763"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "SDHC Memory Card, MultiMediaCard, Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2098/cameras/72157604021043575_model_small_326581614f.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2098/cameras/72157604021043575_model_large_59e70efd02.jpg"
+          }
+        }
+      },
+      {
+        "id": "p880_zoom",
+        "name": {
+          "_content": "Kodak EasyShare P880 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/119/cameras/882_model_small_b4de707944.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/119/cameras/882_model_large_1b60a7c82f.jpg"
+          }
+        }
+      },
+      {
+        "id": "dc290_zoom",
+        "name": {
+          "_content": "Kodak EasyShare DC290 Zoom"
+        }
+      },
+      {
+        "id": "z1275_zoom",
+        "name": {
+          "_content": "Kodak EasyShare Z1275 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2400/cameras/72157600627662259_model_small_eacaf0475e.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2400/cameras/72157600627662259_model_large_2c4ba1a49e.jpg"
+          }
+        }
+      },
+      {
+        "id": "z1012_is",
+        "name": {
+          "_content": "Kodak EasyShare Z1012 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3253/cameras/72157604772234285_model_small_808aa11a4f.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3253/cameras/72157604772234285_model_large_c51a81732e.jpg"
+          }
+        }
+      },
+      {
+        "id": "m883_zoom",
+        "name": {
+          "_content": "Kodak EasyShare M883 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "SDHC Memory Card, MultiMediaCard, Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2419/cameras/72157601839462202_model_small_b4ec90a24d.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2419/cameras/72157601839462202_model_large_3f0c78ab67.jpg"
+          }
+        }
+      },
+      {
+        "id": "dcs_pro_slr_n",
+        "name": {
+          "_content": "Kodak DCS Pro SLR/n"
+        }
+      },
+      {
+        "id": "c875_zoom",
+        "name": {
+          "_content": "Kodak EasyShare C875 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/99/cameras/1278_model_small_6c341c317a.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/99/cameras/1278_model_large_0deab73a6b.jpg"
+          }
+        }
+      },
+      {
+        "id": "cx7525_zoom",
+        "name": {
+          "_content": "Kodak EasyShare CX7525 Zoom"
+        }
+      },
+      {
+        "id": "z730_zoom",
+        "name": {
+          "_content": "Kodak EasyShare Z730 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "2.2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/106/cameras/378_model_small_55e4464793.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/106/cameras/378_model_large_51ccc0b22b.jpg"
+          }
+        }
+      },
+      {
+        "id": "z7590_zoom",
+        "name": {
+          "_content": "Kodak EasyShare Z7590 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "2.2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/114/cameras/659_model_small_d094ce1dfc.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/114/cameras/659_model_large_5967474f16.jpg"
+          }
+        }
+      },
+      {
+        "id": "v570_dual_lens",
+        "name": {
+          "_content": "Kodak EasyShare V570 Dual Lens"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5.4"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/111/cameras/610_model_small_07b031d356.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/111/cameras/610_model_large_8d9cabf0fd.jpg"
+          }
+        }
+      },
+      {
+        "id": "dx3500",
+        "name": {
+          "_content": "Kodak EasyShare DX3500"
+        }
+      },
+      {
+        "id": "z1285_zoom",
+        "name": {
+          "_content": "Kodak EasyShare Z1285 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2040/cameras/72157603781885074_model_small_68ab2a7411.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2040/cameras/72157603781885074_model_large_732ce34f71.jpg"
+          }
+        }
+      },
+      {
+        "id": "z760_zoom",
+        "name": {
+          "_content": "Kodak EasyShare Z760 Zoom"
+        }
+      },
+      {
+        "id": "c763_zoom",
+        "name": {
+          "_content": "Kodak EasyShare C763 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1091/cameras/72157600292808109_model_small_906e2e4087.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1091/cameras/72157600292808109_model_large_ae37b10f2e.jpg"
+          }
+        }
+      },
+      {
+        "id": "dc240_zoom",
+        "name": {
+          "_content": "Kodak EasyShare DC240 Zoom"
+        }
+      },
+      {
+        "id": "c360_zoom",
+        "name": {
+          "_content": "Kodak EasyShare C360 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "2"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/895_model_small_5fbdb37ddb.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/120/cameras/895_model_large_2c699df208.jpg"
+          }
+        }
+      },
+      {
+        "id": "z1015_is",
+        "name": {
+          "_content": "Kodak EasyShare Z1015 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3568/cameras/72157607272518601_model_small_f8b4cf0def.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3568/cameras/72157607272518601_model_large_d53778ac96.jpg"
+          }
+        }
+      },
+      {
+        "id": "v610_dual_lens",
+        "name": {
+          "_content": "Kodak EasyShare V610 Dual Lens"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.8"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/118/cameras/648_model_small_3503f031ba.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/118/cameras/648_model_large_88559951e3.jpg"
+          }
+        }
+      },
+      {
+        "id": "cx4310",
+        "name": {
+          "_content": "Kodak EasyShare CX4310"
+        }
+      },
+      {
+        "id": "v1233_zoom",
+        "name": {
+          "_content": "Kodak EasyShare V1233 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2315/cameras/72157602219161961_model_small_9a47c721b1.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2315/cameras/72157602219161961_model_large_3e66722787.jpg"
+          }
+        }
+      },
+      {
+        "id": "easyshare_z8612_is",
+        "name": {
+          "_content": "Kodak EasyShare Z8612 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3393/cameras/72157604785641602_model_small_90ed1a8851.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3393/cameras/72157604785641602_model_large_75d59cce91.jpg"
+          }
+        }
+      },
+      {
+        "id": "c433_zoom",
+        "name": {
+          "_content": "Kodak EasyShare C433 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/101/cameras/23598_model_small_27bf58acb1.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/101/cameras/23598_model_large_b55d40d8e1.jpg"
+          }
+        }
+      },
+      {
+        "id": "zi8",
+        "name": {
+          "_content": "Kodak Zi8 Pocket Video Camera"
+        }
+      },
+      {
+        "id": "m893_is",
+        "name": {
+          "_content": "Kodak EasyShare M893 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3054/cameras/72157604362326328_model_small_69c429f34e.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3054/cameras/72157604362326328_model_large_c66a0354e6.jpg"
+          }
+        }
+      },
+      {
+        "id": "v1253_zoom",
+        "name": {
+          "_content": "Kodak EasyShare V1253 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3.1"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2273/cameras/72157600839137620_model_small_d98e3f269f.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2273/cameras/72157600839137620_model_large_eff8b6f0ca.jpg"
+          }
+        }
+      },
+      {
+        "id": "cx7310",
+        "name": {
+          "_content": "Kodak EasyShare CX7310"
+        }
+      },
+      {
+        "id": "cd33_zoom",
+        "name": {
+          "_content": "Kodak EasyShare CD33 Zoom"
+        }
+      },
+      {
+        "id": "cx7220_zoom",
+        "name": {
+          "_content": "Kodak EasyShare CX7220 Zoom"
+        }
+      },
+      {
+        "id": "c633_zoom",
+        "name": {
+          "_content": "Kodak EasyShare C633 Zoom"
+        }
+      },
+      {
+        "id": "c190",
+        "name": {
+          "_content": "Kodak EasyShare C190"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.3"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4063/cameras/72157622118995547_model_small_e535c5fb39.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4063/cameras/72157622118995547_model_large_6e10ee9cde.jpg"
+          }
+        }
+      },
+      {
+        "id": "z950",
+        "name": {
+          "_content": "Kodak EasyShare Z950"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4017/cameras/72157620958091816_model_small_c85d2742b1.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4017/cameras/72157620958091816_model_large_3fee8c59d0.jpg"
+          }
+        }
+      },
+      {
+        "id": "m1093_is",
+        "name": {
+          "_content": "Kodak EasyShare M1093 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4064/cameras/72157607394731948_model_small_805c8b41a9.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4064/cameras/72157607394731948_model_large_d0ef3a6692.jpg"
+          }
+        }
+      },
+      {
+        "id": "c513_zoom",
+        "name": {
+          "_content": "Kodak EasyShare C513 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "lcd_screen_size": {
+            "_content": "2.4"
+          },
+          "memory_type": {
+            "_content": "MultiMediaCard, Secure Digital (SD) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2103/cameras/72157602320610878_model_small_2874b4da77.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2103/cameras/72157602320610878_model_large_410530e206.jpg"
+          }
+        }
+      },
+      {
+        "id": "cx4300",
+        "name": {
+          "_content": "Kodak EasyShare CX4300"
+        }
+      },
+      {
+        "id": "z885_zoom",
+        "name": {
+          "_content": "Kodak EasyShare Z885 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm2.staticflickr.com/1400/cameras/72157600293973012_model_small_40040c05de.jpg"
+          },
+          "large": {
+            "_content": "https://farm2.staticflickr.com/1400/cameras/72157600293973012_model_large_740018dc97.jpg"
+          }
+        }
+      },
+      {
+        "id": "dx3700",
+        "name": {
+          "_content": "Kodak EasyShare DX3700"
+        }
+      },
+      {
+        "id": "dc3800",
+        "name": {
+          "_content": "Kodak Easyshare DC3800"
+        }
+      },
+      {
+        "id": "ls420",
+        "name": {
+          "_content": "Kodak EasyShare LS420"
+        }
+      },
+      {
+        "id": "cx4210",
+        "name": {
+          "_content": "Kodak EasyShare CX4210"
+        }
+      },
+      {
+        "id": "dcs_pro_14n",
+        "name": {
+          "_content": "Kodak DCS Pro 14n"
+        }
+      },
+      {
+        "id": "dc260",
+        "name": {
+          "_content": "Kodak Easyshare DC260"
+        }
+      },
+      {
+        "id": "dc265_zoom",
+        "name": {
+          "_content": "Kodak Easyshare DC265 Zoom"
+        }
+      },
+      {
+        "id": "easyshare_m1073_is",
+        "name": {
+          "_content": "Kodak EasyShare M1073 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10.2"
+          },
+          "lcd_screen_size": {
+            "_content": "2.7"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3602/cameras/72157605546840532_model_small_5814ec95f4.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3602/cameras/72157605546840532_model_large_9f0c28bec9.jpg"
+          }
+        }
+      },
+      {
+        "id": "c663_zoom",
+        "name": {
+          "_content": "Kodak EasyShare C663 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/104/cameras/1270_model_small_9e3d893dae.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/104/cameras/1270_model_large_a70051c33a.jpg"
+          }
+        }
+      },
+      {
+        "id": "cx6445_zoom",
+        "name": {
+          "_content": "Kodak EasyShare CX6445 Zoom"
+        }
+      },
+      {
+        "id": "p712_zoom",
+        "name": {
+          "_content": "Kodak EasyShare P712 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "7.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/112/cameras/1124_model_small_1f52ee10a1.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/112/cameras/1124_model_large_25afbcc11e.jpg"
+          }
+        }
+      },
+      {
+        "id": "ls755_zoom",
+        "name": {
+          "_content": "Kodak EasyShare LS755 Zoom"
+        }
+      },
+      {
+        "id": "ls633_zoom",
+        "name": {
+          "_content": "Kodak EasyShare LS633 Zoom"
+        }
+      },
+      {
+        "id": "dcs_pro_14nx",
+        "name": {
+          "_content": "Kodak DCS Pro 14nx"
+        }
+      },
+      {
+        "id": "v603_zoom",
+        "name": {
+          "_content": "Kodak EasyShare V603 Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "6.1"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/104/cameras/522_model_small_c2aa55e9bb.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/104/cameras/522_model_large_fe701253c6.jpg"
+          }
+        }
+      },
+      {
+        "id": "easyshare_z980",
+        "name": {
+          "_content": "Kodak EasyShare Z980"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3289/cameras/72157614807929150_model_small_ea3a59c00f.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3289/cameras/72157614807929150_model_large_413c141a99.jpg"
+          }
+        }
+      },
+      {
+        "id": "z1485_is",
+        "name": {
+          "_content": "Kodak EasyShare Z1485 IS"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "14"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2802/cameras/72157607111018138_model_small_4d8c63af20.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2802/cameras/72157607111018138_model_large_9e009a02fe.jpg"
+          }
+        }
+      },
+      {
+        "id": "dx3215_zoom",
+        "name": {
+          "_content": "Kodak EasyShare DX3215 Zoom"
+        }
+      },
+      {
+        "id": "m380",
+        "name": {
+          "_content": "Kodak EasyShare M380"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10.2"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4010/cameras/72157617191932470_model_small_3cd7054fa2.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4010/cameras/72157617191932470_model_large_8b73cdf383.jpg"
+          }
+        }
+      },
+      {
+        "id": "v1073",
+        "name": {
+          "_content": "Kodak EasyShare V1073"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "11.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3113/cameras/72157604255490159_model_small_d2cae828a6.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3113/cameras/72157604255490159_model_large_7a4a8c8f6d.jpg"
+          }
+        }
+      },
+      {
+        "id": "m873_zoom",
+        "name": {
+          "_content": "Kodak EasyShare M873 Zoom"
+        }
+      },
+      {
+        "id": "dc5000_zoom",
+        "name": {
+          "_content": "Kodak EasyShare DC5000 Zoom"
+        }
+      },
+      {
+        "id": "proback_645",
+        "name": {
+          "_content": "Kodak ProBack 645"
+        }
+      },
+      {
+        "id": "dcs_pro_slr_c",
+        "name": {
+          "_content": "Kodak DCS Pro SLR/c"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "13.9"
+          },
+          "lcd_screen_size": {
+            "_content": "1.8"
+          },
+          "memory_type": {
+            "_content": "CompactFlash, MultiMediaCard, Secure Digital (SD) Card, Microdrive"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/114/cameras/2211_model_small_4122432807.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/114/cameras/2211_model_large_46215b0205.jpg"
+          }
+        }
+      },
+      {
+        "id": "dcs_760c",
+        "name": {
+          "_content": "Kodak DCS 760C"
+        }
+      },
+      {
+        "id": "cx4200",
+        "name": {
+          "_content": "Kodak EasyShare CX4200"
+        }
+      },
+      {
+        "id": "v705_dual_lens",
+        "name": {
+          "_content": "Kodak EasyShare V705 Dual Lens"
+        }
+      },
+      {
+        "id": "m381",
+        "name": {
+          "_content": "Kodak EasyShare M381"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.4"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2732/cameras/72157622508910574_model_small_745a97045b.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2732/cameras/72157622508910574_model_large_d3b5bc1c93.jpg"
+          }
+        }
+      },
+      {
+        "id": "z1085_is_zoom",
+        "name": {
+          "_content": "Kodak EasyShare Z1085 IS Zoom"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "10"
+          },
+          "lcd_screen_size": {
+            "_content": "2.5"
+          },
+          "memory_type": {
+            "_content": "Secure Digital High Capacity (SDHC) Card"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4014/cameras/72157604496067743_model_small_77a21551d3.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4014/cameras/72157604496067743_model_large_cc83ac42ed.jpg"
+          }
+        }
+      },
+      {
+        "id": "v1273",
+        "name": {
+          "_content": "Kodak EasyShare V1273"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "12.1"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, SDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2763/cameras/72157603914418418_model_small_75c988e004.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2763/cameras/72157603914418418_model_large_dc38fc14ab.jpg"
+          }
+        }
+      },
+      {
+        "id": "zx1",
+        "name": {
+          "_content": "Kodak Zx1 Pocket Video Camera"
+        }
+      },
+      {
+        "id": "zi6",
+        "name": {
+          "_content": "Kodak Zi6 Pocket Video Camera"
+        }
+      },
+      {
+        "id": "one",
+        "name": {
+          "_content": "Kodak EasyShare One"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "4"
+          },
+          "lcd_screen_size": {
+            "_content": "3"
+          },
+          "memory_type": {
+            "_content": "Secure Digital, MultiMediaCard"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/116/cameras/1234_model_small_9ce89149d2.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/116/cameras/1234_model_large_9aa85a37ee.jpg"
+          }
+        }
+      },
+      {
+        "id": "dc200",
+        "name": {
+          "_content": "Kodak Easyshare DC200"
+        }
+      },
+      {
+        "id": "cd43_zoom",
+        "name": {
+          "_content": "Kodak EasyShare CD43 Zoom"
+        }
+      },
+      {
+        "id": "dc220",
+        "name": {
+          "_content": "Kodak EasyShare DC220"
+        }
+      },
+      {
+        "id": "mc3",
+        "name": {
+          "_content": "Kodak MC3"
+        }
+      }
+    ]
+  },
+  "stat": "ok"
+}

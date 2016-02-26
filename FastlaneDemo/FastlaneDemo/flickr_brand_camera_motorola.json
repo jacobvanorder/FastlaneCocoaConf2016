@@ -1,0 +1,494 @@
+{
+  "cameras": {
+    "brand": "motorola",
+    "camera": [
+      {
+        "id": "moto_x",
+        "name": {
+          "_content": "Motorola Moto X"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8616/cameras/72157634900841863_model_small_ce6e10ab98.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8616/cameras/72157634900841863_model_large_bb554052af.jpg"
+          }
+        }
+      },
+      {
+        "id": "moto-g",
+        "name": {
+          "_content": "Moto G"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8566/cameras/72157637816922263_model_small_06afd1c703.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8566/cameras/72157637816922263_model_large_00b5416dd2.jpg"
+          }
+        }
+      },
+      {
+        "id": "moto_g2",
+        "name": {
+          "_content": "Motorola Moto G2"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7502/cameras/72157646968516979_model_small_7b8e2af55b.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7502/cameras/72157646968516979_model_large_2d1575ce90.jpg"
+          }
+        }
+      },
+      {
+        "id": "moto_g3",
+        "name": {
+          "_content": "Motorola Moto G3"
+        }
+      },
+      {
+        "id": "nexus_6",
+        "name": {
+          "_content": "Motorola Nexus 6"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7546/cameras/72157648285133499_model_small_0e1e06ae32.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7546/cameras/72157648285133499_model_large_0ba61023b9.jpg"
+          }
+        }
+      },
+      {
+        "id": "droid_turbo",
+        "name": {
+          "_content": "Motorola Droid Turbo"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8657/cameras/72157646444150039_model_small_29378b3b4a.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8657/cameras/72157646444150039_model_large_4ae338f9d5.jpg"
+          }
+        }
+      },
+      {
+        "id": "moto_g",
+        "name": {
+          "_content": "Motorola Moto G"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7481/cameras/72157639983810753_model_small_a2ca159d84.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7481/cameras/72157639983810753_model_large_07efb1efbe.jpg"
+          }
+        }
+      },
+      {
+        "id": "droid_ultra",
+        "name": {
+          "_content": "Motorola Droid Ultra"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8680/cameras/72157634594254905_model_small_d22c9367f1.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8680/cameras/72157634594254905_model_large_a816004e4f.jpg"
+          }
+        }
+      },
+      {
+        "id": "droid_x",
+        "name": {
+          "_content": "Motorola DROID X"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "4.3"
+          },
+          "memory_type": {
+            "_content": "microSD"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4084/cameras/72157624455893065_model_small_b9efd7539d.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4084/cameras/72157624455893065_model_large_6018d44e27.jpg"
+          }
+        }
+      },
+      {
+        "id": "moto_e2",
+        "name": {
+          "_content": "Motorola Moto E2"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8772/cameras/72157650255861541_model_small_9b70924cb4.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8772/cameras/72157650255861541_model_large_3c4b3c40ef.jpg"
+          }
+        }
+      },
+      {
+        "id": "moto_e",
+        "name": {
+          "_content": "Motorola Moto E"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8756/cameras/72157644650541596_model_small_a1715a675c.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8756/cameras/72157644650541596_model_large_ec99ea6cf9.jpg"
+          }
+        }
+      },
+      {
+        "id": "moto_maxx",
+        "name": {
+          "_content": "Motorola Moto Maxx"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8792/cameras/72157646868250653_model_small_1834d8aacb.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8792/cameras/72157646868250653_model_large_6075dc0f80.jpg"
+          }
+        }
+      },
+      {
+        "id": "droid_mini",
+        "name": {
+          "_content": "Motorola Droid Mini"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7755/cameras/72157635211708221_model_small_6c73019b93.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7755/cameras/72157635211708221_model_large_87e0457e02.jpg"
+          }
+        }
+      },
+      {
+        "id": "razr_m",
+        "name": {
+          "_content": "Motorola Razr M"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7546/cameras/72157630718213616_model_small_f534bb98d6.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7546/cameras/72157630718213616_model_large_59582e46f4.jpg"
+          }
+        }
+      },
+      {
+        "id": "motorola_droid_razr",
+        "name": {
+          "_content": "Motorola DROID RAZR"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "4.3"
+          },
+          "memory_type": {
+            "_content": "microSD™"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7178/cameras/72157627540171397_model_small_3f7c520e5b.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7178/cameras/72157627540171397_model_large_4b53fa67d9.jpg"
+          }
+        }
+      },
+      {
+        "id": "razr_i",
+        "name": {
+          "_content": "MOTOROLA RAZR I"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8786/cameras/72157631807629959_model_small_e514d737d9.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8786/cameras/72157631807629959_model_large_e9a2164ba0.jpg"
+          }
+        }
+      },
+      {
+        "id": "droid",
+        "name": {
+          "_content": "Motorola Droid"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "memory_type": {
+            "_content": "Built in flash memory"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2690/cameras/72157622454974361_model_small_1c02241f89.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2690/cameras/72157622454974361_model_large_9a620f38a8.jpg"
+          }
+        }
+      },
+      {
+        "id": "droid_razr_hd",
+        "name": {
+          "_content": "Motorola DROID RAZR HD"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm9.staticflickr.com/8833/cameras/72157630129291128_model_small_61c5273544.jpg"
+          },
+          "large": {
+            "_content": "https://farm9.staticflickr.com/8833/cameras/72157630129291128_model_large_9ec1a8ba01.jpg"
+          }
+        }
+      },
+      {
+        "id": "atrix",
+        "name": {
+          "_content": "Motorola Atrix"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5555/cameras/72157625348586031_model_small_2ae51e0bc7.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5555/cameras/72157625348586031_model_large_43e686805e.jpg"
+          }
+        }
+      },
+      {
+        "id": "droid_x2",
+        "name": {
+          "_content": "Motorola DROID X2"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8.2"
+          },
+          "lcd_screen_size": {
+            "_content": "4.3"
+          },
+          "memory_type": {
+            "_content": "microSD™"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm7.staticflickr.com/6195/cameras/72157626013477192_model_small_7d015e7418.jpg"
+          },
+          "large": {
+            "_content": "https://farm7.staticflickr.com/6195/cameras/72157626013477192_model_large_e9eb831058.jpg"
+          }
+        }
+      },
+      {
+        "id": "motorola_droid3",
+        "name": {
+          "_content": "Motorola DROID 3"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "4"
+          },
+          "memory_type": {
+            "_content": "microSD™"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm8.staticflickr.com/7053/cameras/72157626931643196_model_small_6bf705bf20.jpg"
+          },
+          "large": {
+            "_content": "https://farm8.staticflickr.com/7053/cameras/72157626931643196_model_large_af4996b8c3.jpg"
+          }
+        }
+      },
+      {
+        "id": "droid_bionic",
+        "name": {
+          "_content": "Motorola DROID BIONIC"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "8"
+          },
+          "lcd_screen_size": {
+            "_content": "4.3"
+          },
+          "memory_type": {
+            "_content": "microSD"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm7.staticflickr.com/6131/cameras/72157625729544791_model_small_f3c002a99e.jpg"
+          },
+          "large": {
+            "_content": "https://farm7.staticflickr.com/6131/cameras/72157625729544791_model_large_03d6f39016.jpg"
+          }
+        }
+      },
+      {
+        "id": "razr_v3x",
+        "name": {
+          "_content": "Motorola RAZR V3x"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "2"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/105/cameras/27_model_small_8cce8a1e23.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/105/cameras/27_model_large_d42a125e17.jpg"
+          }
+        }
+      },
+      {
+        "id": "cliq",
+        "name": {
+          "_content": "Motorola CLIQ"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "memory_type": {
+            "_content": "microSDHC"
+          }
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm5.staticflickr.com/4015/cameras/72157621974217332_model_small_bb1c05a265.jpg"
+          },
+          "large": {
+            "_content": "https://farm5.staticflickr.com/4015/cameras/72157621974217332_model_large_a495a77fc7.jpg"
+          }
+        }
+      },
+      {
+        "id": "xoom",
+        "name": {
+          "_content": "Motorola Mobility Xoom"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm6.staticflickr.com/5131/cameras/72157625963298632_model_small_6b3f86889a.jpg"
+          },
+          "large": {
+            "_content": "https://farm6.staticflickr.com/5131/cameras/72157625963298632_model_large_8910269229.jpg"
+          }
+        }
+      },
+      {
+        "id": "razr_v9",
+        "name": {
+          "_content": "Motorola RAZR V9"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm4.staticflickr.com/3197/cameras/72157600293081637_model_small_f9b6a625dd.jpg"
+          },
+          "large": {
+            "_content": "https://farm4.staticflickr.com/3197/cameras/72157600293081637_model_large_7c251cffa3.jpg"
+          }
+        }
+      },
+      {
+        "id": "razr_maxx",
+        "name": {
+          "_content": "Motorola RAZR maxx"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/121/cameras/6959_model_small_42253b16ed.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/121/cameras/6959_model_large_e4c8c8db57.jpg"
+          }
+        }
+      },
+      {
+        "id": "mb300",
+        "name": {
+          "_content": "BACKFLIP™ MB300"
+        },
+        "details": {
+          "megapixels": {
+            "_content": "5"
+          },
+          "memory_type": {
+            "_content": "microSDHC"
+          }
+        }
+      },
+      {
+        "id": "c320",
+        "name": {
+          "_content": "Motorola C320"
+        }
+      },
+      {
+        "id": "e770",
+        "name": {
+          "_content": "Motorola E770"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm1.staticflickr.com/102/cameras/1101_model_small_2e1602b0f5.jpg"
+          },
+          "large": {
+            "_content": "https://farm1.staticflickr.com/102/cameras/1101_model_large_d138573dba.jpg"
+          }
+        }
+      },
+      {
+        "id": "sidekick_slide",
+        "name": {
+          "_content": "T-Mobile Sidekick Slide"
+        }
+      }
+    ]
+  },
+  "stat": "ok"
+}

@@ -8,12 +8,53 @@
 
 /* Begin PBXBuildFile section */
 		7623B8A11C67D7900090E6C8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7623B8A01C67D7900090E6C8 /* AppDelegate.swift */; };
-		7623B8A31C67D7900090E6C8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7623B8A21C67D7900090E6C8 /* ViewController.swift */; };
+		7623B8A31C67D7900090E6C8 /* BrandDisplayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7623B8A21C67D7900090E6C8 /* BrandDisplayViewController.swift */; };
 		7623B8A61C67D7900090E6C8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7623B8A41C67D7900090E6C8 /* Main.storyboard */; };
 		7623B8A81C67D7900090E6C8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7623B8A71C67D7900090E6C8 /* Assets.xcassets */; };
 		7623B8AB1C67D7900090E6C8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7623B8A91C67D7900090E6C8 /* LaunchScreen.storyboard */; };
-		7623B8B61C67D7900090E6C8 /* FastlaneDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7623B8B51C67D7900090E6C8 /* FastlaneDemoTests.swift */; };
 		7623B8C11C67D7900090E6C8 /* FastlaneDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7623B8C01C67D7900090E6C8 /* FastlaneDemoUITests.swift */; };
+		765548021C7A40CB00942363 /* flickr.secret in Resources */ = {isa = PBXBuildFile; fileRef = 765548011C7A40CB00942363 /* flickr.secret */; };
+		765548051C7BA75E00942363 /* flickr_brands.json in Resources */ = {isa = PBXBuildFile; fileRef = 765548041C7BA75E00942363 /* flickr_brands.json */; };
+		765548061C7BA76500942363 /* flickr_brands.json in Resources */ = {isa = PBXBuildFile; fileRef = 765548041C7BA75E00942363 /* flickr_brands.json */; };
+		7655480B1C7BA7B400942363 /* FlickrBrand.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7655480A1C7BA7B400942363 /* FlickrBrand.swift */; };
+		7655482A1C7CA70E00942363 /* flickr_brand_camera_acer.json in Resources */ = {isa = PBXBuildFile; fileRef = 7655480D1C7CA70E00942363 /* flickr_brand_camera_acer.json */; };
+		7655482B1C7CA70E00942363 /* flickr_brand_camera_apple.json in Resources */ = {isa = PBXBuildFile; fileRef = 7655480E1C7CA70E00942363 /* flickr_brand_camera_apple.json */; };
+		7655482C1C7CA70E00942363 /* flickr_brand_camera_benq.json in Resources */ = {isa = PBXBuildFile; fileRef = 7655480F1C7CA70E00942363 /* flickr_brand_camera_benq.json */; };
+		7655482D1C7CA70E00942363 /* flickr_brand_camera_blackberry.json in Resources */ = {isa = PBXBuildFile; fileRef = 765548101C7CA70E00942363 /* flickr_brand_camera_blackberry.json */; };
+		7655482E1C7CA70E00942363 /* flickr_brand_camera_canon.json in Resources */ = {isa = PBXBuildFile; fileRef = 765548111C7CA70E00942363 /* flickr_brand_camera_canon.json */; };
+		7655482F1C7CA70E00942363 /* flickr_brand_camera_casio.json in Resources */ = {isa = PBXBuildFile; fileRef = 765548121C7CA70E00942363 /* flickr_brand_camera_casio.json */; };
+		765548301C7CA70E00942363 /* flickr_brand_camera_concord.json in Resources */ = {isa = PBXBuildFile; fileRef = 765548131C7CA70E00942363 /* flickr_brand_camera_concord.json */; };
+		765548311C7CA70E00942363 /* flickr_brand_camera_docomo.json in Resources */ = {isa = PBXBuildFile; fileRef = 765548141C7CA70E00942363 /* flickr_brand_camera_docomo.json */; };
+		765548321C7CA70E00942363 /* flickr_brand_camera_epson.json in Resources */ = {isa = PBXBuildFile; fileRef = 765548151C7CA70E00942363 /* flickr_brand_camera_epson.json */; };
+		765548331C7CA70E00942363 /* flickr_brand_camera_fujifilm.json in Resources */ = {isa = PBXBuildFile; fileRef = 765548161C7CA70E00942363 /* flickr_brand_camera_fujifilm.json */; };
+		765548341C7CA70E00942363 /* flickr_brand_camera_google.json in Resources */ = {isa = PBXBuildFile; fileRef = 765548171C7CA70E00942363 /* flickr_brand_camera_google.json */; };
+		765548351C7CA70E00942363 /* flickr_brand_camera_gopro.json in Resources */ = {isa = PBXBuildFile; fileRef = 765548181C7CA70E00942363 /* flickr_brand_camera_gopro.json */; };
+		765548361C7CA70E00942363 /* flickr_brand_camera_helio.json in Resources */ = {isa = PBXBuildFile; fileRef = 765548191C7CA70E00942363 /* flickr_brand_camera_helio.json */; };
+		765548371C7CA70E00942363 /* flickr_brand_camera_hp.json in Resources */ = {isa = PBXBuildFile; fileRef = 7655481A1C7CA70E00942363 /* flickr_brand_camera_hp.json */; };
+		765548381C7CA70E00942363 /* flickr_brand_camera_htc.json in Resources */ = {isa = PBXBuildFile; fileRef = 7655481B1C7CA70E00942363 /* flickr_brand_camera_htc.json */; };
+		765548391C7CA70E00942363 /* flickr_brand_camera_jvc.json in Resources */ = {isa = PBXBuildFile; fileRef = 7655481C1C7CA70E00942363 /* flickr_brand_camera_jvc.json */; };
+		7655483A1C7CA70E00942363 /* flickr_brand_camera_kddi.json in Resources */ = {isa = PBXBuildFile; fileRef = 7655481D1C7CA70E00942363 /* flickr_brand_camera_kddi.json */; };
+		7655483B1C7CA70E00942363 /* flickr_brand_camera_kodak.json in Resources */ = {isa = PBXBuildFile; fileRef = 7655481E1C7CA70E00942363 /* flickr_brand_camera_kodak.json */; };
+		7655483C1C7CA70E00942363 /* flickr_brand_camera_kyocera.json in Resources */ = {isa = PBXBuildFile; fileRef = 7655481F1C7CA70E00942363 /* flickr_brand_camera_kyocera.json */; };
+		7655483D1C7CA70E00942363 /* flickr_brand_camera_leaf.json in Resources */ = {isa = PBXBuildFile; fileRef = 765548201C7CA70E00942363 /* flickr_brand_camera_leaf.json */; };
+		7655483E1C7CA70E00942363 /* flickr_brand_camera_leica.json in Resources */ = {isa = PBXBuildFile; fileRef = 765548211C7CA70E00942363 /* flickr_brand_camera_leica.json */; };
+		7655483F1C7CA70E00942363 /* flickr_brand_camera_lg.json in Resources */ = {isa = PBXBuildFile; fileRef = 765548221C7CA70E00942363 /* flickr_brand_camera_lg.json */; };
+		765548401C7CA70E00942363 /* flickr_brand_camera_minolta.json in Resources */ = {isa = PBXBuildFile; fileRef = 765548231C7CA70E00942363 /* flickr_brand_camera_minolta.json */; };
+		765548411C7CA70E00942363 /* flickr_brand_camera_motorola.json in Resources */ = {isa = PBXBuildFile; fileRef = 765548241C7CA70E00942363 /* flickr_brand_camera_motorola.json */; };
+		765548421C7CA70E00942363 /* flickr_brand_camera_nikon.json in Resources */ = {isa = PBXBuildFile; fileRef = 765548251C7CA70E00942363 /* flickr_brand_camera_nikon.json */; };
+		765548431C7CA70E00942363 /* flickr_brand_camera_nintendo.json in Resources */ = {isa = PBXBuildFile; fileRef = 765548261C7CA70E00942363 /* flickr_brand_camera_nintendo.json */; };
+		765548441C7CA70E00942363 /* flickr_brand_camera_nokia.json in Resources */ = {isa = PBXBuildFile; fileRef = 765548271C7CA70E00942363 /* flickr_brand_camera_nokia.json */; };
+		765548451C7CA70E00942363 /* flickr_brand_camera_olympus.json in Resources */ = {isa = PBXBuildFile; fileRef = 765548281C7CA70E00942363 /* flickr_brand_camera_olympus.json */; };
+		765548461C7CA70E00942363 /* flickr_brand_camera_palm.json in Resources */ = {isa = PBXBuildFile; fileRef = 765548291C7CA70E00942363 /* flickr_brand_camera_palm.json */; };
+		765548481C7CA7C700942363 /* FlickrCamera.swift in Sources */ = {isa = PBXBuildFile; fileRef = 765548471C7CA7C700942363 /* FlickrCamera.swift */; };
+		76AB60F01C7FEA86009BC4CA /* FlickrBrandTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76AB60EF1C7FEA86009BC4CA /* FlickrBrandTests.swift */; };
+		76AB60F11C7FEA9C009BC4CA /* FlickrBrand.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7655480A1C7BA7B400942363 /* FlickrBrand.swift */; };
+		76AB60F21C7FEAB9009BC4CA /* FlickrCamera.swift in Sources */ = {isa = PBXBuildFile; fileRef = 765548471C7CA7C700942363 /* FlickrCamera.swift */; };
+		76AB60F41C809B84009BC4CA /* FlickrCameraTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76AB60F31C809B84009BC4CA /* FlickrCameraTests.swift */; };
+		76D19B961C81F0030065424A /* SwiftSpinner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76D19B951C81F0030065424A /* SwiftSpinner.swift */; };
+		76D19B981C81F1130065424A /* CameraDisplayTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76D19B971C81F1130065424A /* CameraDisplayTableViewController.swift */; };
+		76D19B9A1C81F1D20065424A /* GenericViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76D19B991C81F1D20065424A /* GenericViewController.swift */; };
+		76D19B9C1C8210BB0065424A /* CameraDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76D19B9B1C8210BB0065424A /* CameraDetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,17 +77,56 @@
 /* Begin PBXFileReference section */
 		7623B89D1C67D7900090E6C8 /* FastlaneDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FastlaneDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7623B8A01C67D7900090E6C8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		7623B8A21C67D7900090E6C8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		7623B8A21C67D7900090E6C8 /* BrandDisplayViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrandDisplayViewController.swift; sourceTree = "<group>"; };
 		7623B8A51C67D7900090E6C8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		7623B8A71C67D7900090E6C8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7623B8AA1C67D7900090E6C8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7623B8AC1C67D7900090E6C8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7623B8B11C67D7900090E6C8 /* FastlaneDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FastlaneDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		7623B8B51C67D7900090E6C8 /* FastlaneDemoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FastlaneDemoTests.swift; sourceTree = "<group>"; };
 		7623B8B71C67D7900090E6C8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7623B8BC1C67D7900090E6C8 /* FastlaneDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FastlaneDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7623B8C01C67D7900090E6C8 /* FastlaneDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FastlaneDemoUITests.swift; sourceTree = "<group>"; };
 		7623B8C21C67D7900090E6C8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		765548011C7A40CB00942363 /* flickr.secret */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = flickr.secret; path = secret/flickr.secret; sourceTree = "<group>"; };
+		765548041C7BA75E00942363 /* flickr_brands.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = flickr_brands.json; sourceTree = "<group>"; };
+		7655480A1C7BA7B400942363 /* FlickrBrand.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlickrBrand.swift; sourceTree = "<group>"; };
+		7655480D1C7CA70E00942363 /* flickr_brand_camera_acer.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = flickr_brand_camera_acer.json; sourceTree = "<group>"; };
+		7655480E1C7CA70E00942363 /* flickr_brand_camera_apple.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = flickr_brand_camera_apple.json; sourceTree = "<group>"; };
+		7655480F1C7CA70E00942363 /* flickr_brand_camera_benq.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = flickr_brand_camera_benq.json; sourceTree = "<group>"; };
+		765548101C7CA70E00942363 /* flickr_brand_camera_blackberry.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = flickr_brand_camera_blackberry.json; sourceTree = "<group>"; };
+		765548111C7CA70E00942363 /* flickr_brand_camera_canon.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = flickr_brand_camera_canon.json; sourceTree = "<group>"; };
+		765548121C7CA70E00942363 /* flickr_brand_camera_casio.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = flickr_brand_camera_casio.json; sourceTree = "<group>"; };
+		765548131C7CA70E00942363 /* flickr_brand_camera_concord.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = flickr_brand_camera_concord.json; sourceTree = "<group>"; };
+		765548141C7CA70E00942363 /* flickr_brand_camera_docomo.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = flickr_brand_camera_docomo.json; sourceTree = "<group>"; };
+		765548151C7CA70E00942363 /* flickr_brand_camera_epson.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = flickr_brand_camera_epson.json; sourceTree = "<group>"; };
+		765548161C7CA70E00942363 /* flickr_brand_camera_fujifilm.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = flickr_brand_camera_fujifilm.json; sourceTree = "<group>"; };
+		765548171C7CA70E00942363 /* flickr_brand_camera_google.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = flickr_brand_camera_google.json; sourceTree = "<group>"; };
+		765548181C7CA70E00942363 /* flickr_brand_camera_gopro.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = flickr_brand_camera_gopro.json; sourceTree = "<group>"; };
+		765548191C7CA70E00942363 /* flickr_brand_camera_helio.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = flickr_brand_camera_helio.json; sourceTree = "<group>"; };
+		7655481A1C7CA70E00942363 /* flickr_brand_camera_hp.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = flickr_brand_camera_hp.json; sourceTree = "<group>"; };
+		7655481B1C7CA70E00942363 /* flickr_brand_camera_htc.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = flickr_brand_camera_htc.json; sourceTree = "<group>"; };
+		7655481C1C7CA70E00942363 /* flickr_brand_camera_jvc.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = flickr_brand_camera_jvc.json; sourceTree = "<group>"; };
+		7655481D1C7CA70E00942363 /* flickr_brand_camera_kddi.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = flickr_brand_camera_kddi.json; sourceTree = "<group>"; };
+		7655481E1C7CA70E00942363 /* flickr_brand_camera_kodak.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = flickr_brand_camera_kodak.json; sourceTree = "<group>"; };
+		7655481F1C7CA70E00942363 /* flickr_brand_camera_kyocera.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = flickr_brand_camera_kyocera.json; sourceTree = "<group>"; };
+		765548201C7CA70E00942363 /* flickr_brand_camera_leaf.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = flickr_brand_camera_leaf.json; sourceTree = "<group>"; };
+		765548211C7CA70E00942363 /* flickr_brand_camera_leica.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = flickr_brand_camera_leica.json; sourceTree = "<group>"; };
+		765548221C7CA70E00942363 /* flickr_brand_camera_lg.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = flickr_brand_camera_lg.json; sourceTree = "<group>"; };
+		765548231C7CA70E00942363 /* flickr_brand_camera_minolta.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = flickr_brand_camera_minolta.json; sourceTree = "<group>"; };
+		765548241C7CA70E00942363 /* flickr_brand_camera_motorola.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = flickr_brand_camera_motorola.json; sourceTree = "<group>"; };
+		765548251C7CA70E00942363 /* flickr_brand_camera_nikon.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = flickr_brand_camera_nikon.json; sourceTree = "<group>"; };
+		765548261C7CA70E00942363 /* flickr_brand_camera_nintendo.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = flickr_brand_camera_nintendo.json; sourceTree = "<group>"; };
+		765548271C7CA70E00942363 /* flickr_brand_camera_nokia.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = flickr_brand_camera_nokia.json; sourceTree = "<group>"; };
+		765548281C7CA70E00942363 /* flickr_brand_camera_olympus.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = flickr_brand_camera_olympus.json; sourceTree = "<group>"; };
+		765548291C7CA70E00942363 /* flickr_brand_camera_palm.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = flickr_brand_camera_palm.json; sourceTree = "<group>"; };
+		765548471C7CA7C700942363 /* FlickrCamera.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlickrCamera.swift; sourceTree = "<group>"; };
+		76AB60EC1C7FE969009BC4CA /* FastlaneDemoTests-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "FastlaneDemoTests-Bridging-Header.h"; sourceTree = SOURCE_ROOT; };
+		76AB60EF1C7FEA86009BC4CA /* FlickrBrandTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlickrBrandTests.swift; sourceTree = "<group>"; };
+		76AB60F31C809B84009BC4CA /* FlickrCameraTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlickrCameraTests.swift; sourceTree = "<group>"; };
+		76D19B951C81F0030065424A /* SwiftSpinner.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftSpinner.swift; sourceTree = "<group>"; };
+		76D19B971C81F1130065424A /* CameraDisplayTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CameraDisplayTableViewController.swift; sourceTree = "<group>"; };
+		76D19B991C81F1D20065424A /* GenericViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GenericViewController.swift; sourceTree = "<group>"; };
+		76D19B9B1C8210BB0065424A /* CameraDetailsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CameraDetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,8 +178,10 @@
 			isa = PBXGroup;
 			children = (
 				7623B8A01C67D7900090E6C8 /* AppDelegate.swift */,
-				7623B8A21C67D7900090E6C8 /* ViewController.swift */,
-				7623B8A41C67D7900090E6C8 /* Main.storyboard */,
+				765548091C7BA78300942363 /* View */,
+				765548081C7BA77D00942363 /* View Controller */,
+				765548071C7BA77800942363 /* Model */,
+				765548031C7A40D200942363 /* supporting files */,
 				7623B8A71C67D7900090E6C8 /* Assets.xcassets */,
 				7623B8A91C67D7900090E6C8 /* LaunchScreen.storyboard */,
 				7623B8AC1C67D7900090E6C8 /* Info.plist */,
@@ -110,7 +192,9 @@
 		7623B8B41C67D7900090E6C8 /* FastlaneDemoTests */ = {
 			isa = PBXGroup;
 			children = (
-				7623B8B51C67D7900090E6C8 /* FastlaneDemoTests.swift */,
+				76AB60EC1C7FE969009BC4CA /* FastlaneDemoTests-Bridging-Header.h */,
+				76AB60EF1C7FEA86009BC4CA /* FlickrBrandTests.swift */,
+				76AB60F31C809B84009BC4CA /* FlickrCameraTests.swift */,
 				7623B8B71C67D7900090E6C8 /* Info.plist */,
 			);
 			path = FastlaneDemoTests;
@@ -123,6 +207,81 @@
 				7623B8C21C67D7900090E6C8 /* Info.plist */,
 			);
 			path = FastlaneDemoUITests;
+			sourceTree = "<group>";
+		};
+		765548031C7A40D200942363 /* supporting files */ = {
+			isa = PBXGroup;
+			children = (
+				76D19B951C81F0030065424A /* SwiftSpinner.swift */,
+				7655480C1C7CA6F300942363 /* Cameras */,
+				765548041C7BA75E00942363 /* flickr_brands.json */,
+				765548011C7A40CB00942363 /* flickr.secret */,
+			);
+			name = "supporting files";
+			sourceTree = "<group>";
+		};
+		765548071C7BA77800942363 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				7655480A1C7BA7B400942363 /* FlickrBrand.swift */,
+				765548471C7CA7C700942363 /* FlickrCamera.swift */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		765548081C7BA77D00942363 /* View Controller */ = {
+			isa = PBXGroup;
+			children = (
+				7623B8A21C67D7900090E6C8 /* BrandDisplayViewController.swift */,
+				76D19B971C81F1130065424A /* CameraDisplayTableViewController.swift */,
+				76D19B9B1C8210BB0065424A /* CameraDetailsViewController.swift */,
+				76D19B991C81F1D20065424A /* GenericViewController.swift */,
+			);
+			name = "View Controller";
+			sourceTree = "<group>";
+		};
+		765548091C7BA78300942363 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				7623B8A41C67D7900090E6C8 /* Main.storyboard */,
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		7655480C1C7CA6F300942363 /* Cameras */ = {
+			isa = PBXGroup;
+			children = (
+				7655480D1C7CA70E00942363 /* flickr_brand_camera_acer.json */,
+				7655480E1C7CA70E00942363 /* flickr_brand_camera_apple.json */,
+				7655480F1C7CA70E00942363 /* flickr_brand_camera_benq.json */,
+				765548101C7CA70E00942363 /* flickr_brand_camera_blackberry.json */,
+				765548111C7CA70E00942363 /* flickr_brand_camera_canon.json */,
+				765548121C7CA70E00942363 /* flickr_brand_camera_casio.json */,
+				765548131C7CA70E00942363 /* flickr_brand_camera_concord.json */,
+				765548141C7CA70E00942363 /* flickr_brand_camera_docomo.json */,
+				765548151C7CA70E00942363 /* flickr_brand_camera_epson.json */,
+				765548161C7CA70E00942363 /* flickr_brand_camera_fujifilm.json */,
+				765548171C7CA70E00942363 /* flickr_brand_camera_google.json */,
+				765548181C7CA70E00942363 /* flickr_brand_camera_gopro.json */,
+				765548191C7CA70E00942363 /* flickr_brand_camera_helio.json */,
+				7655481A1C7CA70E00942363 /* flickr_brand_camera_hp.json */,
+				7655481B1C7CA70E00942363 /* flickr_brand_camera_htc.json */,
+				7655481C1C7CA70E00942363 /* flickr_brand_camera_jvc.json */,
+				7655481D1C7CA70E00942363 /* flickr_brand_camera_kddi.json */,
+				7655481E1C7CA70E00942363 /* flickr_brand_camera_kodak.json */,
+				7655481F1C7CA70E00942363 /* flickr_brand_camera_kyocera.json */,
+				765548201C7CA70E00942363 /* flickr_brand_camera_leaf.json */,
+				765548211C7CA70E00942363 /* flickr_brand_camera_leica.json */,
+				765548221C7CA70E00942363 /* flickr_brand_camera_lg.json */,
+				765548231C7CA70E00942363 /* flickr_brand_camera_minolta.json */,
+				765548241C7CA70E00942363 /* flickr_brand_camera_motorola.json */,
+				765548251C7CA70E00942363 /* flickr_brand_camera_nikon.json */,
+				765548261C7CA70E00942363 /* flickr_brand_camera_nintendo.json */,
+				765548271C7CA70E00942363 /* flickr_brand_camera_nokia.json */,
+				765548281C7CA70E00942363 /* flickr_brand_camera_olympus.json */,
+				765548291C7CA70E00942363 /* flickr_brand_camera_palm.json */,
+			);
+			name = Cameras;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -229,9 +388,40 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				765548441C7CA70E00942363 /* flickr_brand_camera_nokia.json in Resources */,
+				7655482A1C7CA70E00942363 /* flickr_brand_camera_acer.json in Resources */,
+				765548351C7CA70E00942363 /* flickr_brand_camera_gopro.json in Resources */,
+				765548021C7A40CB00942363 /* flickr.secret in Resources */,
+				765548381C7CA70E00942363 /* flickr_brand_camera_htc.json in Resources */,
+				765548451C7CA70E00942363 /* flickr_brand_camera_olympus.json in Resources */,
+				765548431C7CA70E00942363 /* flickr_brand_camera_nintendo.json in Resources */,
+				765548401C7CA70E00942363 /* flickr_brand_camera_minolta.json in Resources */,
+				7655483C1C7CA70E00942363 /* flickr_brand_camera_kyocera.json in Resources */,
 				7623B8AB1C67D7900090E6C8 /* LaunchScreen.storyboard in Resources */,
+				765548321C7CA70E00942363 /* flickr_brand_camera_epson.json in Resources */,
+				765548391C7CA70E00942363 /* flickr_brand_camera_jvc.json in Resources */,
+				7655483E1C7CA70E00942363 /* flickr_brand_camera_leica.json in Resources */,
+				7655482D1C7CA70E00942363 /* flickr_brand_camera_blackberry.json in Resources */,
+				765548371C7CA70E00942363 /* flickr_brand_camera_hp.json in Resources */,
+				765548331C7CA70E00942363 /* flickr_brand_camera_fujifilm.json in Resources */,
+				7655482C1C7CA70E00942363 /* flickr_brand_camera_benq.json in Resources */,
+				7655482E1C7CA70E00942363 /* flickr_brand_camera_canon.json in Resources */,
+				7655482F1C7CA70E00942363 /* flickr_brand_camera_casio.json in Resources */,
+				765548461C7CA70E00942363 /* flickr_brand_camera_palm.json in Resources */,
+				765548411C7CA70E00942363 /* flickr_brand_camera_motorola.json in Resources */,
 				7623B8A81C67D7900090E6C8 /* Assets.xcassets in Resources */,
+				765548301C7CA70E00942363 /* flickr_brand_camera_concord.json in Resources */,
+				765548051C7BA75E00942363 /* flickr_brands.json in Resources */,
+				7655483B1C7CA70E00942363 /* flickr_brand_camera_kodak.json in Resources */,
+				765548341C7CA70E00942363 /* flickr_brand_camera_google.json in Resources */,
+				7655483D1C7CA70E00942363 /* flickr_brand_camera_leaf.json in Resources */,
+				7655483F1C7CA70E00942363 /* flickr_brand_camera_lg.json in Resources */,
+				7655483A1C7CA70E00942363 /* flickr_brand_camera_kddi.json in Resources */,
+				765548421C7CA70E00942363 /* flickr_brand_camera_nikon.json in Resources */,
+				765548311C7CA70E00942363 /* flickr_brand_camera_docomo.json in Resources */,
+				7655482B1C7CA70E00942363 /* flickr_brand_camera_apple.json in Resources */,
 				7623B8A61C67D7900090E6C8 /* Main.storyboard in Resources */,
+				765548361C7CA70E00942363 /* flickr_brand_camera_helio.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -239,6 +429,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				765548061C7BA76500942363 /* flickr_brands.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,8 +447,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7623B8A31C67D7900090E6C8 /* ViewController.swift in Sources */,
+				76D19B961C81F0030065424A /* SwiftSpinner.swift in Sources */,
+				76D19B981C81F1130065424A /* CameraDisplayTableViewController.swift in Sources */,
+				76D19B9A1C81F1D20065424A /* GenericViewController.swift in Sources */,
+				7623B8A31C67D7900090E6C8 /* BrandDisplayViewController.swift in Sources */,
+				765548481C7CA7C700942363 /* FlickrCamera.swift in Sources */,
 				7623B8A11C67D7900090E6C8 /* AppDelegate.swift in Sources */,
+				76D19B9C1C8210BB0065424A /* CameraDetailsViewController.swift in Sources */,
+				7655480B1C7BA7B400942363 /* FlickrBrand.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -265,7 +462,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7623B8B61C67D7900090E6C8 /* FastlaneDemoTests.swift in Sources */,
+				76AB60F11C7FEA9C009BC4CA /* FlickrBrand.swift in Sources */,
+				76AB60F41C809B84009BC4CA /* FlickrCameraTests.swift in Sources */,
+				76AB60F21C7FEAB9009BC4CA /* FlickrCamera.swift in Sources */,
+				76AB60F01C7FEA86009BC4CA /* FlickrBrandTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -421,10 +621,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = FastlaneDemoTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.sushiGrass.FastlaneDemoTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "FastlaneDemoTests-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FastlaneDemo.app/FastlaneDemo";
 			};
 			name = Debug;
@@ -433,10 +636,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = FastlaneDemoTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.sushiGrass.FastlaneDemoTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "FastlaneDemoTests-Bridging-Header.h";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FastlaneDemo.app/FastlaneDemo";
 			};
 			name = Release;
@@ -484,6 +689,7 @@
 				7623B8C71C67D7900090E6C8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7623B8C81C67D7900090E6C8 /* Build configuration list for PBXNativeTarget "FastlaneDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +698,7 @@
 				7623B8CA1C67D7900090E6C8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7623B8CB1C67D7900090E6C8 /* Build configuration list for PBXNativeTarget "FastlaneDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +707,7 @@
 				7623B8CD1C67D7900090E6C8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

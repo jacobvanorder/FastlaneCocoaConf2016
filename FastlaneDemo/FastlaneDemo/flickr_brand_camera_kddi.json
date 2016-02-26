@@ -1,0 +1,236 @@
+{
+  "cameras": {
+    "brand": "kddi",
+    "camera": [
+      {
+        "id": "w41ca",
+        "name": {
+          "_content": "KDDI W41CA"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2105/cameras/1040_model_small_dc8f601f9a.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2105/cameras/1040_model_large_1fd8ee4fe5.jpg"
+          }
+        }
+      },
+      {
+        "id": "w54t",
+        "name": {
+          "_content": "KDDI W54T"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2140/cameras/72157601175417100_model_small_9e56593006.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2140/cameras/72157601175417100_model_large_a2d8765a7a.jpg"
+          }
+        }
+      },
+      {
+        "id": "w31sa",
+        "name": {
+          "_content": "KDDI W31SA"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2033/cameras/149_model_small_f30dd407e9.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2033/cameras/149_model_large_27ca9267a5.jpg"
+          }
+        }
+      },
+      {
+        "id": "w21sa",
+        "name": {
+          "_content": "KDDI W21SA"
+        }
+      },
+      {
+        "id": "w53ca",
+        "name": {
+          "_content": "KDDI W53CA"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2166/cameras/72157601392648514_model_small_e4a299738c.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2166/cameras/72157601392648514_model_large_b0f046f3e1.jpg"
+          }
+        }
+      },
+      {
+        "id": "w51ca",
+        "name": {
+          "_content": "KDDI W51CA"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2220/cameras/72157600289360436_model_small_dea7140eaa.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2220/cameras/72157600289360436_model_large_ec1a44fa18.jpg"
+          }
+        }
+      },
+      {
+        "id": "w21s",
+        "name": {
+          "_content": "KDDI W21S"
+        }
+      },
+      {
+        "id": "w51sa",
+        "name": {
+          "_content": "KDDI W51SA"
+        }
+      },
+      {
+        "id": "w43s",
+        "name": {
+          "_content": "KDDI W43S"
+        }
+      },
+      {
+        "id": "w52p",
+        "name": {
+          "_content": "KDDI W52P"
+        }
+      },
+      {
+        "id": "w21ca",
+        "name": {
+          "_content": "KDDI W21CA"
+        }
+      },
+      {
+        "id": "w31s",
+        "name": {
+          "_content": "KDDI W31S"
+        }
+      },
+      {
+        "id": "w51s",
+        "name": {
+          "_content": "KDDI W51S"
+        }
+      },
+      {
+        "id": "w42ca",
+        "name": {
+          "_content": "KDDI W42CA"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2394/cameras/3255_model_small_ebe06c63a1.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2394/cameras/3255_model_large_f39702c56f.jpg"
+          }
+        }
+      },
+      {
+        "id": "w53s",
+        "name": {
+          "_content": "KDDI W53S"
+        }
+      },
+      {
+        "id": "a5404s",
+        "name": {
+          "_content": "KDDI A5404S"
+        }
+      },
+      {
+        "id": "w42t",
+        "name": {
+          "_content": "KDDI W42T"
+        }
+      },
+      {
+        "id": "w43ca",
+        "name": {
+          "_content": "KDDI W43CA"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2323/cameras/3536_model_small_35337ebb1a.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2323/cameras/3536_model_large_2d1bb68ef6.jpg"
+          }
+        }
+      },
+      {
+        "id": "w52k",
+        "name": {
+          "_content": "KDDI W52K"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2284/cameras/72157600291966813_model_small_be6f3ca538.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2284/cameras/72157600291966813_model_large_ee485129ac.jpg"
+          }
+        }
+      },
+      {
+        "id": "w52t",
+        "name": {
+          "_content": "KDDI W52T"
+        },
+        "images": {
+          "small": {
+            "_content": "https://farm3.staticflickr.com/2368/cameras/72157600288604755_model_small_43599b2d69.jpg"
+          },
+          "large": {
+            "_content": "https://farm3.staticflickr.com/2368/cameras/72157600288604755_model_large_f6f717e635.jpg"
+          }
+        }
+      },
+      {
+        "id": "w52sa",
+        "name": {
+          "_content": "KDDI W52SA"
+        }
+      },
+      {
+        "id": "w44s",
+        "name": {
+          "_content": "KDDI W44S"
+        }
+      },
+      {
+        "id": "w42s",
+        "name": {
+          "_content": "KDDI W42S"
+        }
+      },
+      {
+        "id": "a5505sa",
+        "name": {
+          "_content": "KDDI A5505SA"
+        }
+      },
+      {
+        "id": "w31t",
+        "name": {
+          "_content": "KDDI W31T"
+        }
+      },
+      {
+        "id": "a5520sa",
+        "name": {
+          "_content": "KDDI A5520SA"
+        }
+      }
+    ]
+  },
+  "stat": "ok"
+}
