@@ -1,0 +1,15 @@
+/* Class = "UILabel"; text = "Brand Label"; ObjectID = "1Dz-G5-cbz"; */
+"1Dz-G5-cbz.text" = "Etiqueta de marca";
+
+/* Class = "UILabel"; text = "Brand"; ObjectID = "3DG-kU-T8u"; */
+"3DG-kU-T8u.text" = "Marca";
+
+/* Class = "UINavigationItem"; title = "Flickr Brands"; ObjectID = "N4k-gR-w8z"; */
+"N4k-gR-w8z.title" = "Flickr Marca";
+
+/* Class = "UILabel"; text = "Rank"; ObjectID = "ZaC-k7-9hB"; */
+"ZaC-k7-9hB.text" = "Rango";
+
+/* Class = "UILabel"; text = "Name Label"; ObjectID = "kB1-WR-vLd"; */
+"kB1-WR-vLd.text" = "nombre de la etiqueta";
+

@@ -19,7 +19,7 @@ class CameraDisplayTableViewController: GenericViewController, UITableViewDelega
         self.brand = brand
         self.title = self.brand?.name
         if self.brand?.cameras.count == 0 {
-            SwiftSpinner.show("Loading")
+            SwiftSpinner.show(NSLocalizedString("Loading", comment: "The Loading string for cameras fetch"))
             self.brand?.fetchCameras({
                 [weak self]
                 (success, optionalError) -> Void in

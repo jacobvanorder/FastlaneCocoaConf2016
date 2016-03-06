@@ -31,7 +31,7 @@ class BrandDisplayViewController: GenericViewController, UITableViewDelegate, UI
                 guard let checkedSelf = self else { return }
                 
                 guard let newBrandArray = optionalBrandArray else {
-                    checkedSelf.showError("There was a problem!", optionalError: optionalError)
+                    checkedSelf.showError(NSLocalizedString("There was a problem fetching brands.", comment: "The error message when a problem is encountered fetching brands."), optionalError: optionalError)
                     return
                 }
                 
@@ -40,7 +40,7 @@ class BrandDisplayViewController: GenericViewController, UITableViewDelegate, UI
                 SwiftSpinner.hide()
                 })
             
-            SwiftSpinner.show("Loading")
+            SwiftSpinner.show(NSLocalizedString("Loading", comment: "The Loading string for brands fetch"))
         }
     }
     

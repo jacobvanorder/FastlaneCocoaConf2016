@@ -23,11 +23,11 @@ class GenericViewController: UIViewController {
                 message = optionalError!.description
             }
             else {
-                message = "There was an issue."
+                message = NSLocalizedString("There was an error", comment: "The generic error message.")
             }
             
-            let alertController = UIAlertController(title: "Whoopsie Doodle", message: message, preferredStyle: .Alert)
-            let action = UIAlertAction(title: "Okay!", style: .Cancel, handler: .None)
+            let alertController = UIAlertController(title: NSLocalizedString("Error!", comment: "The error message title."), message: message, preferredStyle: .Alert)
+            let action = UIAlertAction(title: NSLocalizedString("Okay!", comment: "The error message confirmation button title."), style: .Cancel, handler: .None)
             alertController.addAction(action)
             self.presentViewController(alertController, animated: true, completion: nil)
         })

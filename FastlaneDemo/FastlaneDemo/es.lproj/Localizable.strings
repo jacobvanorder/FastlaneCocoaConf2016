@@ -1,0 +1,16 @@
+/* The error message title. */
+"Error!" = "Error!";
+
+/* The Loading string for brands fetch
+   The Loading string for cameras fetch */
+"Loading" = "Trasladar";
+
+/* The error message confirmation button title. */
+"Okay!" = "Bueno!";
+
+/* The error message when a problem is encountered fetching brands. */
+"There was a problem fetching brands." = "Hubo un error al obtener marcas.";
+
+/* The generic error message. */
+"There was an error" = "Hubo un error";
+

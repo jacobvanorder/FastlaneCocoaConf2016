@@ -47,6 +47,10 @@
 		765548451C7CA70E00942363 /* flickr_brand_camera_olympus.json in Resources */ = {isa = PBXBuildFile; fileRef = 765548281C7CA70E00942363 /* flickr_brand_camera_olympus.json */; };
 		765548461C7CA70E00942363 /* flickr_brand_camera_palm.json in Resources */ = {isa = PBXBuildFile; fileRef = 765548291C7CA70E00942363 /* flickr_brand_camera_palm.json */; };
 		765548481C7CA7C700942363 /* FlickrCamera.swift in Sources */ = {isa = PBXBuildFile; fileRef = 765548471C7CA7C700942363 /* FlickrCamera.swift */; };
+		76AB225B1C8C9C83009A9569 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 76AB225D1C8C9C83009A9569 /* InfoPlist.strings */; };
+		76AB22601C8C9C84009A9569 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 76AB22621C8C9C84009A9569 /* InfoPlist.strings */; };
+		76AB22651C8C9C84009A9569 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 76AB22671C8C9C84009A9569 /* InfoPlist.strings */; };
+		76AB226A1C8C9EE4009A9569 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 76AB226C1C8C9EE4009A9569 /* Localizable.strings */; };
 		76AB60F01C7FEA86009BC4CA /* FlickrBrandTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76AB60EF1C7FEA86009BC4CA /* FlickrBrandTests.swift */; };
 		76AB60F11C7FEA9C009BC4CA /* FlickrBrand.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7655480A1C7BA7B400942363 /* FlickrBrand.swift */; };
 		76AB60F21C7FEAB9009BC4CA /* FlickrCamera.swift in Sources */ = {isa = PBXBuildFile; fileRef = 765548471C7CA7C700942363 /* FlickrCamera.swift */; };
@@ -120,6 +124,12 @@
 		765548281C7CA70E00942363 /* flickr_brand_camera_olympus.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = flickr_brand_camera_olympus.json; sourceTree = "<group>"; };
 		765548291C7CA70E00942363 /* flickr_brand_camera_palm.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = flickr_brand_camera_palm.json; sourceTree = "<group>"; };
 		765548471C7CA7C700942363 /* FlickrCamera.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlickrCamera.swift; sourceTree = "<group>"; };
+		76AB22571C8C9A91009A9569 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Main.strings; sourceTree = "<group>"; };
+		76AB22581C8C9A91009A9569 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		76AB225C1C8C9C83009A9569 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		76AB22611C8C9C84009A9569 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		76AB22661C8C9C84009A9569 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		76AB226B1C8C9EE4009A9569 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Localizable.strings; sourceTree = "<group>"; };
 		76AB60EC1C7FE969009BC4CA /* FastlaneDemoTests-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "FastlaneDemoTests-Bridging-Header.h"; sourceTree = SOURCE_ROOT; };
 		76AB60EF1C7FEA86009BC4CA /* FlickrBrandTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlickrBrandTests.swift; sourceTree = "<group>"; };
 		76AB60F31C809B84009BC4CA /* FlickrCameraTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlickrCameraTests.swift; sourceTree = "<group>"; };
@@ -192,6 +202,7 @@
 		7623B8B41C67D7900090E6C8 /* FastlaneDemoTests */ = {
 			isa = PBXGroup;
 			children = (
+				76AB22621C8C9C84009A9569 /* InfoPlist.strings */,
 				76AB60EC1C7FE969009BC4CA /* FastlaneDemoTests-Bridging-Header.h */,
 				76AB60EF1C7FEA86009BC4CA /* FlickrBrandTests.swift */,
 				76AB60F31C809B84009BC4CA /* FlickrCameraTests.swift */,
@@ -203,6 +214,7 @@
 		7623B8BF1C67D7900090E6C8 /* FastlaneDemoUITests */ = {
 			isa = PBXGroup;
 			children = (
+				76AB22671C8C9C84009A9569 /* InfoPlist.strings */,
 				7623B8C01C67D7900090E6C8 /* FastlaneDemoUITests.swift */,
 				7623B8C21C67D7900090E6C8 /* Info.plist */,
 			);
@@ -212,6 +224,8 @@
 		765548031C7A40D200942363 /* supporting files */ = {
 			isa = PBXGroup;
 			children = (
+				76AB225D1C8C9C83009A9569 /* InfoPlist.strings */,
+				76AB226C1C8C9EE4009A9569 /* Localizable.strings */,
 				76D19B951C81F0030065424A /* SwiftSpinner.swift */,
 				7655480C1C7CA6F300942363 /* Cameras */,
 				765548041C7BA75E00942363 /* flickr_brands.json */,
@@ -401,6 +415,7 @@
 				765548321C7CA70E00942363 /* flickr_brand_camera_epson.json in Resources */,
 				765548391C7CA70E00942363 /* flickr_brand_camera_jvc.json in Resources */,
 				7655483E1C7CA70E00942363 /* flickr_brand_camera_leica.json in Resources */,
+				76AB226A1C8C9EE4009A9569 /* Localizable.strings in Resources */,
 				7655482D1C7CA70E00942363 /* flickr_brand_camera_blackberry.json in Resources */,
 				765548371C7CA70E00942363 /* flickr_brand_camera_hp.json in Resources */,
 				765548331C7CA70E00942363 /* flickr_brand_camera_fujifilm.json in Resources */,
@@ -417,6 +432,7 @@
 				7655483D1C7CA70E00942363 /* flickr_brand_camera_leaf.json in Resources */,
 				7655483F1C7CA70E00942363 /* flickr_brand_camera_lg.json in Resources */,
 				7655483A1C7CA70E00942363 /* flickr_brand_camera_kddi.json in Resources */,
+				76AB225B1C8C9C83009A9569 /* InfoPlist.strings in Resources */,
 				765548421C7CA70E00942363 /* flickr_brand_camera_nikon.json in Resources */,
 				765548311C7CA70E00942363 /* flickr_brand_camera_docomo.json in Resources */,
 				7655482B1C7CA70E00942363 /* flickr_brand_camera_apple.json in Resources */,
@@ -430,6 +446,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				765548061C7BA76500942363 /* flickr_brands.json in Resources */,
+				76AB22601C8C9C84009A9569 /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -437,6 +454,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				76AB22651C8C9C84009A9569 /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -497,6 +515,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				7623B8A51C67D7900090E6C8 /* Base */,
+				76AB22571C8C9A91009A9569 /* es */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -505,8 +524,41 @@
 			isa = PBXVariantGroup;
 			children = (
 				7623B8AA1C67D7900090E6C8 /* Base */,
+				76AB22581C8C9A91009A9569 /* es */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		76AB225D1C8C9C83009A9569 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				76AB225C1C8C9C83009A9569 /* es */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		76AB22621C8C9C84009A9569 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				76AB22611C8C9C84009A9569 /* es */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		76AB22671C8C9C84009A9569 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				76AB22661C8C9C84009A9569 /* es */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		76AB226C1C8C9EE4009A9569 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				76AB226B1C8C9EE4009A9569 /* es */,
+			);
+			name = Localizable.strings;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
