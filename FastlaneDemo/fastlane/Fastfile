@@ -3,6 +3,7 @@ fastlane_version "1.66.0"
 default_platform :ios
 
 import "./examples/Lisa_Fastfile"
+import "./examples/Darius_Fastfile"
 
 platform :ios do
   before_all do

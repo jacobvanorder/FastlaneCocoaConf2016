@@ -4,10 +4,14 @@ default_platform :ios
 
 platform :ios do
   before_all do
+	ENV["SLACK_URL"] = "https://hooks.slack.com/services/..."
+  	clear_derived_data
+  	ensure_git_status_clean
   end
 
-  desc "This is a lane."
-  lane :lane do
+  desc "Continuously tests"
+  lane :test do
+  	scan(slack_only_on_failure: true, slack_channel: '#ios')
   end
 
   after_all do |lane|
