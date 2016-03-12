@@ -1,0 +1,18 @@
+fastlane_version "1.66.0"
+
+default_platform :ios
+
+platform :ios do
+  before_all do
+  end
+
+  desc "This is a lane."
+  lane :lane do
+  end
+
+  after_all do |lane|
+  end
+
+  error do |lane, exception|
+  end
+end
