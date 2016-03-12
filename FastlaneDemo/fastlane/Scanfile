@@ -6,8 +6,8 @@
 
 # Remove the # in front of the line to enable the option
 
-# scheme "Example"
+open_report false
 
-# open_report true
+clean true
 
-# clean true
+code_coverage true
