@@ -11,6 +11,16 @@ sudo gem install fastlane
 fastlane ios test_and_push
 ```
 This lane is designed to test and then push to git remote
+### ios build_zip_beta
+```
+fastlane ios build_zip_beta
+```
+build, zip, testflight
+### ios test
+```
+fastlane ios test
+```
+Continuously tests
 
 ----
 
