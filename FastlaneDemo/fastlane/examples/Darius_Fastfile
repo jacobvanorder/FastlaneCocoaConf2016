@@ -14,7 +14,27 @@ platform :ios do
   	scan(slack_only_on_failure: true, slack_channel: '#ios')
   end
 
+  lane :continuously_build do
+  	ci_build_number = ENV['your_ci_build_number']
+  	build_name = "Fastlane_Demo_v.#{get_version_number}_b._#{ci_build_number}"
+
+  	# Make the folder for the artifacts
+  	artifacts_path = '../artifacts/' #Note! This is one directory level up
+  	if !Dir.exist?(artifacts_path) 
+      Dir.mkdir(artifacts_path)
+    end
+
+    # Build
+  	gym(clean: true, 
+      output_directory: './artifacts/', 
+      archive_path: './artifacts/' + build_name, 
+      output_name: build_name)
+  end
+
   after_all do |lane|
+  	if lane == :continuously_build
+  		slack
+  	end
   end
 
   error do |lane, exception|
