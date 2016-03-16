@@ -3,7 +3,10 @@ fastlane_version "1.66.0"
 default_platform :ios
 
 platform :ios do
-  before_all do
+  before_all do |lane, options|
+    if options[:adhoc]
+      sigh(adhoc: true)
+    end
 	ENV["SLACK_URL"] = "https://hooks.slack.com/services/..."
   	clear_derived_data
   	ensure_git_status_clean

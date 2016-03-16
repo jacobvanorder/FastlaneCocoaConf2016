@@ -3,7 +3,10 @@ fastlane_version "1.66.0"
 default_platform :ios
 
 platform :ios do
-  before_all do
+  before_all do |lane, options|
+    if options[:adhoc]
+      sigh(adhoc: true)
+    end
   end
 
   desc "This lane is designed to test and then push to git remote"
