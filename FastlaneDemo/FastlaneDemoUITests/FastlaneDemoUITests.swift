@@ -14,6 +14,7 @@ class FastlaneDemoUITests: XCTestCase {
         super.setUp()
         continueAfterFailure = false
         let app = XCUIApplication()
+        setupSnapshot(app)
         app.launchEnvironment = ["isUITest": "YES"]
         app.launch()
     }
@@ -28,12 +29,18 @@ class FastlaneDemoUITests: XCTestCase {
     }
     
     func testCameraToDetail() {
-        testBrandToCamera()
+        sleep(2)
+        snapshot("Screen1", waitForLoadingIndicator: false)
+        XCUIApplication().tables.staticTexts["Apple"].tap()
+        XCTAssertNotNil(XCUIApplication().tables.staticTexts["iPhone 6s"])
+        sleep(2)
+        snapshot("Screen2", waitForLoadingIndicator: false)
         let app = XCUIApplication()
         app.tables.staticTexts["Apple iPhone 6"].tap()
         XCTAssertNotNil(app.staticTexts["Apple"])
         XCTAssertNotNil(app.staticTexts["Apple iPhone 6"])
-        
+        sleep(2)
+        snapshot("Screen3", waitForLoadingIndicator: false)
     }
     
 }

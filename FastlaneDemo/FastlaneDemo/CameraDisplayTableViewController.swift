@@ -20,6 +20,7 @@ class CameraDisplayTableViewController: GenericViewController, UITableViewDelega
         self.title = self.brand?.name
         if self.brand?.cameras.count == 0 {
             SwiftSpinner.show(NSLocalizedString("Loading", comment: "The Loading string for cameras fetch"))
+            UIApplication.sharedApplication().networkActivityIndicatorVisible = true
             self.brand?.fetchCameras({
                 [weak self]
                 (success, optionalError) -> Void in
@@ -29,6 +30,7 @@ class CameraDisplayTableViewController: GenericViewController, UITableViewDelega
                 if success {
                     checkedSelf.tableView.reloadData()
                     SwiftSpinner.hide()
+                    UIApplication.sharedApplication().networkActivityIndicatorVisible = false
                 }
                 else {
                     checkedSelf.showError(.None, optionalError: optionalError)

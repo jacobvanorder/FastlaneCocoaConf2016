@@ -16,11 +16,21 @@ This lane is designed to test and then push to git remote
 fastlane ios build_zip_beta
 ```
 build, zip, testflight
+### ios snapshot_and_ship
+```
+fastlane ios snapshot_and_ship
+```
+Take screenshots of the app and ship it!
 ### ios test
 ```
 fastlane ios test
 ```
 Continuously tests
+### ios continuously_build
+```
+fastlane ios continuously_build
+```
+
 
 ----
 

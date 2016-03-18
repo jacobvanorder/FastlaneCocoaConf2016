@@ -13,7 +13,8 @@ class GenericViewController: UIViewController {
     internal func showError(optionalMessage: String?, optionalError: NSError?) {
         NSOperationQueue.mainQueue().addOperationWithBlock({
             SwiftSpinner.hide()
-            
+            UIApplication.sharedApplication().networkActivityIndicatorVisible = false
+
             let message: String
             
             if optionalMessage != .None {

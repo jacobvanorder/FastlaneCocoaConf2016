@@ -59,6 +59,7 @@
 		76D19B981C81F1130065424A /* CameraDisplayTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76D19B971C81F1130065424A /* CameraDisplayTableViewController.swift */; };
 		76D19B9A1C81F1D20065424A /* GenericViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76D19B991C81F1D20065424A /* GenericViewController.swift */; };
 		76D19B9C1C8210BB0065424A /* CameraDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76D19B9B1C8210BB0065424A /* CameraDetailsViewController.swift */; };
+		76F653281C98F5F20009C95B /* SnapshotHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76F653271C98F5F20009C95B /* SnapshotHelper.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -137,6 +138,7 @@
 		76D19B971C81F1130065424A /* CameraDisplayTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CameraDisplayTableViewController.swift; sourceTree = "<group>"; };
 		76D19B991C81F1D20065424A /* GenericViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GenericViewController.swift; sourceTree = "<group>"; };
 		76D19B9B1C8210BB0065424A /* CameraDetailsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CameraDetailsViewController.swift; sourceTree = "<group>"; };
+		76F653271C98F5F20009C95B /* SnapshotHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SnapshotHelper.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -214,6 +216,7 @@
 		7623B8BF1C67D7900090E6C8 /* FastlaneDemoUITests */ = {
 			isa = PBXGroup;
 			children = (
+				76F653271C98F5F20009C95B /* SnapshotHelper.swift */,
 				76AB22671C8C9C84009A9569 /* InfoPlist.strings */,
 				7623B8C01C67D7900090E6C8 /* FastlaneDemoUITests.swift */,
 				7623B8C21C67D7900090E6C8 /* Info.plist */,
@@ -492,6 +495,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7623B8C11C67D7900090E6C8 /* FastlaneDemoUITests.swift in Sources */,
+				76F653281C98F5F20009C95B /* SnapshotHelper.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -652,7 +656,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				INFOPLIST_FILE = FastlaneDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.sushiGrass.FastlaneDemo;
@@ -666,7 +670,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				INFOPLIST_FILE = FastlaneDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.sushiGrass.FastlaneDemo;

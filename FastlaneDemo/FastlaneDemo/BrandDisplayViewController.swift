@@ -38,9 +38,11 @@ class BrandDisplayViewController: GenericViewController, UITableViewDelegate, UI
                 checkedSelf.brandArray = newBrandArray
                 checkedSelf.tableView.reloadData()
                 SwiftSpinner.hide()
+                UIApplication.sharedApplication().networkActivityIndicatorVisible = false
                 })
             
             SwiftSpinner.show(NSLocalizedString("Loading", comment: "The Loading string for brands fetch"))
+            UIApplication.sharedApplication().networkActivityIndicatorVisible = true
         }
     }
     

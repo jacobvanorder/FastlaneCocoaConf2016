@@ -28,6 +28,7 @@ class CameraDetailsViewController: GenericViewController {
         brandLabel.text = brand?.name
         nameLabel.text = camera?.name
         
+        UIApplication.sharedApplication().networkActivityIndicatorVisible = true
         guard let largeImageURL = camera?.largeImageURL else { return }
         
         let task = NSURLSession.sharedSession().dataTaskWithURL(largeImageURL) {
@@ -41,6 +42,7 @@ class CameraDetailsViewController: GenericViewController {
                 }
                 
                 self?.imageView.image = image
+                UIApplication.sharedApplication().networkActivityIndicatorVisible = false
             })
         }
         
