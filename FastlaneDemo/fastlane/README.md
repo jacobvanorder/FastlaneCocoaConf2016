@@ -30,7 +30,12 @@ Continuously tests
 ```
 fastlane ios continuously_build
 ```
-
+Continuously build after merge
+### ios ship_it
+```
+fastlane ios ship_it
+```
+Ship the app!
 
 ----
 

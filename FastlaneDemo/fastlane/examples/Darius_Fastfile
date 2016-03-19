@@ -7,7 +7,7 @@ platform :ios do
     if options[:adhoc]
       sigh(adhoc: true)
     end
-	ENV["SLACK_URL"] = "https://hooks.slack.com/services/..."
+    ENV["SLACK_URL"] = "https://hooks.slack.com/services/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"
   	clear_derived_data
   	ensure_git_status_clean
   end
@@ -17,29 +17,53 @@ platform :ios do
   	scan(slack_only_on_failure: true, slack_channel: '#ios')
   end
 
+  desc "Continuously build after merge"
   lane :continuously_build do
   	ci_build_number = ENV['your_ci_build_number']
-  	build_name = "Fastlane_Demo_v.#{get_version_number}_b._#{ci_build_number}"
+  	increment_build_number(build_number: ci_build_number)
+  	build_and_archive
+  end
 
-  	# Make the folder for the artifacts
-  	artifacts_path = '../artifacts/' #Note! This is one directory level up
-  	if !Dir.exist?(artifacts_path) 
-      Dir.mkdir(artifacts_path)
-    end
+  desc "Ship the app!"
+  lane :ship_it do
+  	snapshot(skip_open_summary: true)
+  	#private_lane #parent file
+  	get_last_testflight_build_number_and_increment
+  	#private lane
+  	build_and_archive
+  	deliver(force: true, submit_for_review: true)
 
-    # Build
-  	gym(clean: true, 
-      output_directory: './artifacts/', 
-      archive_path: './artifacts/' + build_name, 
-      output_name: build_name)
+  	add_git_tag(tag:"v.#{get_version_number}")
+  	push_git_tags
   end
 
   after_all do |lane|
   	if lane == :continuously_build
-  		slack
+  		slack(success: true)
+  	elsif lane == :ship_it
+  		slack(message: ":shipit: Shipped Version #{get_version_number}! :shipit:")
   	end
   end
 
   error do |lane, exception|
+  	slack(success: false)
   end
+
+  private_lane :build_and_archive do
+    build_name = "FastlaneDemo_#{get_version_number}_build_#{get_build_number}"
+
+    # Make the folder for the artifacts
+    artifacts_path = '../artifacts/' #Note! This is one directory level up
+    if !Dir.exist?(artifacts_path) 
+      Dir.mkdir(artifacts_path)
+    end
+
+    # Build
+    gym(clean: true,
+    	include_bitcode: false,
+      	output_directory: './artifacts/', 
+      	archive_path: './artifacts/' + build_name, 
+      	output_name: build_name)
+  end
+
 end

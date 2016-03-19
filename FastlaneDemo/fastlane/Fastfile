@@ -7,6 +7,7 @@ import "./examples/Darius_Fastfile"
 
 platform :ios do
   before_all do |lane, options|
+    ENV["SLACK_URL"] = "https://hooks.slack.com/services/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"
     if options[:adhoc]
       sigh(adhoc: true)
     end
@@ -16,10 +17,24 @@ platform :ios do
     if lane == :test_and_push
       push_to_git_remote
     elsif lane == :continuously_build
-      slack
+      slack(success: true)
+    elsif lane == :ship_it
+      slack(message: ":shipit: Shipped Version #{get_version_number}! :shipit:")
     end
   end
 
   error do |lane, exception|
   end
+
+  private_lane :get_last_testflight_build_number_and_increment do 
+    # Get the build number
+    begin
+      build_number = latest_testflight_build_number(version: get_version_number)
+    rescue Exception => e
+      build_number = 0 #Doesn't exist, set to zero
+    end
+    build_number = build_number += 1
+    increment_build_number(build_number: build_number)
+  end
+
 end
