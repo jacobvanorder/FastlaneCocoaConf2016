@@ -27,6 +27,7 @@ platform :ios do
   desc "Ship the app!"
   lane :ship_it do
   	snapshot(skip_open_summary: true)
+  	kill_simulator
   	#private_lane #parent file
   	get_last_testflight_build_number_and_increment
   	#private lane
