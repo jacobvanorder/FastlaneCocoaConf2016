@@ -61,3 +61,4 @@ fastlane/report.xml
 fastlane/screenshots
 fastlane/test_output
 artifacts/*
+./Preview.html
