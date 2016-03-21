@@ -4,9 +4,7 @@ default_platform :ios
 
 platform :ios do
   before_all do |lane, options|
-    if options[:adhoc]
-      sigh(adhoc: true)
-    end
+    sigh
     ENV["SLACK_URL"] = "https://hooks.slack.com/services/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"
   	clear_derived_data
   	ensure_git_status_clean

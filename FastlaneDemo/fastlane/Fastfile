@@ -8,9 +8,7 @@ import "./examples/Darius_Fastfile"
 platform :ios do
   before_all do |lane, options|
     ENV["SLACK_URL"] = "https://hooks.slack.com/services/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"
-    if options[:adhoc]
-      sigh(adhoc: true)
-    end
+    sigh
   end
 
   after_all do |lane|
